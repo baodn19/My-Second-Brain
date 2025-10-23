@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2358083f2654724b",
+        "id": "8f2c4f669f59a569",
         "type": "tabs",
         "children": [
           {
-            "id": "04954231b5d7d88f",
+            "id": "431cb4bc34789c87",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Topics in Software/Computer Vision/Train YOLO 11 Object Detection Model.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Train YOLO 11 Object Detection Model"
             }
           }
         ]
@@ -178,12 +178,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04954231b5d7d88f",
+  "active": "431cb4bc34789c87",
   "lastOpenFiles": [
+    "Excalidraw/Knowledge Tree.excalidraw.md",
+    "Topics in Software/Docker.md",
     "test.md",
     "test.md",
     "Topics in Software/Computer Vision/Train YOLO 11 Object Detection Model.md",
-    "Excalidraw/Knowledge Tree.excalidraw.md",
     "Career/Resume Sample.excalidraw.md",
     "Career/Resume Sample/Adrian - Software.pdf",
     "Career/Resume Sample/Adrian - Research.pdf",
@@ -198,7 +199,6 @@
     "Topics in Software/Computer Vision/Edge Detection Algorithm.md",
     "Topics in Software/Bitwise Operation.md",
     "Career/Docking Robotics.md",
-    "Topics in Software/Docker.md",
     "Images/Electrical Engineering Fig 1.png",
     "Images/Electrical Engineering Fig 2.png",
     "Internship at Vietnam.md",
