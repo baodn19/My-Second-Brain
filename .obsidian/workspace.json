@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8f2c4f669f59a569",
+        "id": "6b331c8da41a31a9",
         "type": "tabs",
         "children": [
           {
-            "id": "431cb4bc34789c87",
+            "id": "0d5981c0c543cced",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics in Software/Computer Vision/Train YOLO 11 Object Detection Model.md",
+                "file": "Research/Writing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Train YOLO 11 Object Detection Model"
+              "title": "Writing"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "writ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,13 +178,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "431cb4bc34789c87",
+  "active": "0d5981c0c543cced",
   "lastOpenFiles": [
-    "Excalidraw/Knowledge Tree.excalidraw.md",
-    "Topics in Software/Docker.md",
-    "test.md",
+    "Topics in Software/ROS 2/Asynchronous Programming.md",
+    "Research/Writing.md",
+    "Undergraduate Research.md",
+    "Research",
+    "Internship at Vietnam.md",
     "test.md",
     "Topics in Software/Computer Vision/Train YOLO 11 Object Detection Model.md",
+    "Excalidraw/Knowledge Tree.excalidraw.md",
+    "Topics in Software/Docker.md",
     "Career/Resume Sample.excalidraw.md",
     "Career/Resume Sample/Adrian - Software.pdf",
     "Career/Resume Sample/Adrian - Research.pdf",
@@ -192,7 +196,6 @@
     "Career/Resume Sample",
     "Images/Acceelerometer Measurements.png",
     "Daily Notes/20-09-2025.md",
-    "Topics in Software/ROS 2/Asynchronous Programming.md",
     "Topics in Software/Algorithms - Concepts.md",
     "Career/Behavioral Interview.md",
     "Topics in Software/C++.md",
@@ -201,7 +204,6 @@
     "Career/Docking Robotics.md",
     "Images/Electrical Engineering Fig 1.png",
     "Images/Electrical Engineering Fig 2.png",
-    "Internship at Vietnam.md",
     "Images/Figure_1.png",
     "Cheatsheet/Electrical Engineering.md",
     "Topics in Software/Computer Vision/Introduction to Computer Vision.excalidraw.md",
@@ -210,13 +212,11 @@
     "Images/Pasted Image 20251017094128_543.png",
     "Images/Pasted Image 20251017094128_523.png",
     "Excalidraw/White board.excalidraw.md",
-    "Undergraduate Research.md",
     "Excalidraw/Where I want to go.excalidraw.md",
     "Topics in Software/Computer Vision",
     "Topics in Software/ROS 2",
     "Career",
     "Cheatsheet",
-    "Daily Notes",
-    "Excalidraw"
+    "Daily Notes"
   ]
 }

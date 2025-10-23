@@ -1,0 +1,12 @@
+- *Grounded in Lit:*
+	- Thorough peer-reviewed literature and preliminary work
+	- Citation: 
+		- 4-page workshop: > 25 references
+		- Full paper: > 50 references
+- *Why:* claims must be supported by references and data
+- *Specific, concise:* 
+	- Plurals: list them w/ citations or examples
+	- Concise: simple word, short sentence, jargon 
+	- **Active** voice 
+- *Flow:*
+	- 
