@@ -9,4 +9,13 @@
 	- Concise: simple word, short sentence, jargon 
 	- **Active** voice 
 - *Flow:*
-	- 
+	- **Introduction** - set the tone:
+		- Introduce problem
+		- Why solve
+		- Others' work
+		- why they not solve
+		- Your goal
+	- **Related Works:** others' work and why I am better, tie back at end of subsection
+	- **Hypothesis:** summarize related works and link to hypotheses
+	- **Methodology:** others can reproduce
+	- **Discussion:** provide some key takeaways
