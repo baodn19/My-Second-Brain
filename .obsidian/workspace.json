@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "80044ec9c782bab7",
+        "id": "8ea23d50a906302c",
         "type": "tabs",
         "children": [
           {
-            "id": "d4ce44a33c8f2aff",
+            "id": "1ea9e2d3efe7cd28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About RAS.md",
+                "file": "Research/Reading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About RAS"
+              "title": "Reading"
             }
           }
         ]
@@ -87,6 +87,7 @@
       {
         "id": "4ad3e60473cc138b",
         "type": "tabs",
+        "dimension": 65.79457364341084,
         "children": [
           {
             "id": "52e2db34bb58c827",
@@ -160,6 +161,23 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "f02af084b323ce3a",
+        "type": "tabs",
+        "dimension": 34.20542635658915,
+        "children": [
+          {
+            "id": "70e076c60a295700",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,11 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4ce44a33c8f2aff",
+  "active": "1ea9e2d3efe7cd28",
   "lastOpenFiles": [
-    "About RAS.md",
-    "IEEE - RAS",
     "Research/Writing.md",
+    "Research/Reading.md",
+    "IEEE - RAS/About RAS.md",
+    "IEEE - RAS",
     "Topics in Software/Computer Vision/Train YOLO 11 Object Detection Model.md",
     "Research",
     "Excalidraw/Knowledge Tree.excalidraw.md",
