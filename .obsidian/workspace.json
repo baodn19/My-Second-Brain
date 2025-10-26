@@ -87,7 +87,7 @@
       {
         "id": "4ad3e60473cc138b",
         "type": "tabs",
-        "dimension": 65.79457364341084,
+        "dimension": 48.36309523809524,
         "children": [
           {
             "id": "52e2db34bb58c827",
@@ -165,7 +165,7 @@
       {
         "id": "f02af084b323ce3a",
         "type": "tabs",
-        "dimension": 34.20542635658915,
+        "dimension": 51.636904761904766,
         "children": [
           {
             "id": "70e076c60a295700",
@@ -193,7 +193,9 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "1ea9e2d3efe7cd28",
