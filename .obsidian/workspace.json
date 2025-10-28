@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "bf42a29d50692be1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3fc267e2ab1fdc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e5304720121774c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/RISS/Lab Research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lab Research"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64bc185a54831a95",
+    "type": "split",
+    "children": [
+      {
+        "id": "b66fcd129d49518a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac8ce86acdf2f6e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4c588ba680118202",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "writ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fb90cb9a40284c2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dfb90dec25674b1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ad3e60473cc138b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52e2db34bb58c827",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "518959746df8c8ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0b1c67890a251f00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6ee57caee94d4b66",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "f8c3ed82110c7da6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "f188774e5dd8bcf3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "6a7bcd48de47e278",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "f8c3ed82110c7da6",
+  "lastOpenFiles": [
+    "Research/RISS",
+    "Research/Reading.md",
+    "Research/RISS/Lab Research.md",
+    "Research/Writing.md",
+    "conflict-files-obsidian-git.md",
+    "IEEE - RAS/About RAS.md",
+    "IEEE - RAS",
+    "Topics in Software/ROS 2/Asynchronous Programming.md",
+    "Undergraduate Research.md",
+    "Research",
+    "Internship at Vietnam.md",
+    "test.md",
+    "Topics in Software/Computer Vision/Train YOLO 11 Object Detection Model.md",
+    "Excalidraw/Knowledge Tree.excalidraw.md",
+    "Topics in Software/Docker.md",
+    "Career/Resume Sample.excalidraw.md",
+    "Career/Resume Sample/Adrian - Software.pdf",
+    "Career/Resume Sample/Adrian - Research.pdf",
+    "Career/Resume Sample/Adrian - Hardware.pdf",
+    "Career/Resume Sample",
+    "Images/Acceelerometer Measurements.png",
+    "Daily Notes/20-09-2025.md",
+    "Topics in Software/Algorithms - Concepts.md",
+    "Career/Behavioral Interview.md",
+    "Topics in Software/C++.md",
+    "Topics in Software/Computer Vision/Edge Detection Algorithm.md",
+    "Topics in Software/Bitwise Operation.md",
+    "Career/Docking Robotics.md",
+    "Images/Electrical Engineering Fig 1.png",
+    "Images/Electrical Engineering Fig 2.png",
+    "Images/Figure_1.png",
+    "Cheatsheet/Electrical Engineering.md",
+    "Topics in Software/Computer Vision/Introduction to Computer Vision.excalidraw.md",
+    "Images/Pasted image 20251018075716.png",
+    "Topics in Software/ROS 2/ROS2.md",
+    "Images/Pasted Image 20251017094128_543.png",
+    "Images/Pasted Image 20251017094128_523.png",
+    "Excalidraw/White board.excalidraw.md",
+    "Excalidraw/Where I want to go.excalidraw.md",
+    "Topics in Software/Computer Vision",
+    "Topics in Software/ROS 2",
+    "Career",
+    "Cheatsheet"
+  ]
+}

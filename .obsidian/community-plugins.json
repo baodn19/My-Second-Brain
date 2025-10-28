@@ -1,12 +1,13 @@
 [
   "obsidian-excalidraw-plugin",
   "obsidian-git",
+  "table-editor-obsidian",
   "calendar",
-  "obsidian-icon-folder",
+  "code-styler",
+  "cmdr",
   "obsidian-file-color",
   "file-explorer-note-count",
-  "code-styler",
-  "omnisearch",
-  "cmdr",
-  "obsidian-importer"
+  "obsidian-icon-folder",
+  "obsidian-importer",
+  "omnisearch"
 ]
