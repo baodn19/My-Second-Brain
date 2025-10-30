@@ -11,4 +11,7 @@
 | [LeCAR](https://lecar-lab.github.io/)                                                                                      | [Guanya Shi](https://www.linkedin.com/in/guanya/)                                  |                                                                                                                                                                                             | /**      |
 | [SHRED LAB](https://shredlabcmu.github.io/)                                                                                | [Melisa Orta Martinez](https://www.linkedin.com/in/melisa-orta-martinez-a5a0007b/) |                                                                                                                                                                                             | /***     |
 | [ZOOM LAB](http://zoomlab.ri.cmu.edu/)                                                                                     | [Zeynep Temel](https://www.linkedin.com/in/zeynep-temel-04a37930/)                 |                                                                                                                                                                                             | /***     |
-# Notable Paper:
+# Notable Paper
+## IAM Lab
+- [(2311.03697) Towards Autonomous Crop Monitoring: Inserting Sensors in Cluttered Environments](https://arxiv.org/abs/2311.03697): [Mark (Moonyoung) Lee](https://www.linkedin.com/in/moonrobotics/)
+- 
