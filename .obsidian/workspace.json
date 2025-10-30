@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dfb90dec25674b1b",
@@ -202,7 +201,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4f8ced246f03cf1b",
+  "active": "f8c3ed82110c7da6",
   "lastOpenFiles": [
     "Research/Writing.md",
     "Research/Reading.md",
