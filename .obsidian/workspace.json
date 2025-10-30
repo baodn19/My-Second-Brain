@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1d6d1fd49ce91096",
+        "id": "8ea23d50a906302c",
         "type": "tabs",
         "children": [
           {
-            "id": "4f8ced246f03cf1b",
+            "id": "1ea9e2d3efe7cd28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/RISS/Lab Research.md",
+                "file": "Research/Letter of Recommendation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab Research"
+              "title": "Letter of Recommendation"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "writ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,6 +87,7 @@
       {
         "id": "4ad3e60473cc138b",
         "type": "tabs",
+        "dimension": 48.36309523809523,
         "children": [
           {
             "id": "52e2db34bb58c827",
@@ -157,9 +158,17 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "f02af084b323ce3a",
+        "type": "tabs",
+        "dimension": 51.63690476190477,
+        "children": [
           {
-            "id": "f188774e5dd8bcf3",
+            "id": "70e076c60a295700",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -167,27 +176,15 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "6a7bcd48de47e278",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -197,27 +194,26 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f8c3ed82110c7da6",
+  "active": "1ea9e2d3efe7cd28",
   "lastOpenFiles": [
-    "Research/Writing.md",
-    "Research/Reading.md",
     "Research/RISS/Lab Research.md",
-    "Research/RISS",
-    "conflict-files-obsidian-git.md",
+    "Research/Letter of Recommendation.md",
     "IEEE - RAS/About RAS.md",
+    "Research/RISS",
+    "Research/Letter of recommendation.md",
+    "Research/Reading.md",
+    "Research/Writing.md",
     "IEEE - RAS",
-    "Topics in Software/ROS 2/Asynchronous Programming.md",
-    "Undergraduate Research.md",
-    "Research",
-    "Internship at Vietnam.md",
-    "test.md",
     "Topics in Software/Computer Vision/Train YOLO 11 Object Detection Model.md",
+    "Research",
     "Excalidraw/Knowledge Tree.excalidraw.md",
     "Topics in Software/Docker.md",
+    "test.md",
+    "test.md",
     "Career/Resume Sample.excalidraw.md",
     "Career/Resume Sample/Adrian - Software.pdf",
     "Career/Resume Sample/Adrian - Research.pdf",
@@ -225,6 +221,7 @@
     "Career/Resume Sample",
     "Images/Acceelerometer Measurements.png",
     "Daily Notes/20-09-2025.md",
+    "Topics in Software/ROS 2/Asynchronous Programming.md",
     "Topics in Software/Algorithms - Concepts.md",
     "Career/Behavioral Interview.md",
     "Topics in Software/C++.md",
@@ -233,6 +230,7 @@
     "Career/Docking Robotics.md",
     "Images/Electrical Engineering Fig 1.png",
     "Images/Electrical Engineering Fig 2.png",
+    "Internship at Vietnam.md",
     "Images/Figure_1.png",
     "Cheatsheet/Electrical Engineering.md",
     "Topics in Software/Computer Vision/Introduction to Computer Vision.excalidraw.md",
@@ -241,7 +239,7 @@
     "Images/Pasted Image 20251017094128_543.png",
     "Images/Pasted Image 20251017094128_523.png",
     "Excalidraw/White board.excalidraw.md",
-    "Excalidraw/Where I want to go.excalidraw.md",
+    "Undergraduate Research.md",
     "Topics in Software/Computer Vision",
     "Topics in Software/ROS 2",
     "Career"
