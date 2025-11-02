@@ -28,3 +28,12 @@
 - *Keep in touch with recommenders:*
 	- After submission, send thank-you note
 	- Update on progress throughout stages & informed if selected or not -> **foster positive relationship**
+
+# Information Packet
+I am applying for the Robotics Institute Summer Scholars (RISS) organized by Carnegie Mellon University, the NSF Distributed Research Experiences for Undergraduates (DREU), and other REUs. Since you have worked with me before, I would be grateful if you can spare some times to write a letter of recommendation for me. I have included some key information about the programs and about myself. Please let me know if you require additional information or if I can meet with you in person to discuss about this matter.
+
+- RISS: A structured “research apprenticeship” and learning community to explore robotics and AI, develop research and scientific communication skills, present and publish work, and bridge into graduate school with targeted post‑summer application support.
+- DREU: Provide close-up exposure to academic research to strengthen preparation and competitiveness for graduate admissions and fellowships, while partnering with initiatives that broaden participation in computing and are supported by the National Science Foundation.
+- Recent activities:
+	- Reality, Autonomy, and Robot Experience (RARE) Lab: I programmed features that allows a four-legged robot (Unitree Go2) to speak and project images through a fog screen system. I am learning how to implement computer vision into the Go2 to recognize specific objects and communicate with people. Also, I helped write different portions of the paper, create flyers and surveys for human study.
+	- IEEE - Robotics and Autonomy (RAS) Society: I envision to make  
