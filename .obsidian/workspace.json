@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Letter of Recommendation.md",
+                "file": "Research/REU for International.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Letter of Recommendation"
+              "title": "REU for International"
             }
           }
         ]
@@ -209,10 +209,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f8c3ed82110c7da6",
+  "active": "fc8f8b91da2e35d9",
   "lastOpenFiles": [
-    "Research/REU for International.md",
     "Research/Letter of Recommendation.md",
+    "Research/REU for International.md",
     "Research/RISS/Lab Research.md",
     "Research/RISS/Statement of Purpose.md",
     "IEEE - RAS/About RAS.md",
