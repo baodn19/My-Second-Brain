@@ -36,10 +36,11 @@
 	2. Each application is reviewed by 3 ARC members
 	3. Faculty have final decision who to work with: select clear understanding of group; clear alignment of how I can contribute
 - *Criteria:*
-	- 30%: concrete research experience, contribution, learn, skills; future plan for grad school
-	- 20%: quantitative metrics; what course, how perform; LOR speak to this
-	- 20% Leadership: leadership roles; **initiative** to improve community; how work through challenges
-	- 10% quality: attention to details with different aspects
+	- 30% *Research Potential*: concrete research experience, contribution, learn, skills; future plan for grad school
+	- 20% *Academic Potential*: quantitative metrics; what course, how perform; LOR speak to this
+	- 20% *Leadership & Personal Attributes*: leadership roles; **initiative** to improve community; how work through challenges
+	- 20% *LOR*
+	- 10% *Application Quality*: attention to details with different aspects
 - *Faculty Mentor:* describe and **why you want to work with them**
 	1. mit.edu/msrp go live next week; pick from the list; added faculty mentor daily; list faculties that aren't on the list
 	2. 3 faculty mentors
