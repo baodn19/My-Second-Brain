@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a3d98ca393cef0ed",
+        "id": "ee808606f00a0a07",
         "type": "tabs",
         "children": [
           {
-            "id": "4127c5b7cf415267",
+            "id": "fab50375e69e00fe",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/White board.excalidraw.md"
+                "file": "Research/REU for International.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "White board.excalidraw"
-            }
-          },
-          {
-            "id": "abda8e9d9fdebcd2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Project Board.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Project Board.excalidraw"
+              "icon": "lucide-file",
+              "title": "REU for International"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "writ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dfb90dec25674b1b",
@@ -99,7 +87,6 @@
       {
         "id": "4ad3e60473cc138b",
         "type": "tabs",
-        "dimension": 48.36309523809523,
         "children": [
           {
             "id": "52e2db34bb58c827",
@@ -125,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Project Board.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Project Board.excalidraw"
+              "title": "Outgoing links"
             }
           },
           {
@@ -173,7 +159,17 @@
             }
           },
           {
-            "id": "c19e81b5be054cb5",
+            "id": "f188774e5dd8bcf3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "6a7bcd48de47e278",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -184,27 +180,10 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "f02af084b323ce3a",
-        "type": "tabs",
-        "dimension": 51.63690476190477,
-        "children": [
-          {
-            "id": "70e076c60a295700",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,32 +197,32 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "abda8e9d9fdebcd2",
+  "active": "fab50375e69e00fe",
   "lastOpenFiles": [
-    "Excalidraw/White board.excalidraw.md",
-    "Excalidraw/Project Board.excalidraw.md",
-    "Research/REU for International.md",
     "Research/Research Pathway.excalidraw.md",
+    "Excalidraw/Project Board.excalidraw.md",
     "Research/Research Questions.md",
-    "Research/Letter of Recommendation.md",
+    "Research/REU for International.md",
     "Research/RISS/Lab Research.md",
-    "Research/RISS/Statement of Purpose.md",
-    "IEEE - RAS/About RAS.md",
-    "Research/RISS",
-    "Research/Letter of recommendation.md",
-    "Research/Reading.md",
+    "Research/Letter of Recommendation.md",
     "Research/Writing.md",
+    "Research/Reading.md",
+    "Research/RISS",
+    "conflict-files-obsidian-git.md",
+    "IEEE - RAS/About RAS.md",
     "IEEE - RAS",
-    "Topics in Software/Computer Vision/Train YOLO 11 Object Detection Model.md",
+    "Topics in Software/ROS 2/Asynchronous Programming.md",
+    "Undergraduate Research.md",
     "Research",
+    "Internship at Vietnam.md",
+    "test.md",
+    "Topics in Software/Computer Vision/Train YOLO 11 Object Detection Model.md",
     "Excalidraw/Knowledge Tree.excalidraw.md",
     "Topics in Software/Docker.md",
-    "test.md",
-    "test.md",
     "Career/Resume Sample.excalidraw.md",
     "Career/Resume Sample/Adrian - Software.pdf",
     "Career/Resume Sample/Adrian - Research.pdf",
@@ -251,7 +230,6 @@
     "Career/Resume Sample",
     "Images/Acceelerometer Measurements.png",
     "Daily Notes/20-09-2025.md",
-    "Topics in Software/ROS 2/Asynchronous Programming.md",
     "Topics in Software/Algorithms - Concepts.md",
     "Career/Behavioral Interview.md",
     "Topics in Software/C++.md",
@@ -261,6 +239,7 @@
     "Images/Electrical Engineering Fig 1.png",
     "Images/Electrical Engineering Fig 2.png",
     "Images/Figure_1.png",
+    "Cheatsheet/Electrical Engineering.md",
     "Images/Pasted image 20251018075716.png",
     "Images/Pasted Image 20251017094128_543.png",
     "Images/Pasted Image 20251017094128_523.png",
