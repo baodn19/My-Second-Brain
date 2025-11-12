@@ -79,7 +79,7 @@
 	- Forget bigger picture: think **broadly (what to do 5-10 years)**; why is MSRP important to reaching your goal
 - Present their work to **MIT faculties & staffs**
 
-# RISS:
+# RISS
 - RISS is different from other REU: more apprenticeship; immerse and continue to collab with host lab remotely
 - Conferences explore to apply
 - Mission: introduce to research community & engage through said community
@@ -131,3 +131,9 @@
 - No **ML and DL** at RISS
 - Don't talk about lego or star wars; I want to learn CMU since I was 5
 	- What is it like to work with you
+
+# DREU
+## Overview
+- *Mission:* 
+	- Early research experience for UG
+	- Support interest in grad school & careers in computing research, education

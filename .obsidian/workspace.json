@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dfb90dec25674b1b",
@@ -201,7 +202,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fab50375e69e00fe",
+  "active": "f8c3ed82110c7da6",
   "lastOpenFiles": [
     "Research/Research Pathway.excalidraw.md",
     "Excalidraw/Project Board.excalidraw.md",
