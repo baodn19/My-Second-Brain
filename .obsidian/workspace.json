@@ -18,21 +18,8 @@
               "icon": "excalidraw-icon",
               "title": "White board.excalidraw"
             }
-          },
-          {
-            "id": "abda8e9d9fdebcd2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Project Board.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Project Board.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,7 +209,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "abda8e9d9fdebcd2",
+  "active": "4127c5b7cf415267",
   "lastOpenFiles": [
     "Excalidraw/White board.excalidraw.md",
     "Excalidraw/Project Board.excalidraw.md",
