@@ -11,15 +11,32 @@
             "id": "4127c5b7cf415267",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/White board.excalidraw.md"
+                "file": "Research/REU for International.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "White board.excalidraw"
+              "icon": "lucide-file",
+              "title": "REU for International"
+            }
+          },
+          {
+            "id": "c22bde8deaafeb03",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Research/REU for International.md",
+                "bFile": "Research/REU for International.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: REU for International"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dfb90dec25674b1b",
@@ -209,11 +225,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4127c5b7cf415267",
+  "active": "c22bde8deaafeb03",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Research/REU for International.md",
     "Excalidraw/White board.excalidraw.md",
     "Excalidraw/Project Board.excalidraw.md",
-    "Research/REU for International.md",
     "Research/Research Pathway.excalidraw.md",
     "Research/Research Questions.md",
     "Research/Letter of Recommendation.md",
@@ -244,7 +261,6 @@
     "Topics in Software/C++.md",
     "Topics in Software/Computer Vision/Edge Detection Algorithm.md",
     "Topics in Software/Bitwise Operation.md",
-    "Career/Docking Robotics.md",
     "Images/Electrical Engineering Fig 1.png",
     "Images/Electrical Engineering Fig 2.png",
     "Images/Figure_1.png",
