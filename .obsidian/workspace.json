@@ -4,39 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a3d98ca393cef0ed",
+        "id": "c94a2d9c50dc53c8",
         "type": "tabs",
         "children": [
           {
-            "id": "4127c5b7cf415267",
+            "id": "e2c6546e68f362bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Research/REU for International.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Project Board.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "REU for International"
-            }
-          },
-          {
-            "id": "c22bde8deaafeb03",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Research/REU for International.md",
-                "bFile": "Research/REU for International.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: REU for International"
+              "icon": "excalidraw-icon",
+              "title": "Project Board.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dfb90dec25674b1b",
@@ -225,12 +209,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c22bde8deaafeb03",
+  "active": "e2c6546e68f362bf",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Research/REU for International.md",
     "Excalidraw/White board.excalidraw.md",
     "Excalidraw/Project Board.excalidraw.md",
+    "Research/REU for International.md",
+    "conflict-files-obsidian-git.md",
     "Research/Research Pathway.excalidraw.md",
     "Research/Research Questions.md",
     "Research/Letter of Recommendation.md",
