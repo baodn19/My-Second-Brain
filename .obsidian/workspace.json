@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d869d77d639b18fb",
+        "id": "7ee689236d959834",
         "type": "tabs",
         "children": [
           {
-            "id": "999a611852ff78c4",
+            "id": "7bece74f071ce176",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "Research/Letter of Recommendation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "icon": "lucide-file",
+              "title": "Letter of Recommendation"
             }
           }
         ]
@@ -191,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "999a611852ff78c4",
+  "active": "7bece74f071ce176",
   "lastOpenFiles": [
     "Excalidraw/Project Board.excalidraw.md",
     "Excalidraw/Knowledge Tree.excalidraw.md",
