@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7ee689236d959834",
+        "id": "14613beb9342e7fd",
         "type": "tabs",
         "children": [
           {
-            "id": "7bece74f071ce176",
+            "id": "627a38dfab3d25e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Letter of Recommendation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Letter of Recommendation"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "writ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,6 +83,7 @@
       {
         "id": "4ad3e60473cc138b",
         "type": "tabs",
+        "dimension": 48.36309523809523,
         "children": [
           {
             "id": "52e2db34bb58c827",
@@ -112,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Project Board.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Project Board.excalidraw"
             }
           },
           {
@@ -159,7 +157,25 @@
             }
           },
           {
-            "id": "d345c6bf6c93c6c5",
+            "id": "c19e81b5be054cb5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "f02af084b323ce3a",
+        "type": "tabs",
+        "dimension": 51.63690476190477,
+        "children": [
+          {
+            "id": "70e076c60a295700",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -168,18 +184,15 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-importer:Open Importer": false,
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -188,33 +201,35 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7bece74f071ce176",
+  "active": "627a38dfab3d25e5",
   "lastOpenFiles": [
     "Excalidraw/Project Board.excalidraw.md",
-    "Excalidraw/Knowledge Tree.excalidraw.md",
-    "Excalidraw/White board.excalidraw.md",
     "Excalidraw/Where I want to go.excalidraw.md",
-    "conflict-files-obsidian-git.md",
-    "Research/Research Questions.md",
-    "Research/Research Pathway.excalidraw.md",
-    "Research/REU for International.md",
-    "Topics in Software/Computer Vision/Train YOLO 11 Object Detection Model.md",
-    "Research/Reading.md",
-    "Research/RISS/Lab Research.md",
-    "Research/RISS",
     "Research/Letter of Recommendation.md",
+    "Excalidraw/White board.excalidraw.md",
+    "Research/REU for International.md",
+    "conflict-files-obsidian-git.md",
+    "Research/Research Pathway.excalidraw.md",
+    "Research/Research Questions.md",
+    "Research/RISS/Lab Research.md",
+    "Research/RISS/Statement of Purpose.md",
     "IEEE - RAS/About RAS.md",
-    "IEEE - RAS",
+    "Research/RISS",
+    "Research/Letter of recommendation.md",
+    "Research/Reading.md",
     "Research/Writing.md",
-    "Topics in Software/ROS 2/Asynchronous Programming.md",
-    "Undergraduate Research.md",
+    "IEEE - RAS",
+    "Topics in Software/Computer Vision/Train YOLO 11 Object Detection Model.md",
     "Research",
-    "Internship at Vietnam.md",
-    "test.md",
+    "Excalidraw/Knowledge Tree.excalidraw.md",
     "Topics in Software/Docker.md",
+    "test.md",
+    "test.md",
     "Career/Resume Sample.excalidraw.md",
     "Career/Resume Sample/Adrian - Software.pdf",
     "Career/Resume Sample/Adrian - Research.pdf",
@@ -222,11 +237,11 @@
     "Career/Resume Sample",
     "Images/Acceelerometer Measurements.png",
     "Daily Notes/20-09-2025.md",
+    "Topics in Software/ROS 2/Asynchronous Programming.md",
     "Topics in Software/Algorithms - Concepts.md",
     "Career/Behavioral Interview.md",
     "Topics in Software/C++.md",
     "Topics in Software/Computer Vision/Edge Detection Algorithm.md",
-    "Topics in Software/Bitwise Operation.md",
     "Images/Electrical Engineering Fig 1.png",
     "Images/Electrical Engineering Fig 2.png",
     "Images/Figure_1.png",

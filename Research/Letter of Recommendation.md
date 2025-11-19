@@ -2,7 +2,7 @@
 - [Asking for Letters of Recommendation | Academic Advising](https://advising.stanford.edu/current-students/advising-student-handbook/letters-recommendation)
 - [Connecting with Faculty | Academic Advising](https://advising.stanford.edu/current-students/advising-student-handbook/connecting-faculty)
 
-# Building Relationship: test
+# Building Relationship:
 - *Office Hours:* talk about shared interest; once a quarter; suggesting a catch-up
 - *Reaching out to professor:*
 	- Ask **academic advisor** for insider info
