@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4b27ed8ab15f795a",
+        "id": "d869d77d639b18fb",
         "type": "tabs",
         "children": [
           {
-            "id": "143775d7a0f549a7",
+            "id": "999a611852ff78c4",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: .gitignore"
             }
           }
         ]
@@ -191,11 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "143775d7a0f549a7",
+  "active": "999a611852ff78c4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Excalidraw/Project Board.excalidraw.md",
+    "Excalidraw/Knowledge Tree.excalidraw.md",
+    "Excalidraw/White board.excalidraw.md",
     "Excalidraw/Where I want to go.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "Research/Research Questions.md",
     "Research/Research Pathway.excalidraw.md",
     "Research/REU for International.md",
@@ -212,7 +214,6 @@
     "Research",
     "Internship at Vietnam.md",
     "test.md",
-    "Excalidraw/Knowledge Tree.excalidraw.md",
     "Topics in Software/Docker.md",
     "Career/Resume Sample.excalidraw.md",
     "Career/Resume Sample/Adrian - Software.pdf",
@@ -226,7 +227,6 @@
     "Topics in Software/C++.md",
     "Topics in Software/Computer Vision/Edge Detection Algorithm.md",
     "Topics in Software/Bitwise Operation.md",
-    "Career/Docking Robotics.md",
     "Images/Electrical Engineering Fig 1.png",
     "Images/Electrical Engineering Fig 2.png",
     "Images/Figure_1.png",
