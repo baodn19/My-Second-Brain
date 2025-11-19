@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "deb8e0ae2a385a9e",
+        "id": "4b27ed8ab15f795a",
         "type": "tabs",
         "children": [
           {
-            "id": "b7957d84adc231c5",
+            "id": "143775d7a0f549a7",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -191,9 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7957d84adc231c5",
+  "active": "143775d7a0f549a7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Excalidraw/Project Board.excalidraw.md",
+    "Excalidraw/Where I want to go.excalidraw.md",
     "Research/Research Questions.md",
     "Research/Research Pathway.excalidraw.md",
     "Research/REU for International.md",
@@ -228,8 +230,6 @@
     "Images/Electrical Engineering Fig 1.png",
     "Images/Electrical Engineering Fig 2.png",
     "Images/Figure_1.png",
-    "Cheatsheet/Electrical Engineering.md",
-    "Topics in Software/Computer Vision/Introduction to Computer Vision.excalidraw.md",
     "Images/Pasted image 20251018075716.png",
     "Images/Pasted Image 20251017094128_543.png",
     "Images/Pasted Image 20251017094128_523.png",
