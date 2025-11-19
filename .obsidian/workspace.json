@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b0b89158619c9b27",
+        "id": "deb8e0ae2a385a9e",
         "type": "tabs",
         "children": [
           {
-            "id": "8eff4a515d4967a5",
+            "id": "b7957d84adc231c5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "split-diff-view",
               "state": {
-                "file": "Excalidraw/Project Board.excalidraw.md"
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "excalidraw-icon",
-              "title": "Project Board.excalidraw"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -189,12 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8eff4a515d4967a5",
+  "active": "b7957d84adc231c5",
   "lastOpenFiles": [
+    "Excalidraw/Project Board.excalidraw.md",
     "Research/Research Questions.md",
     "Research/Research Pathway.excalidraw.md",
     "Research/REU for International.md",
-    "Excalidraw/Project Board.excalidraw.md",
     "Topics in Software/Computer Vision/Train YOLO 11 Object Detection Model.md",
     "Research/Reading.md",
     "Research/RISS/Lab Research.md",
