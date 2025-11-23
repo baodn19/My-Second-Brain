@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/White board.excalidraw.md"
+                "file": "Excalidraw/Project Board.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "White board.excalidraw"
+              "title": "Project Board.excalidraw"
             }
           }
         ]
@@ -210,11 +210,11 @@
   },
   "active": "8fb10cb9b00b1218",
   "lastOpenFiles": [
+    "Excalidraw/White board.excalidraw.md",
     "Excalidraw/Project Board.excalidraw.md",
     "Excalidraw/Knowledge Tree.excalidraw.md",
     "Excalidraw/Where I want to go.excalidraw.md",
     "Research/Letter of Recommendation.md",
-    "Excalidraw/White board.excalidraw.md",
     "Research/REU for International.md",
     "conflict-files-obsidian-git.md",
     "Research/Research Pathway.excalidraw.md",
