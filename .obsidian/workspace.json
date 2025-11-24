@@ -11,12 +11,14 @@
             "id": "8fb10cb9b00b1218",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Project Board.excalidraw.md"
+                "file": "Research/Letter of Recommendation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Project Board.excalidraw"
+              "icon": "lucide-file",
+              "title": "Letter of Recommendation"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dfb90dec25674b1b",
@@ -210,8 +213,8 @@
   },
   "active": "8fb10cb9b00b1218",
   "lastOpenFiles": [
-    "Excalidraw/White board.excalidraw.md",
     "Excalidraw/Project Board.excalidraw.md",
+    "Excalidraw/White board.excalidraw.md",
     "Excalidraw/Knowledge Tree.excalidraw.md",
     "Excalidraw/Where I want to go.excalidraw.md",
     "Research/Letter of Recommendation.md",

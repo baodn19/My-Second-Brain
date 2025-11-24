@@ -30,19 +30,36 @@
 	- Update on progress throughout stages & informed if selected or not -> **foster positive relationship**
 
 # Information Packet
-May I request a strong letter of recommendation for summer research programs (the Robotics Institute Summer Scholars (RISS) at Carnegie Mellon University, the NSF Distributed Research Experiences for Undergraduates (DREU), and other REUs), based on your experience working with me in ...
+**Subject:** Request for Letter of Recommendation - Ngoc Bao Dinh (RISS, MSRP, DREU)
+Dear Dr. ..., 
+
+May I request a strong letter of recommendation for summer research programs (the Robotics Institute Summer Scholars (RISS) at Carnegie Mellon University, the NSF Distributed Research Experiences for Undergraduates (DREU), and other REUs), and the MIT Summer Research Program (MSRP) based on your experience working with me in ...
 - RISS:  https://riss.ri.cmu.edu/ (Deadline: January 21, 2026 (3PM EST))
 	- Purpose: A structured “research apprenticeship” and learning community to explore robotics and AI, develop research and scientific communication skills, present and publish work, and bridge into graduate school with targeted post‑summer application support.
-- DREU:  https://cra.org/cra-wp/dreu/ (Deadline: December 1, 2025)
+- DREU:  https://cra.org/cra-wp/dreu/ (Deadline: January 31, 2026)
 	- Purpose: Provide close-up exposure to academic research to strengthen preparation and competitiveness for graduate admissions and fellowships, while partnering with initiatives that broaden participation in computing and are supported by the National Science Foundation.
+- MSRP: https://oge.mit.edu/msrp/ (Deadline: January 20, 2026)
+	- Purpose: To prepare talented students—particularly those from underrepresented or underserved backgrounds—for graduate education (specifically Ph.D. pathways) through a rigorous, faculty-mentored research experience at MIT, while fostering a community of future researchers.
 
 I’ve attached my resume, unofficial transcript, and included information regarding relevant activities to support your letter. If possible, I'd love to meet to discuss my goals and personal projects. Thank you for considering this request and for your mentorship.
 
 - Unofficial Transcript: https://drive.google.com/file/d/1sD9ggyK9fX6HB6l5VmvCgiek3aN-ffy4/view?usp=sharing
 - Resume: https://drive.google.com/file/d/1wyx9F_nPlnL6iCvpTQa1AR82NZv7_Pd2/view?usp=sharing
+- Application writing drafts:
+	- DREU (In progress): https://docs.google.com/document/d/160wgywpj11xdWT5LbqwfeQUxjBWRhfPDluHO3y3vphE/edit?usp=sharing
+	- RISS (In progress): https://docs.google.com/document/d/1-_esrVgCPp4_zCCX054FHtXyq7S2z9dbXyK-AOjvpJo/edit?usp=sharing
+	- MSRP (In progress): https://docs.google.com/document/d/156qqARHNbo_5Pxg0oNyPjIzp5aYc5dBuy9uyfeo0APw/edit?usp=sharing
+- Why am I applying?: My goal is to pursue a Ph.D. in Robotics, specifically focusing on applications in precision agriculture. As a rising junior, I see summer programs like RISS and MSRP as a way to gain insight into many research subfields in Robotics and identify the niche that I want to study on. I can develop connections with faculty and peers outside of USF that can accompany me in my future research endeavors. Being able to participate in full-time research during the summer is a critical step in defining my research niche before graduation.
 - Recent activities:
-	- Reality, Autonomy, and Robot Experience (RARE) Lab: 
-		- Unitree Go2 project: Implemented text‑to‑speech and synchronized visual projection via a fog‑screen demo; now integrating CV to recognize specific objects and trigger context‑aware spoken prompts.
-		- Research contributions: Co‑wrote sections of a draft paper (Methodology section) and supported human‑study materials (flyers/surveys)
-	- IEEE - Robotics and Autonomy (RAS) Society: I envision to make robotics more prominent at USF, and develop an organization at similar scale to IEEE-CS or ACM. I have convinced three friends and a professor to be a part of this endeavor. I am discussing with the president of RoboBulls regarding the prospect of affiliating RoboBulls to IEEE or establish an RAS independent of RoboBulls. The earliest that the RAS can start operating is Spring 2026.
-- Why do I want to apply to these programs?: I want to spend the summer conducting full‑time robotics research. I can fully focus on the research projects and personal projects. I am applying to these programs because they provide me with the opportunities to work closely with faculties and their research. I would learn a lot over the summer and build on them on the following semester. In addition, this program would help cover the financial burden and enable me to expand on my personal projects. I believe that getting accepted to these programs would be a precious learning opportunity for me.
+	- RARE Lab (Undergraduate Researcher): 
+		- Robot Integration: Developing C++ scripts for the Unitree Go2 and FetchIt robots, specifically integrating Computer Vision to recognize objects and trigger context-aware spoken prompts. 
+		- AR Development: Engineered an Augmented Reality system using ROS 2 and MoveIt that projects visuals onto a fog screen for human-robot interaction studies. 
+		- Study Design: Co-designed a "Search & Rescue" test course and prepared IRB protocols (surveys/consent forms) for upcoming user studies.
+	 - IEEE - Robotics and Autonomy (RAS) Society: 
+		 - Mission: democratize access, allow students to explore if robotics are for them, connect with professionals in the field.
+		 - Progress: recruited a faculty advisor and a team of four students including me. Intend to create an interest form to survey the demand for another robotics organization at USF.
+		 - Goal: Operational in Spring 2026.
+	- Independent Engineering Projects: 
+		- 12-DOF Quadruped (WaveGo): Built a self-balancing robot powered by a Raspberry Pi 4. Implemented LiDAR-based SLAM and utilized Nav2 for autonomous path planning and obstacle avoidance. 
+		- DIY Quadcopter: Engineered a custom flight controller, utilizing Kalman filters to reduce sensor noise by 95% and tuning PID controllers to significantly decrease settling time. 
+		- 4-DOF Manipulator: Simulated robot kinematics in MATLAB and implemented YOLO 11 object recognition for real-time tracking and interaction.
