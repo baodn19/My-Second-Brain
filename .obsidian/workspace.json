@@ -25,14 +25,12 @@
             "id": "bc8c01ba2751dc11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Career/Behavioral Interview.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/White board.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Behavioral Interview"
+              "icon": "excalidraw-icon",
+              "title": "White board.excalidraw"
             }
           }
         ],
@@ -227,6 +225,7 @@
   },
   "active": "bc8c01ba2751dc11",
   "lastOpenFiles": [
+    "Career/Behavioral Interview.md",
     "Excalidraw/White board.excalidraw.md",
     "Excalidraw/Where I want to go.excalidraw.md",
     "Excalidraw/Knowledge Tree.excalidraw.md",
@@ -258,7 +257,6 @@
     "Daily Notes/20-09-2025.md",
     "Topics in Software/ROS 2/Asynchronous Programming.md",
     "Topics in Software/Algorithms - Concepts.md",
-    "Career/Behavioral Interview.md",
     "Topics in Software/C++.md",
     "Topics in Software/Computer Vision/Edge Detection Algorithm.md",
     "Images/Electrical Engineering Fig 1.png",
