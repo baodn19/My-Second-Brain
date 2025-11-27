@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dfb90dec25674b1b",
@@ -225,8 +226,8 @@
   },
   "active": "bc8c01ba2751dc11",
   "lastOpenFiles": [
-    "Career/Behavioral Interview.md",
     "Excalidraw/White board.excalidraw.md",
+    "Career/Behavioral Interview.md",
     "Excalidraw/Where I want to go.excalidraw.md",
     "Excalidraw/Knowledge Tree.excalidraw.md",
     "Excalidraw/Project Board.excalidraw.md",
