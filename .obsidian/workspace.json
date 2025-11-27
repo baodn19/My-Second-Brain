@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "14613beb9342e7fd",
+        "id": "b652f097a9245433",
         "type": "tabs",
         "children": [
           {
-            "id": "627a38dfab3d25e5",
+            "id": "038af153dc5f4a50",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Project Board.excalidraw.md"
+                "file": "Projects/Visual Servoing/Udemy - ROS 2 Moveit 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Project Board.excalidraw"
+              "icon": "lucide-file",
+              "title": "Udemy - ROS 2 Moveit 2"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dfb90dec25674b1b",
@@ -209,8 +210,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "627a38dfab3d25e5",
+  "active": "038af153dc5f4a50",
   "lastOpenFiles": [
+    "Projects/Visual Servoing/Udemy - ROS 2 Moveit 2.md",
+    "Projects/Visual Servoing",
+    "Projects",
     "Excalidraw/Project Board.excalidraw.md",
     "Excalidraw/Where I want to go.excalidraw.md",
     "Research/Letter of Recommendation.md",
@@ -244,15 +248,12 @@
     "Topics in Software/Algorithms - Concepts.md",
     "Career/Behavioral Interview.md",
     "Topics in Software/C++.md",
-    "Topics in Software/Computer Vision/Edge Detection Algorithm.md",
     "Images/Electrical Engineering Fig 1.png",
     "Images/Electrical Engineering Fig 2.png",
     "Images/Figure_1.png",
     "Images/Pasted image 20251018075716.png",
     "Images/Pasted Image 20251017094128_543.png",
     "Images/Pasted Image 20251017094128_523.png",
-    "Topics in Software/Computer Vision",
-    "Topics in Software/ROS 2",
-    "Career"
+    "Topics in Software/Computer Vision"
   ]
 }
