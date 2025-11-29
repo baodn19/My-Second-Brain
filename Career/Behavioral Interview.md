@@ -71,7 +71,7 @@
 	- What didn't work well/ work well: expected more behavioral; how I adapt to new concepts, learn on the go
 	- Conflict: should use STAR and CARL
 	- See pros and cons in options
-	- 70 Behavioral + 30 Technical
+	- 70% Behavioral + 30% Technical
 	- How to ask questions & How to learn
 - *Soft skills:* elaborate things better, depth of the action, have an idea of what personality to show
 	- Why company: look for internal info, company specific, conversational based
