@@ -1,3 +1,8 @@
+# Source:
+- [CMU related work/ literature review](https://www.cmu.edu/student-success/other-resources/handouts/comm-supp-pdfs/literature-reviews.pdf)
+- 
+
+# Overview
 - *Grounded in Lit:*
 	- Thorough peer-reviewed literature and preliminary work
 	- Citation: 
@@ -19,3 +24,12 @@
 	- **Hypothesis:** summarize related works and link to hypotheses
 	- **Methodology:** others can reproduce
 	- **Discussion:** provide some key takeaways
+
+# Related Works
+- *Purpose:* connects, synthesizes, and evaluates text/ studies
+	1. Connect your work to the broader field & show your work has grown **organically** from current trends
+	2. Show **familiarity** with major agreements, debates, & critical findings in the field to build credibility
+	3. Illustrate **gap** from this previous research that can be filled by your work
+- *How:*
+	- **Connects** & **groups** relevant research based on common themes; 1 paragraph = 1 specific trend
+	- **Topic sentence** illustrates the connection across studies: common agreement/ disagreement, similar focus, or related limitation
