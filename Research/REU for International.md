@@ -137,3 +137,64 @@
 - *Mission:* 
 	- Early research experience for UG
 	- Support interest in grad school & careers in computing research, education
+
+# REUs webinar w/ Dr. Basu
+- Work towards a final goal: for those who pursue graduate schools (master or PhD)
+	- Reverse engineer to compel the application
+	- Network and professional development
+	- Unique LOR
+	- Trend: LOR outside USF is a boon
+- Commitment outside REU is important: create long-term relationship
+	- Important foundation for grad schools
+- Care about stories, not trauma dump
+	- Why do I want to be a part of REU
+	- Utilize the first 4 years
+	- Create individualized materials
+	- Practical narrative & deeply personal
+- Org should I have prof dev to apply for REU
+- *Mentor:*
+	- Pick multiple because you might not get matched
+	- Addressed in REU statement
+	- Have connection to REU
+	- Write for readers and tune your voice
+	- The mentor's projects are reason to apply for the REU
+	- Start to think of yourself as **a research in the field X**
+		- Think about the necessary skills that **a research in the field X** must have
+	- **What student learn:** what I don't have and have the necessary tools to learn it -> Gap I'm trying to fill in the REU (due to systemic issues) -> Build out from these details 
+- *Return on Investments:* cost 12-14k
+	- Be serious: pushing them to think that they get a good return 
+	- Paying forward with continued commitment
+	- What do you bring to the table and into the REU
+
+## Application
+- *Now*
+	- Your story: define purpose/ mission
+	- Find REU's information & contact professor => 
+	- Pick 10-12 with intention & rank & Work on your CV/ Resume
+- *Until mid-dec:*
+	- focus on projects & mentors
+	- learn why it is interesting
+	- Have bibliography: attach things that I have read; Play the game at your level
+	- Read literature: read papers related to PI 
+- *Until mid-jan:*
+	- Craft statements, finalize recommenders & contact them
+- *CV:* education -> skills -> others
+	- Tag: project, PI, learn what
+- *Statement:*
+	- Have a niche interest in the field
+	- Learn something specific about applicants
+	- Create personal story to the niche field you're working
+	- REU allow encounters complexity of research
+	- Combine with potential mentors
+	- Emphasize **I want to learn something**; show the need to learn something
+	- Address the PI research
+	- Show desire to keep in touch with REU
+	- Put yourself in the middle of the game
+	- Only write about your stuff and **their stuff**
+- *Strong application:*
+	- Plan: limit at USF
+	- Commitment for community: mainly in CV
+
+## Questions
+1. Should I delay graduation if I still haven't gotten a REU in the 2 summers?
+- No reason to delay graduation for an REU if you're already doing research.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Writing.md",
+                "file": "Research/REU for International.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writing"
+              "title": "REU for International"
             }
           }
         ]
@@ -203,6 +203,7 @@
   },
   "active": "2d8cba876c0e26e2",
   "lastOpenFiles": [
+    "Research/Writing.md",
     "Research/Reading.md",
     "Research/Research Pathway.excalidraw.md",
     "Projects/Visual Servoing/Udemy - ROS 2 Moveit 2.md",
@@ -216,7 +217,6 @@
     "Research/Research Questions.md",
     "Research/RISS/Lab Research.md",
     "Research/Letter of Recommendation.md",
-    "Research/Writing.md",
     "Research/RISS",
     "IEEE - RAS",
     "Topics in Software/ROS 2/Asynchronous Programming.md",
