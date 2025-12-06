@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7265ea3470e8d72a",
+        "id": "a20ea1fe81ecee15",
         "type": "tabs",
         "children": [
           {
-            "id": "8fb10cb9b00b1218",
+            "id": "fde93dfe4374ef13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career/Behavioral Interview.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Behavioral Interview"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dfb90dec25674b1b",
@@ -212,16 +209,16 @@
   },
   "active": "f8c3ed82110c7da6",
   "lastOpenFiles": [
+    "Excalidraw/Project Board.excalidraw.md",
+    "Career/Behavioral Interview.md",
     "Research/Action grammar.md",
     "Daily Notes/20-09-2025.md",
     "Excalidraw/White board.excalidraw.md",
     "Projects/Visual Servoing/Udemy - ROS 2 Moveit 2.md",
     "Projects/Visual Servoing",
     "Projects",
-    "Career/Behavioral Interview.md",
     "Excalidraw/Where I want to go.excalidraw.md",
     "Excalidraw/Knowledge Tree.excalidraw.md",
-    "Excalidraw/Project Board.excalidraw.md",
     "Research/Letter of Recommendation.md",
     "Research/REU for International.md",
     "conflict-files-obsidian-git.md",
