@@ -15,3 +15,5 @@
 	- Sustain after I graduate
 	- Connect to other RAS societies outside of USF
 	- Provide technical and professional activities for students
+
+- Robotics REU info session: provide template to ask prof lor

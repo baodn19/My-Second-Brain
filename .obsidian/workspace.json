@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a20ea1fe81ecee15",
+        "id": "907bc43d6ad4cad3",
         "type": "tabs",
         "children": [
           {
-            "id": "fde93dfe4374ef13",
+            "id": "e4d1fafc8f39c9b5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -212,6 +208,8 @@
   },
   "active": "f8c3ed82110c7da6",
   "lastOpenFiles": [
+    "IEEE - RAS/About RAS.md",
+    "Research/REU for International.md",
     "Excalidraw/Project Board.excalidraw.md",
     "Career/Behavioral Interview.md",
     "Research/Action grammar.md",
@@ -223,13 +221,11 @@
     "Excalidraw/Where I want to go.excalidraw.md",
     "Excalidraw/Knowledge Tree.excalidraw.md",
     "Research/Letter of Recommendation.md",
-    "Research/REU for International.md",
     "conflict-files-obsidian-git.md",
     "Research/Research Pathway.excalidraw.md",
     "Research/Research Questions.md",
     "Research/RISS/Lab Research.md",
     "Research/RISS/Statement of Purpose.md",
-    "IEEE - RAS/About RAS.md",
     "Research/RISS",
     "Research/Letter of recommendation.md",
     "Research/Reading.md",
