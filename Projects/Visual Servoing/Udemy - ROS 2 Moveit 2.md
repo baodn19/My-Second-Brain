@@ -10,3 +10,4 @@
 - *xacro:*
 	- *Main file:* {robot}.urdf.xacro
 	- *Header:* {component}.xacro
+- *Launch file:* debug and build urdf in package
