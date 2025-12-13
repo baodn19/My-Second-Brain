@@ -1,5 +1,4 @@
-# Interesting info
-## URDF
+# URDF
 - Create a `<robot>_description` package is industry standard
 - 5 steps process to add link together:
 	1. Create a link
@@ -11,3 +10,9 @@
 	- *Main file:* {robot}.urdf.xacro
 	- *Header:* {component}.xacro
 - *Launch file:* debug and build urdf in package
+
+# MoveIt
+- *Simplify the geometry:* more complex shape means more computation for collision
+	- Cylinder can be simplified as box
+	- Complex mesh (visual tag) -> Approximation with stl file with less details (collision tag)
+	- Precision isn't a problem because we don't want the links to be too close together; provide extra margin of error
