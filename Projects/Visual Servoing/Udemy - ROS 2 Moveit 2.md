@@ -16,3 +16,4 @@
 	- Cylinder can be simplified as box
 	- Complex mesh (visual tag) -> Approximation with stl file with less details (collision tag)
 	- Precision isn't a problem because we don't want the links to be too close together; provide extra margin of error
+- *Cartesian Path:* allow the end effector to travel linearly; if the planning fails -> Add more DOF
