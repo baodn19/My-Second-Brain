@@ -17,3 +17,9 @@
 	- Provide technical and professional activities for students
 
 - Robotics REU info session: provide template to ask prof lor
+- Create competition for student to learn and compete
+- Mentor-Mentee: upperclassmen can create projects where underclassmen can be a part of with a chance to present at the end of the semester (similar to a science fair).
+
+# Timeline:
+- *High interest period:* technical workshop
+- *Low interest period:* informational session, lab & company tours
