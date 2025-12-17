@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dfb90dec25674b1b",
@@ -217,8 +218,9 @@
   },
   "active": "4a23d388bdc76494",
   "lastOpenFiles": [
-    "IEEE - RAS/About RAS.md",
+    "Internship at Vietnam.md",
     "Winter Break Progress Tracker.md",
+    "IEEE - RAS/About RAS.md",
     "Untitled.md",
     "Research/REU for International.md",
     "Excalidraw/White board.excalidraw.md",
@@ -240,7 +242,6 @@
     "Topics in Software/ROS 2/Asynchronous Programming.md",
     "Undergraduate Research.md",
     "Research",
-    "Internship at Vietnam.md",
     "test.md",
     "Topics in Software/Computer Vision/Train YOLO 11 Object Detection Model.md",
     "Excalidraw/Knowledge Tree.excalidraw.md",

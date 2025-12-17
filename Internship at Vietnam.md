@@ -2,5 +2,3 @@
 - [Charoen Pokphand Group](https://www.cpgroupglobal.com/en/home)
 - [Tập Đoàn Lộc Trời – Cùng nông dân phát triển bền vững](https://loctroi.vn/)
 - [HAGL Group](https://hagl.com.vn/)l
-
-Test
