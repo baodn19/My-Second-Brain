@@ -1,16 +1,16 @@
 # Mom
-- [ ] 10x Orange Chocolate
+- [x] 10x Orange Chocolate
 - [ ] 5x Nut Chocolate
-- [ ] 2x Cinnamon granola
-- [ ] 2x Chocolate granola
+- [x] 2x Cinnamon granola
+- [x] 2x Chocolate granola
 - [ ] 1x Whole almonds
 # Xuka
-- [ ] 1x Cinnamon granola
-- [ ] 1x Chocolate granola
-- [ ] 2x Sunscreen spray
-- [ ] 1x Facial sunscreen
-- [ ] 1x Electrical toothbrush
-- [ ] 1x Facial oil
+- [x] 1x Cinnamon granola
+- [x] 1x Chocolate granola
+- [x] 2x Sunscreen spray
+- [x] 1x Facial sunscreen
+- [x] 1x Electrical toothbrush
+- [x] 1x Facial oil
 # Bon
 - [ ] 2x L. Reuteri Plus
 - [ ] 1x Plant protein
