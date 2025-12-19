@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shopping Tracker.md",
+                "file": "IEEE - RAS/Braindump potential events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shopping Tracker"
+              "title": "Braindump potential events"
+            }
+          },
+          {
+            "id": "056c2994bc14d580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IEEE - RAS/Braindump potential events.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Braindump potential events"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,14 +216,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "639160eb8da02118",
+  "active": "056c2994bc14d580",
   "lastOpenFiles": [
-    "Undergraduate Research.md",
+    "IEEE - RAS/About RAS.md",
+    "IEEE - RAS/Braindump potential events.md",
     "Shopping Tracker.md",
+    "Undergraduate Research.md",
     "Winter Break Progress Tracker.md",
     "Internship at Vietnam.md",
     "Projects/Visual Servoing/Visual Servoing - Experience.md",
-    "IEEE - RAS/About RAS.md",
     "Research/REU for International.md",
     "Excalidraw/White board.excalidraw.md",
     "Research/Action grammar.md",
@@ -238,7 +254,6 @@
     "Career/Resume Sample/Adrian - Hardware.pdf",
     "Career/Resume Sample",
     "Images/Acceelerometer Measurements.png",
-    "Daily Notes/20-09-2025.md",
     "Images/Electrical Engineering Fig 1.png",
     "Images/Electrical Engineering Fig 2.png",
     "Images/Figure_1.png",

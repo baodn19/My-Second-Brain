@@ -12,7 +12,7 @@
 - [x] 1x Electrical toothbrush
 - [x] 1x Facial oil
 # Bon
-- [ ] 2x L. Reuteri Plus
+- [ ] 4x L. Reuteri Plus
 - [ ] 1x Plant protein
 - [ ] 1x Creatine
 - [ ] 1x Inulin
