@@ -13,9 +13,9 @@
 - [x] 1x Facial oil
 # Bon
 - [ ] 4x L. Reuteri Plus
-- [ ] 1x Plant protein
-- [ ] 1x Creatine
-- [ ] 1x Collagen
+- [x] 1x Plant protein
+- [x] 1x Creatine
+- [x] 1x Collagen
 - [ ] 1x Inulin
 - [ ] 4x NR6
 # Anh Hoàng
