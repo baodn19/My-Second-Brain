@@ -1,6 +1,6 @@
 # Mom
 - [x] 10x Orange Chocolate
-- [ ] 5x Nut Chocolate
+- [x] 5x Nut Chocolate
 - [x] 2x Cinnamon granola
 - [x] 2x Chocolate granola
 - [ ] 1x Whole almonds
@@ -15,5 +15,8 @@
 - [ ] 4x L. Reuteri Plus
 - [ ] 1x Plant protein
 - [ ] 1x Creatine
+- [ ] 1x Collagen
 - [ ] 1x Inulin
 - [ ] 4x NR6
+# Anh Hoàng
+- [ ] 1x Glutamine

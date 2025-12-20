@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IEEE - RAS/Braindump potential events.md",
+                "file": "Shopping Tracker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Braindump potential events"
+              "title": "Shopping Tracker"
             }
           }
         ],
@@ -218,9 +218,10 @@
   },
   "active": "056c2994bc14d580",
   "lastOpenFiles": [
-    "IEEE - RAS/About RAS.md",
-    "IEEE - RAS/Braindump potential events.md",
+    "Research/Resource for writing.md",
     "Shopping Tracker.md",
+    "IEEE - RAS/Braindump potential events.md",
+    "IEEE - RAS/About RAS.md",
     "Undergraduate Research.md",
     "Winter Break Progress Tracker.md",
     "Internship at Vietnam.md",
@@ -248,7 +249,6 @@
     "Topics in Software/Computer Vision/Train YOLO 11 Object Detection Model.md",
     "Excalidraw/Knowledge Tree.excalidraw.md",
     "Topics in Software/Docker.md",
-    "Career/Resume Sample.excalidraw.md",
     "Career/Resume Sample/Adrian - Software.pdf",
     "Career/Resume Sample/Adrian - Research.pdf",
     "Career/Resume Sample/Adrian - Hardware.pdf",
