@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "28df5f6d296fe2ee",
+        "id": "2a8319a7d2520b38",
         "type": "tabs",
         "children": [
           {
-            "id": "b1bde65cf4b9603a",
+            "id": "4a23d388bdc76494",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Visual Servoing/Visual Servoing - Experience.md",
+                "file": "Shopping Tracker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Visual Servoing - Experience"
+              "title": "Shopping Tracker"
+            }
+          },
+          {
+            "id": "785eccbfd6eb3295",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Winter Break Progress Tracker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Winter Break Progress Tracker"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "writ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,25 +215,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b1bde65cf4b9603a",
+  "active": "4a23d388bdc76494",
   "lastOpenFiles": [
     "Winter Break Progress Tracker.md",
-    "Research/Letter of Recommendation.md",
-    "IEEE - RAS/Braindump potential events.md",
+    "Projects/Visual Servoing/Visual Servoing - Experience.md",
     "Shopping Tracker.md",
     "Research/Research Group.md",
-    "Research/Resource for writing.md",
-    "IEEE - RAS/About RAS.md",
-    "Undergraduate Research.md",
-    "Internship at Vietnam.md",
-    "Projects/Visual Servoing/Visual Servoing - Experience.md",
+    "IEEE - RAS/Braindump potential events.md",
     "Research/REU for International.md",
+    "Projects/Visual Servoing/Udemy - ROS 2 Moveit 2.md",
+    "Internship at Vietnam.md",
+    "IEEE - RAS/About RAS.md",
+    "Untitled.md",
     "Excalidraw/White board.excalidraw.md",
     "Research/Action grammar.md",
     "Research/Writing.md",
     "Research/Reading.md",
     "Research/Research Pathway.excalidraw.md",
-    "Projects/Visual Servoing/Udemy - ROS 2 Moveit 2.md",
     "Projects/Visual Servoing",
     "Projects",
     "Excalidraw/Where I want to go.excalidraw.md",
@@ -227,9 +239,11 @@
     "conflict-files-obsidian-git.md",
     "Research/Research Questions.md",
     "Research/RISS/Lab Research.md",
+    "Research/Letter of Recommendation.md",
     "Research/RISS",
     "IEEE - RAS",
     "Topics in Software/ROS 2/Asynchronous Programming.md",
+    "Undergraduate Research.md",
     "Research",
     "test.md",
     "Topics in Software/Computer Vision/Train YOLO 11 Object Detection Model.md",
