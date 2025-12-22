@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "596c69f5297ad1ce",
+        "id": "154d487204567502",
         "type": "tabs",
         "children": [
           {
-            "id": "639160eb8da02118",
+            "id": "b305dad7bbab86d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "IEEE - RAS/Braindump potential events.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Research/Letter of Recommendation.md",
+                "bFile": "Research/Letter of Recommendation.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Braindump potential events"
-            }
-          },
-          {
-            "id": "056c2994bc14d580",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shopping Tracker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shopping Tracker"
+              "icon": "diff",
+              "title": "Diff: Letter of Recommendation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,12 +201,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "056c2994bc14d580",
+  "active": "b305dad7bbab86d3",
   "lastOpenFiles": [
-    "Research/Research Group.md",
-    "Shopping Tracker.md",
-    "Research/Resource for writing.md",
+    "Research/Letter of Recommendation.md",
     "IEEE - RAS/Braindump potential events.md",
+    "Shopping Tracker.md",
+    "Research/Research Group.md",
+    "Research/Resource for writing.md",
     "IEEE - RAS/About RAS.md",
     "Undergraduate Research.md",
     "Winter Break Progress Tracker.md",
@@ -241,7 +227,6 @@
     "conflict-files-obsidian-git.md",
     "Research/Research Questions.md",
     "Research/RISS/Lab Research.md",
-    "Research/Letter of Recommendation.md",
     "Research/RISS",
     "IEEE - RAS",
     "Topics in Software/ROS 2/Asynchronous Programming.md",
