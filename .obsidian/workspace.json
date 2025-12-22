@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "154d487204567502",
+        "id": "28df5f6d296fe2ee",
         "type": "tabs",
         "children": [
           {
-            "id": "b305dad7bbab86d3",
+            "id": "b1bde65cf4b9603a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Research/Letter of Recommendation.md",
-                "bFile": "Research/Letter of Recommendation.md",
-                "aRef": ""
+                "file": "Projects/Visual Servoing/Visual Servoing - Experience.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Letter of Recommendation"
+              "icon": "lucide-file",
+              "title": "Visual Servoing - Experience"
             }
           }
         ]
@@ -201,8 +201,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b305dad7bbab86d3",
+  "active": "b1bde65cf4b9603a",
   "lastOpenFiles": [
+    "Winter Break Progress Tracker.md",
     "Research/Letter of Recommendation.md",
     "IEEE - RAS/Braindump potential events.md",
     "Shopping Tracker.md",
@@ -210,7 +211,6 @@
     "Research/Resource for writing.md",
     "IEEE - RAS/About RAS.md",
     "Undergraduate Research.md",
-    "Winter Break Progress Tracker.md",
     "Internship at Vietnam.md",
     "Projects/Visual Servoing/Visual Servoing - Experience.md",
     "Research/REU for International.md",
