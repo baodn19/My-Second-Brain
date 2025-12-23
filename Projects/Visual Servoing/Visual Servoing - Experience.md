@@ -11,6 +11,7 @@
 	- *joint_trajectory_controller:* accepts position commands
 
 # Gazebo
+- *Anchoring robot to ground:* create a ground link in urdf and add a fixed joint with base_link
 ## Launch file
 - *Reading URDF XML:* wrapped URDF in `ParameterValue(..., value_type=str)` to prevent ROS from crashing when reading URDF XML as YAML
 - *Read robot mesh files:* Used `SetEnvironmentVariable` to set `GZ_SIM_RESOURCE_PATH` to the `install/share` directory
