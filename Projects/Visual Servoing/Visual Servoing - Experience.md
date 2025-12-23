@@ -17,3 +17,7 @@
 - *Read robot mesh files:* Used `SetEnvironmentVariable` to set `GZ_SIM_RESOURCE_PATH` to the `install/share` directory
 - *Ensure sensor plugin to see camera feed:* Swapped the default `empty.sdf` for a custom `ur5e_world.sdf`
 - *Spawn controllers:* Added nodes to spawn `joint_state_broadcaster` and `joint_trajectory_controller`
+
+# ROS 2:
+- *Have a metapackage:* include all the required dependecies (https://automaticaddison.com/naming-and-organizing-packages-in-large-ros-2-projects/)
+- 
