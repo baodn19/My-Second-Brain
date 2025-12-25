@@ -26,4 +26,4 @@
 - *Use case:* dynamic environments with unexpected obstacles (1)
 - *Mechanisms:* sampling-based motion planning framework; provides various probabilistic algorithms like RRT, PRM, etc (1)
 ## STOMP (Stochastic Trajectory Optimization for Motion Planning)
-- *Mechanisms:* uses random adjustments to improve paths
+- *Mechanisms:* uses random adjustments to improve paths (1)
