@@ -11,12 +11,14 @@
             "id": "fc8516fb954c8434",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md"
+                "file": "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Visual Servoing - Planning.excalidraw"
+              "icon": "lucide-file",
+              "title": "Automatic Addison - MoveIt2 Tutorial"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dfb90dec25674b1b",
@@ -139,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Automatic Addison - MoveIt2 Tutorial"
             }
           },
           {
@@ -202,9 +204,9 @@
   },
   "active": "f8c3ed82110c7da6",
   "lastOpenFiles": [
-    "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
     "Projects/Visual Servoing/Visual Servoing - Experience.md",
     "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md",
+    "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
     "Winter Break Progress Tracker.md",
     "Shopping Tracker.md",
     "Research/Research Group.md",

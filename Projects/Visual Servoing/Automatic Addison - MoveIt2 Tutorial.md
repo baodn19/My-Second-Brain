@@ -16,6 +16,18 @@
 - *Config folder:* allow for overriding defined in URDF file (1)
 	- *URDF:* limit for individual joints
 	- *cartesian_limits:* control speed & motion of gripper
+## MoveIt2 Task Constructor (MTC) 
+### Core concepts:
+- *Task:* big plan, comprises of sequence of **Stages** (4)
+- *Stage:* single step within a Task; a specific action or calculation the robot to perform; produces **SubSolution**, result of a step (4)
+	- *Generator S.:* start of MTC **task**; no input from adjacent stages; results passed to adjacent stage
+	- Ex (GS): **CurrentState** most important GS; takes a snapshot of the current robot (position, joint state, interacting object); **GeneratePose** comes up with possible position for arm & gripper to interact with objects
+	- *Propagator S.:* receives adjacent input -> process input -> Generate output for next stage
+	- Ex (PS): **MoveTo** takes current state & produces new state; **MoveRelative** advances state incrementally; **ModifyPlanningScene** updates planning scene
+	- *Connector S.:* no results, plan movements between 2 different stages or doing the actual moving
+- *Planning Scene:* virtual model of robot's world; define what robot can and cannot do; update as the robot move through its **Tasks** (4)
+- *Containers:* group related stages together and create a hierarchy or structure for complex tasks. (4)
+	- Types: serial, parallel (alternative - dif options, fallback - backup task, merger - many tasks at once), wrapper
 ## C++ project
 ### Set target pose
 - *MoveGroupInterface:* a remote control to send commands to the arm (2)
@@ -58,7 +70,7 @@ if (success) {
 ```
 
 ### Plan around objects
-- *Virtual joints:* describe movement of the whole robot in relation to the worlds environment ;  update planning scene with base movement (2)
+- *Virtual joints:* describe movement of the whole robot in relation to the worlds environment ;  update planning scene with base movement (3)
 	- Describe in **SRDF** file
 	- **Odom:** robots position in the world based on its movement
 	- **Planar joint:** allow robot to move on the plane
