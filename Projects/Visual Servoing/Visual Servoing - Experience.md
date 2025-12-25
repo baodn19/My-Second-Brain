@@ -4,6 +4,9 @@
 	- Use new Gazebo sim `gz`
 	- Attach `camera_link` to `tool0` frame on UR5e
 	- Publish to `camera/image_raw` topic and use `ros_gz_bridge` to map the Gazebo topic `camera/image_raw` to the ROS topic `/camera/image_raw`
+- *Link naming convention:* add robot `${prefix}` before each link
+- *Param for revolute joints:* axis, limit (effot, lower-upper range, velocity), damping
+- *Optional param:* for adding world or gripper for ease of installing and removing
 
 # ros2_control
 - *Necessary controller in yaml:*

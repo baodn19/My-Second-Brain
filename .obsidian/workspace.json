@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1557e99f48245af8",
+        "id": "729644b6c54828d0",
         "type": "tabs",
         "children": [
           {
-            "id": "e22351f052281bbb",
+            "id": "fc8516fb954c8434",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winter Break Progress Tracker.md",
+                "file": "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Winter Break Progress Tracker"
-            }
-          },
-          {
-            "id": "556f1677d30a0225",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Visual Servoing - Planning.excalidraw"
+              "title": "Automatic Addison - MoveIt2 Tutorial"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,10 +201,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "556f1677d30a0225",
+  "active": "fc8516fb954c8434",
   "lastOpenFiles": [
     "Projects/Visual Servoing/Visual Servoing - Experience.md",
     "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md",
+    "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
     "Winter Break Progress Tracker.md",
     "Shopping Tracker.md",
     "Research/Research Group.md",
@@ -246,7 +234,6 @@
     "Undergraduate Research.md",
     "Research",
     "test.md",
-    "Topics in Software/Computer Vision/Train YOLO 11 Object Detection Model.md",
     "Career/Resume Sample/Adrian - Software.pdf",
     "Career/Resume Sample/Adrian - Research.pdf",
     "Career/Resume Sample/Adrian - Hardware.pdf",
