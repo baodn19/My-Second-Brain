@@ -28,6 +28,23 @@
 - *Planning Scene:* virtual model of robot's world; define what robot can and cannot do; update as the robot move through its **Tasks** (4)
 - *Containers:* group related stages together and create a hierarchy or structure for complex tasks. (4)
 	- Types: serial, parallel (alternative - dif options, fallback - backup task, merger - many tasks at once), wrapper
+
+### Alternative Paths
+- *Concepts:* plan path based on
+	1. The shortest path
+	2. The quickest movement
+	3. A path focusing on minimal end-effector (gripper) motion
+	4. A path that minimizes movement of a specific part of the arm (like the elbow)
+- *Use case:* 
+	- Precision Manufacturing: Minimize end-effector motion
+	- Collaborative robotics: minimizing elbow motion, enhancing worker safety
+- *Mechanisms:* bidirectional approach (planning from both start and goal)
+- *File structure:*
+	1. **ROS 2 Initialization**: running callbacks in a separate thread
+	2. **Task Creation and Robot Model Loading:**  creates a Task Constructor task
+	3. **Planning Scene Setup**
+	4. **Initial State Creation**
+	5. **Pipeline Planner Creation:** creates a PipelinePlanner, a planning tool that interfaces with MoveIt’s PlanningPipeline
 ## C++ project
 ### Set target pose
 - *MoveGroupInterface:* a remote control to send commands to the arm (2)

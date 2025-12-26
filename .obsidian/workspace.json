@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Automatic Addison - MoveIt2 Tutorial"
             }
           },
           {
@@ -140,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
+                "file": "Projects/Visual Servoing/Visual Servoing - Experience.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Automatic Addison - MoveIt2 Tutorial"
+              "title": "Outline of Visual Servoing - Experience"
             }
           },
           {
@@ -202,7 +203,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f8c3ed82110c7da6",
+  "active": "fc8516fb954c8434",
   "lastOpenFiles": [
     "Projects/Visual Servoing/Visual Servoing - Experience.md",
     "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md",
