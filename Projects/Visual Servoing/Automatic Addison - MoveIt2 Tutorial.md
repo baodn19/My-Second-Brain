@@ -45,6 +45,10 @@
 	3. **Planning Scene Setup**
 	4. **Initial State Creation**
 	5. **Pipeline Planner Creation:** creates a PipelinePlanner, a planning tool that interfaces with MoveIt’s PlanningPipeline
+### Cartesian Path
+- *Concept:* plan a series of movements for a robotic arm in Cartesian space, including linear motions, rotations, and joint movements
+- *Use Case:* Pick and Place Operations, Assembly Tasks, Welding or Painting
+
 ## C++ project
 ### Set target pose
 - *MoveGroupInterface:* a remote control to send commands to the arm (2)

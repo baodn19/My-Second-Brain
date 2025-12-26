@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
+                "file": "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Automatic Addison - MoveIt2 Tutorial"
+              "title": "Outgoing links from Visual Servoing - Planning.excalidraw"
             }
           },
           {
@@ -205,9 +205,11 @@
   },
   "active": "fc8516fb954c8434",
   "lastOpenFiles": [
-    "Projects/Visual Servoing/Visual Servoing - Experience.md",
+    "Career/Behavioral Interview.md",
+    "Career/Docking Robotics.md",
     "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md",
     "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
+    "Projects/Visual Servoing/Visual Servoing - Experience.md",
     "Winter Break Progress Tracker.md",
     "Shopping Tracker.md",
     "Research/Research Group.md",
@@ -233,9 +235,7 @@
     "Research/RISS",
     "IEEE - RAS",
     "Topics in Software/ROS 2/Asynchronous Programming.md",
-    "Undergraduate Research.md",
     "Research",
-    "test.md",
     "Career/Resume Sample/Adrian - Software.pdf",
     "Career/Resume Sample/Adrian - Research.pdf",
     "Career/Resume Sample/Adrian - Hardware.pdf",
