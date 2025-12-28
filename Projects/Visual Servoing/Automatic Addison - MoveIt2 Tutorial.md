@@ -5,7 +5,6 @@
 	- *Gripper Controller:* end-effector actions (e.g. open and close gripper)
 	- *Diff Drive Controller:* mobile base navigation
 - *Feedback data (position, velocity, force, status):* **Joint State Broadcaster** and **Force Torque State Broadcaster**
-
 # SRDF
 - *Purpose:* add semantic information (1)
 	- Naming groups of joints or links (e.g., “arm”, “gripper”) 
@@ -48,6 +47,15 @@
 ### Cartesian Path
 - *Concept:* plan a series of movements for a robotic arm in Cartesian space, including linear motions, rotations, and joint movements
 - *Use Case:* Pick and Place Operations, Assembly Tasks, Welding or Painting
+
+### Fallback Strategies
+- *Approach:*
+	1. Set a target pose
+	2. Use **Alternative container** to set different initial states
+	3. Use **Fallback container** for different planners
+	4. Use *first success* approach
+- *Use case:* Pick and Place Operations in Varying Environments, Flexible Manufacturing, Collaborative Robot Tasks
+- 
 
 ## C++ project
 ### Set target pose
@@ -96,12 +104,26 @@ if (success) {
 	- **Odom:** robots position in the world based on its movement
 	- **Planar joint:** allow robot to move on the plane
 # Motion Planner
+- *Computational weight:* Cartesian < Pilz < OMPL
+## Cartesian
+- *Characteristics:*
+	- Simple and lightning-fast
+	- Plans straight-line paths in Cartesian space
+	- Doesn’t worry about obstacles (which can be a problem!)
 ## Pilz Industrial
 - *Use case:* consistent, controlled movements; structured & predictable environment (1)
 - *Mechanisms:* use simple, direct point-to-point paths (1)
 	- Preprocesses the robot’s motion planning request: meets certain safety and feasibility criteria (starting position is safe)
+- *Characteristics:*
+	- Moderately complex
+	- Specializes in point-to-point (PTP) motions
+	- Considers obstacles, but isn’t great at planning around them
 ## OMPL (Open Motion Planning Library)
 - *Use case:* dynamic environments with unexpected obstacles (1)
 - *Mechanisms:* sampling-based motion planning framework; provides various probabilistic algorithms like RRT, PRM, etc (1)
+- *Characteristics:*
+	- Complex and computationally intensive
+	- Uses sampling-based algorithms (we used RRTConnect)
+	- Excels at finding paths in complex, obstacle-ridden environments
 ## STOMP (Stochastic Trajectory Optimization for Motion Planning)
 - *Mechanisms:* uses random adjustments to improve paths (1)
