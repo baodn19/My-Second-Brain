@@ -11,14 +11,12 @@
             "id": "fc8516fb954c8434",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/White board.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Automatic Addison - MoveIt2 Tutorial"
+              "icon": "excalidraw-icon",
+              "title": "White board.excalidraw"
             }
           }
         ]
@@ -205,10 +203,10 @@
   },
   "active": "fc8516fb954c8434",
   "lastOpenFiles": [
+    "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
     "Career/Behavioral Interview.md",
     "Career/Docking Robotics.md",
     "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md",
-    "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
     "Projects/Visual Servoing/Visual Servoing - Experience.md",
     "Winter Break Progress Tracker.md",
     "Shopping Tracker.md",
