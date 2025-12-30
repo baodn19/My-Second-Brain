@@ -3,7 +3,7 @@
 - [x] 5x Nut Chocolate
 - [x] 2x Cinnamon granola
 - [x] 2x Chocolate granola
-- [ ] 1x Whole almonds
+- [x] 1x Whole almonds
 # Xuka
 - [x] 1x Cinnamon granola
 - [x] 1x Chocolate granola
@@ -19,4 +19,4 @@
 - [ ] 1x Inulin
 - [ ] 4x NR6
 # Anh Hoàng
-- [ ] 1x Glutamine
+- [x] 1x Glutamine
