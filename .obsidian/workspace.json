@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "White board.excalidraw"
             }
+          },
+          {
+            "id": "6820770056381da8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Shower Thoughts.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Shower Thoughts.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,11 +214,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fc8516fb954c8434",
+  "active": "6820770056381da8",
   "lastOpenFiles": [
+    "Excalidraw/White board.excalidraw.md",
+    "Excalidraw/Shower Thoughts.excalidraw.md",
     "Excalidraw/Where I want to go.excalidraw.md",
     "Excalidraw/Project Board.excalidraw.md",
-    "Excalidraw/White board.excalidraw.md",
     "Shopping Tracker.md",
     "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
     "Career/Behavioral Interview.md",
@@ -232,7 +246,6 @@
     "Research/Letter of Recommendation.md",
     "Research/RISS",
     "IEEE - RAS",
-    "Topics in Software/ROS 2/Asynchronous Programming.md",
     "Research",
     "Career/Resume Sample/Adrian - Software.pdf",
     "Career/Resume Sample/Adrian - Research.pdf",
