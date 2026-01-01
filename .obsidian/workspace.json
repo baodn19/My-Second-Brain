@@ -4,35 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "729644b6c54828d0",
+        "id": "41ddb36eb320a8f7",
         "type": "tabs",
         "children": [
           {
-            "id": "fc8516fb954c8434",
+            "id": "1cc94a464801e9ee",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/White board.excalidraw.md"
+                "file": "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "White board.excalidraw"
+              "title": "Visual Servoing - Planning.excalidraw"
             }
           },
           {
-            "id": "6820770056381da8",
+            "id": "76db4b84aed164df",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Shower Thoughts.excalidraw.md"
+                "file": "Topics in Software/Data Analysis/Model Fitting Algorithms.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Shower Thoughts.excalidraw"
+              "icon": "lucide-file",
+              "title": "Model Fitting Algorithms"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,18 +215,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6820770056381da8",
+  "active": "1cc94a464801e9ee",
   "lastOpenFiles": [
+    "Topics in Software/Data Analysis/Model Fitting Algorithms.md",
+    "Topics in Software/Data Analysis/Clustering Method.md",
+    "Topics in Software/Data Analysis",
+    "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md",
+    "Topics in Software/Computer Vision/Edge Detection Algorithm.md",
+    "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
+    "Projects/Visual Servoing/Visual Servoing - Experience.md",
     "Excalidraw/White board.excalidraw.md",
     "Excalidraw/Shower Thoughts.excalidraw.md",
     "Excalidraw/Where I want to go.excalidraw.md",
     "Excalidraw/Project Board.excalidraw.md",
     "Shopping Tracker.md",
-    "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
     "Career/Behavioral Interview.md",
     "Career/Docking Robotics.md",
-    "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md",
-    "Projects/Visual Servoing/Visual Servoing - Experience.md",
     "Winter Break Progress Tracker.md",
     "Research/Research Group.md",
     "IEEE - RAS/Braindump potential events.md",
@@ -241,9 +246,6 @@
     "Projects/Visual Servoing",
     "Projects",
     "conflict-files-obsidian-git.md",
-    "Research/Research Questions.md",
-    "Research/RISS/Lab Research.md",
-    "Research/Letter of Recommendation.md",
     "Research/RISS",
     "IEEE - RAS",
     "Research",
@@ -257,7 +259,6 @@
     "Images/Figure_1.png",
     "Images/Pasted image 20251018075716.png",
     "Images/Pasted Image 20251017094128_543.png",
-    "Images/Pasted Image 20251017094128_523.png",
-    "Topics in Software/Computer Vision"
+    "Images/Pasted Image 20251017094128_523.png"
   ]
 }

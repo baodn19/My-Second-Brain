@@ -23,4 +23,9 @@
 
 # ROS 2:
 - *Have a metapackage:* include all the required dependecies (https://automaticaddison.com/naming-and-organizing-packages-in-large-ros-2-projects/)
-- 
+- *Verify new service interface:*
+``` bash
+ros2 interface show <Srv>
+```
+- *Automatic C++ header files for interface:* ROS 2 build system reads `.srv` and generates `.hpp` in hidden build dir
+	- *Case:* PascalCase -> snake_case

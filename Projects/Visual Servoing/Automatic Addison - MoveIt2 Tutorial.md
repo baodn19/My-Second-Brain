@@ -127,3 +127,24 @@ if (success) {
 	- Excels at finding paths in complex, obstacle-ridden environments
 ## STOMP (Stochastic Trajectory Optimization for Motion Planning)
 - *Mechanisms:* uses random adjustments to improve paths (1)
+
+# Pick & Place w/ Perception
+## Planning Scene
+- *Config file:* point cloud processing, plane-object segmentation, support surface detection, threshold for filtering & clustering
+- *Object separation:* region growing algorithm with nearest neighbors
+- *Object segmentation:* fitting geometric primitives (cylinders and boxes) to point cloud data, which is used to identify and represent objects in the scene.
+- *Plane segmentation:* identifies the surface on which objects are placed, separating it from the objects themselves; determining where objects can be placed
+- *Planning scene:* processes point cloud and RGB image data to generate CollisionObjects for the MoveIt planning scene
+- *Vector estimation:* estimate normal vectors, curvature values, and Radius-based Surface Descriptor (RSD) values for each point in a point cloud
+## Technical details
+- *Purpose:* process point cloud and RGB image data to generate CollisionObjects for a MoveIt planning scene
+- *Input:*
+	- std::string: Target object shape (e.g., “cylinder”, “box”)
+	- std::vector\<double>: Approximate target object dimensions (for identification)
+-  *Output:* 
+	- moveit_msgs::msg::PlanningSceneWorld: Contains CollisionObjects for all detected objects
+	- sensor_msgs::msg::PointCloud2: Full scene point cloud
+	- sensor_msgs::msg::Image: RGB image of the scene 
+	- std::string: ID of the target object in the PlanningSceneWorld
+	- std::string: ID of the support surface in the PlanningSceneWorld
+	- bool: Success flag
