@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "695120b3382a3104",
+        "id": "e228d72c0b3c9a20",
         "type": "tabs",
         "children": [
           {
-            "id": "ff9dfbf75523c4dd",
+            "id": "804d58d9c65962bc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -17,34 +17,6 @@
               },
               "icon": "excalidraw-icon",
               "title": "Visual Servoing - Planning.excalidraw"
-            }
-          },
-          {
-            "id": "3922ef51fc9ab9aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topics in Software/Data Analysis/Principal Component Analysis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Principal Component Analysis"
-            }
-          },
-          {
-            "id": "c4af6f57901bd402",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topics in Software/Data Analysis/Model Fitting Algorithms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Model Fitting Algorithms"
             }
           }
         ]
@@ -79,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "writ",
+                "query": "singul",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,15 +201,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ff9dfbf75523c4dd",
+  "active": "804d58d9c65962bc",
   "lastOpenFiles": [
+    "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
+    "USF Advising.md",
+    "Untitled.md",
     "Topics in Software/Data Analysis/Principal Component Analysis.md",
     "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md",
     "Topics in Software/Data Analysis/Model Fitting Algorithms.md",
     "Topics in Software/Data Analysis/Clustering Method.md",
     "Topics in Software/Data Analysis",
     "Topics in Software/Computer Vision/Edge Detection Algorithm.md",
-    "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
     "Projects/Visual Servoing/Visual Servoing - Experience.md",
     "Excalidraw/White board.excalidraw.md",
     "Excalidraw/Shower Thoughts.excalidraw.md",
@@ -253,11 +227,9 @@
     "Projects/Visual Servoing/Udemy - ROS 2 Moveit 2.md",
     "Internship at Vietnam.md",
     "IEEE - RAS/About RAS.md",
-    "Untitled.md",
     "Research/Action grammar.md",
     "Research/Writing.md",
     "Research/Reading.md",
-    "Research/Research Pathway.excalidraw.md",
     "Projects/Visual Servoing",
     "Projects",
     "Research/RISS",
