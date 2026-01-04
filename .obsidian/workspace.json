@@ -11,12 +11,14 @@
             "id": "804d58d9c65962bc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md"
+                "file": "Shopping Tracker.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Visual Servoing - Planning.excalidraw"
+              "icon": "lucide-file",
+              "title": "Shopping Tracker"
             }
           }
         ]
@@ -203,11 +205,11 @@
   },
   "active": "804d58d9c65962bc",
   "lastOpenFiles": [
+    "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md",
     "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
     "USF Advising.md",
     "Untitled.md",
     "Topics in Software/Data Analysis/Principal Component Analysis.md",
-    "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md",
     "Topics in Software/Data Analysis/Model Fitting Algorithms.md",
     "Topics in Software/Data Analysis/Clustering Method.md",
     "Topics in Software/Data Analysis",

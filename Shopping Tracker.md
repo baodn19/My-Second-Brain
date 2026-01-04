@@ -16,7 +16,7 @@
 - [x] 1x Plant protein
 - [x] 1x Creatine
 - [x] 1x Collagen
-- [ ] 1x Inulin
-- [ ] 4x NR6
+- [x] 1x Inulin
+- [x] 4x NR6
 # Anh Hoàng
 - [x] 1x Glutamine
