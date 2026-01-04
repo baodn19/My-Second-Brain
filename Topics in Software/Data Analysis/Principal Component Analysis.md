@@ -6,6 +6,8 @@
 	- take > 3 dimension of data and make a 2-D PCA plot 
 	- Decide which variable is most valuable for clustering the data
 	- Show accuracy of the 2-D plot 
+- *Eigenvector:* which direction is data most and least spread out
+- *Eigenvalue:* the variance along directions
 
 # Mechanism
 ## 2 variables (Singular Value Decomposition)
