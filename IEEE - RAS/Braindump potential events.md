@@ -1,4 +1,0 @@
-- Robotics REU info session: provide template to ask prof lor
-- Create competition for student to learn and compete
-- Mentor-Mentee: upperclassmen can create projects where underclassmen can be a part of with a chance to present at the end of the semester (similar to a science fair).
-- Have a commission board where professor can request specific roles for their research and students can look and contact them
