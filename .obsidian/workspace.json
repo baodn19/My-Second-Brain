@@ -11,6 +11,20 @@
             "id": "950b225cb83766b7",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topics in Software/Computer Vision/Parameter Spaces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Parameter Spaces"
+            }
+          },
+          {
+            "id": "c8e7717ff3643c40",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md"
@@ -19,7 +33,8 @@
               "title": "Visual Servoing - Planning.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,9 +216,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "950b225cb83766b7",
+  "active": "c8e7717ff3643c40",
   "lastOpenFiles": [
+    "Topics in Software/Computer Vision/Parameter Spaces.md",
     "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md",
+    "Topics in Software/Computer Vision/Train YOLO 11 Object Detection Model.md",
+    "Topics in Software/Computer Vision/Introduction to Computer Vision.excalidraw.md",
     "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
     "Topics in Software/Data Analysis/Model Fitting Algorithms.md",
     "Topics in Software/Data Analysis/Clustering Method.md",
@@ -227,9 +245,6 @@
     "Research/Research Group.md",
     "Research/REU for International.md",
     "Projects/Visual Servoing/Udemy - ROS 2 Moveit 2.md",
-    "Internship at Vietnam.md",
-    "Research/Action grammar.md",
-    "Research/Writing.md",
     "Projects/Visual Servoing",
     "Projects",
     "Research/RISS",
