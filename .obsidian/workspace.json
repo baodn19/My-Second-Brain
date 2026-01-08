@@ -11,12 +11,14 @@
             "id": "c8e7717ff3643c40",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md"
+                "file": "Extra Curricular/Innovation Festival/Kit Dev.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Visual Servoing - Planning.excalidraw"
+              "icon": "lucide-file",
+              "title": "Kit Dev"
             }
           }
         ]
@@ -203,9 +205,10 @@
   },
   "active": "c8e7717ff3643c40",
   "lastOpenFiles": [
-    "Topics in Software/Computer Vision/Parameter Spaces.md",
+    "Extra Curricular/Innovation Festival/Meeting Notes.md",
+    "Extra Curricular/Innovation Festival/Kit Dev.md",
     "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md",
-    "Meeting Notes.md",
+    "Topics in Software/Computer Vision/Parameter Spaces.md",
     "Extra Curricular/Innovation Festival",
     "Extra Curricular",
     "Topics in Software/Computer Vision/Train YOLO 11 Object Detection Model.md",
