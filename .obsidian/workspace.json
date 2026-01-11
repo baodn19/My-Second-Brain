@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "da0d7a52c40ea4c2",
+        "id": "28df5f6d296fe2ee",
         "type": "tabs",
         "children": [
           {
-            "id": "a22736d88cd408e3",
+            "id": "b1bde65cf4b9603a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md"
+                "file": "IEEE - RAS/Braindumps.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Visual Servoing - Planning.excalidraw"
+              "title": "Braindumps.excalidraw"
             }
           }
         ]
@@ -85,7 +85,6 @@
       {
         "id": "4ad3e60473cc138b",
         "type": "tabs",
-        "dimension": 48.36309523809523,
         "children": [
           {
             "id": "52e2db34bb58c827",
@@ -111,12 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Project Board.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Project Board.excalidraw"
+              "title": "Outgoing links"
             }
           },
           {
@@ -159,7 +157,17 @@
             }
           },
           {
-            "id": "c19e81b5be054cb5",
+            "id": "f188774e5dd8bcf3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "6a7bcd48de47e278",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -170,27 +178,10 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "f02af084b323ce3a",
-        "type": "tabs",
-        "dimension": 51.63690476190477,
-        "children": [
-          {
-            "id": "70e076c60a295700",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,43 +195,43 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "a22736d88cd408e3",
+  "active": "b1bde65cf4b9603a",
   "lastOpenFiles": [
     "IEEE - RAS/Braindumps.excalidraw.md",
-    "Winter Break Progress Tracker.md",
+    "Topics in Software/Computer Vision/Parameter Spaces.md",
+    "Extra Curricular/Innovation Festival/Kit Dev.md",
+    "Extra Curricular/Innovation Festival/Meeting Notes.md",
+    "Extra Curricular/Innovation Festival",
+    "Extra Curricular",
+    "Driver's License.md",
+    "Shopping Tracker.md",
+    "Projects/Visual Servoing/Visual Servoing - Experience.md",
     "USF Advising.md",
     "Topics in Software/Data Analysis/Principal Component Analysis.md",
     "Topics in Software/Data Analysis/Model Fitting Algorithms.md",
     "Topics in Software/Data Analysis/Clustering Method.md",
     "Topics in Software/Data Analysis",
-    "Topics in Software/Computer Vision/Parameter Spaces.md",
-    "Shopping Tracker.md",
-    "Research/Research Group.md",
-    "Research/Action grammar.md",
     "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md",
-    "Projects/Visual Servoing/Visual Servoing - Experience.md",
     "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
-    "Extra Curricular/Innovation Festival/Meeting Notes.md",
-    "Extra Curricular/Innovation Festival/Kit Dev.md",
-    "Extra Curricular/Innovation Festival",
-    "Extra Curricular",
     "Excalidraw/Shower Thoughts.excalidraw.md",
-    "Driver's License.md",
-    "Career/Behavioral Interview.md",
-    "Daily Notes/20-09-2025.md",
+    "Winter Break Progress Tracker.md",
+    "Research/Letter of Recommendation.md",
+    "IEEE - RAS/Braindump potential events.md",
+    "Research/Research Group.md",
+    "Research/Resource for writing.md",
+    "IEEE - RAS/About RAS.md",
+    "Undergraduate Research.md",
+    "Internship at Vietnam.md",
+    "Research/REU for International.md",
     "Excalidraw/White board.excalidraw.md",
-    "Projects/Visual Servoing/Udemy - ROS 2 Moveit 2.md",
+    "Research/Action grammar.md",
+    "Research/Writing.md",
     "Projects/Visual Servoing",
     "Projects",
-    "Excalidraw/Where I want to go.excalidraw.md",
-    "Excalidraw/Knowledge Tree.excalidraw.md",
-    "Excalidraw/Project Board.excalidraw.md",
-    "Research/Letter of Recommendation.md",
-    "Research/REU for International.md",
     "Research/RISS",
     "IEEE - RAS",
     "Research",
