@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "da0d7a52c40ea4c2",
+        "id": "907bc43d6ad4cad3",
         "type": "tabs",
         "children": [
           {
-            "id": "a22736d88cd408e3",
+            "id": "e4d1fafc8f39c9b5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "IEEE - RAS/Braindumps.excalidraw.md"
+                "file": "Excalidraw/Shower Thoughts.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Braindumps.excalidraw"
+              "title": "Shower Thoughts.excalidraw"
             }
           }
         ]
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dfb90dec25674b1b",
@@ -190,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,9 +209,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a22736d88cd408e3",
+  "active": "e4d1fafc8f39c9b5",
   "lastOpenFiles": [
-    "IEEE - RAS/Braindumps.excalidraw.md",
+    "Excalidraw/White board.excalidraw.md",
     "Winter Break Progress Tracker.md",
     "USF Advising.md",
     "Topics in Software/Data Analysis/Principal Component Analysis.md",
@@ -220,27 +221,27 @@
     "Topics in Software/Computer Vision/Parameter Spaces.md",
     "Shopping Tracker.md",
     "Research/Research Group.md",
-    "Research/Action grammar.md",
     "Projects/Visual Servoing/Visual Servoing - Planning.excalidraw.md",
     "Projects/Visual Servoing/Visual Servoing - Experience.md",
     "Projects/Visual Servoing/Automatic Addison - MoveIt2 Tutorial.md",
+    "IEEE - RAS/Braindumps.excalidraw.md",
     "Extra Curricular/Innovation Festival/Meeting Notes.md",
     "Extra Curricular/Innovation Festival/Kit Dev.md",
     "Extra Curricular/Innovation Festival",
     "Extra Curricular",
     "Excalidraw/Shower Thoughts.excalidraw.md",
     "Driver's License.md",
+    "IEEE - RAS/About RAS.md",
+    "Research/REU for International.md",
+    "Excalidraw/Project Board.excalidraw.md",
     "Career/Behavioral Interview.md",
+    "Research/Action grammar.md",
     "Daily Notes/20-09-2025.md",
-    "Excalidraw/White board.excalidraw.md",
     "Projects/Visual Servoing/Udemy - ROS 2 Moveit 2.md",
     "Projects/Visual Servoing",
     "Projects",
     "Excalidraw/Where I want to go.excalidraw.md",
     "Excalidraw/Knowledge Tree.excalidraw.md",
-    "Excalidraw/Project Board.excalidraw.md",
-    "Research/Letter of Recommendation.md",
-    "Research/REU for International.md",
     "Research/RISS",
     "IEEE - RAS",
     "Research",
