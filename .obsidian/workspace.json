@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "907bc43d6ad4cad3",
+        "id": "6244f2fd17d2611d",
         "type": "tabs",
         "children": [
           {
-            "id": "e4d1fafc8f39c9b5",
+            "id": "0516d3c9c15901f0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Shower Thoughts.excalidraw.md"
+                "file": "USF Advising.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Shower Thoughts.excalidraw"
+              "icon": "lucide-file",
+              "title": "USF Advising"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dfb90dec25674b1b",
@@ -209,8 +210,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e4d1fafc8f39c9b5",
+  "active": "0516d3c9c15901f0",
   "lastOpenFiles": [
+    "Excalidraw/Shower Thoughts.excalidraw.md",
+    "Excalidraw/Where I want to go.excalidraw.md",
     "Excalidraw/White board.excalidraw.md",
     "Winter Break Progress Tracker.md",
     "USF Advising.md",
@@ -229,7 +232,6 @@
     "Extra Curricular/Innovation Festival/Kit Dev.md",
     "Extra Curricular/Innovation Festival",
     "Extra Curricular",
-    "Excalidraw/Shower Thoughts.excalidraw.md",
     "Driver's License.md",
     "IEEE - RAS/About RAS.md",
     "Research/REU for International.md",
@@ -240,7 +242,6 @@
     "Projects/Visual Servoing/Udemy - ROS 2 Moveit 2.md",
     "Projects/Visual Servoing",
     "Projects",
-    "Excalidraw/Where I want to go.excalidraw.md",
     "Excalidraw/Knowledge Tree.excalidraw.md",
     "Research/RISS",
     "IEEE - RAS",
