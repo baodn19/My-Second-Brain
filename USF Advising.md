@@ -5,3 +5,5 @@
 4. Is CAI 4930 limited to only BSAI students?
 5. Can EGN 3433 replace MAP 2302?
 6. Can I get permit for CAI 5035?
+7. When will my new registrations get updated on Canvas?
+8. How do I get feature on the Bellini newspaper?
