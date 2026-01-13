@@ -1,5 +1,5 @@
 # Overview
-- *Core function:*
+- *Core function:* Sumo robot
 	- Differential drive
 	- Sensor
-	- 
+	- Fully autonomous
