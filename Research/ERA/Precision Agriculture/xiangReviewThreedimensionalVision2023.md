@@ -13,13 +13,23 @@ Tags:
 Zotero PDF Link: [ScienceDirect Full Text PDF](zotero://select/library/items/AY9QNIT3) 
 Related:  
 
-### Persistent Notes 
+# Persistent Notes 
 %% begin notes %% 
-Write notes here! 
+## Problem Statement
+
+## Methodology
+
+## Datasets
+
+## Results
+
+## Flaws
+
+## Open Questions
  
 %% end notes %% 
 
-### In-text annotations 
+# In-text annotations 
  <mark class="hltr-purple">"ABSTRACT"</mark> [Page 1](zotero://open-pdf/library/items/AY9QNIT3?page=1&annotation=AUSCDUNU) 
   
  <mark class="hltr-yellow">"These techniques include Structure lighting-based 3D imaging, Multiview 3D imaging system, Time of Flight (ToF)-based 3D imaging system, Lighting Detection and Ranging (LiDAR), and Depth estimation from monocular image"</mark> [Page 1](zotero://open-pdf/library/items/AY9QNIT3?page=1&annotation=MAYDGHHN) 
@@ -100,4 +110,4 @@ Related to [2409.09997] ViewActive: Active viewpoint optimization from a single 
   
 
 
-%% Import Date: 2026-01-19T13:45:38.218-05:00 %%
+%% Import Date: 2026-01-20T10:14:54.968-05:00 %%

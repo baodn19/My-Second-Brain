@@ -38,7 +38,11 @@
 	- Summarize main thrust w/ supporting evidence to someone else
 - *Steps:*
 	1. Figures, diagrams, illustrations, graphs. Axes properly labeled? Results w/ error bars, so statistically significant?
-	2. Mark relevant unread references
+	2. Read first sentence of each paragraph and list in bullet points
+	3. Skim and understand the math
+	4. Understand methodology, results, claims
+	5. Annotate on places that doesn't make sense logically
+	6. Mark relevant unread references
 
 ## 3rd pass
 - *Action:* virtually re-implement: making the same assumptions & re-create work
@@ -49,7 +53,10 @@
 	- Reconstruct the structure of paper from memory
 	- Identify strong and weak points
 	- Pinpoint implicit assumptions, missing citations, and potential issues with techniques
-
+- *Steps:*
+	1. Reconstruct code
+	2. Read line by line
+	3. Reproduce the experiment in your mind
 # Literature Survey
 1. Use academic search engine w/ keywords to find 3-5 **recent** papers in the area
 2. First pass each; if lucky then find a survey paper
