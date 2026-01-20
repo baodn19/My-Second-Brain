@@ -15,12 +15,12 @@
 	- 3rd pass: in-depth understanding
 ## 1st pass: 
 - *Duration:* 5-10 minutes
-- *Steps:*
+- *Steps:* 1.5m/ each
 	1. Title, abstract, introduction
 	2. Headings
 	3. Conclusions
 	4. In **Reference**, tick those already read
-- *Questions to answer:* create a spreadsheet for this
+- *Questions to answer:* create a spreadsheet for this. Is it worth my time?
 	- *Category:* type of paper? (measurement paper, analysis of existing system, description or research prototype)
 	- *Context:* related papers? theoretical bases
 	- *Correctness:* valid assumption?

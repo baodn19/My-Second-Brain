@@ -1,3 +1,9 @@
+---
+tags:
+  - excalidraw
+  - Feynman
+---
+
 # QnA
 1. Does research internship waive the 9 summer credits requirement?
 2. Can I take summer online class while I have a full-time internship?

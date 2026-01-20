@@ -1,10 +1,15 @@
---- Title: "{{title | escape}}" 
+---
+Title: "{{title | escape}}" 
 Year: {{date | format("YYYY")}} 
-Authors: {{authors}} 
-Tags: [{% for t in tags %}{{t.tag}}{% if not loop.last %}, {% endif %}{% endfor %}] 
---- 
+Authors: {{authors}}
+Tags: 
+{% for t in tags -%} 
+  - {{t.tag | replace(" ", "-")}} 
+{% endfor -%}
+---
+
 Zotero PDF Link: {{pdfZoteroLink}} 
-Related:: {% for relation in relations | selectattr("citekey") %} [[{{relation.citekey}}]]{% if not loop.last %}, {% endif%} {% endfor %} 
+Related: {% for relation in relations | selectattr("citekey") %} [[{{relation.citekey}}]]{% if not loop.last %}, {% endif%} {% endfor %} 
 
 ### Persistent Notes 
 {% persist "notes" %}{% if isFirstImport %} 
