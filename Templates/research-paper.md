@@ -6,6 +6,7 @@ Tags:
 {% for t in tags -%} 
   - {{t.tag | replace(" ", "-")}} 
 {% endfor -%}
+Pass: 
 ---
 
 Zotero PDF Link: {{pdfZoteroLink}} 

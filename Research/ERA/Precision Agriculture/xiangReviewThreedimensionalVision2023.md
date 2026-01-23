@@ -1,13 +1,14 @@
 ---
-Title: "A review of three-dimensional vision techniques in food and agriculture applications" 
-Year: 2023 
+Title: A review of three-dimensional vision techniques in food and agriculture applications
+Year: 2023
 Authors: Lirong Xiang, Dongyi Wang
-Tags: 
-- 3D-imaging 
-- Deep-learning 
-- Point-cloud-analysis 
-- RGB-D-imaging 
-- Stereo-imaging 
+Tags:
+  - 3D-imaging
+  - Deep-learning
+  - Point-cloud-analysis
+  - RGB-D-imaging
+  - Stereo-imaging
+Pass: First
 ---
 
 Zotero PDF Link: [ScienceDirect Full Text PDF](zotero://select/library/items/AY9QNIT3) 
@@ -110,4 +111,4 @@ Related to [2409.09997] ViewActive: Active viewpoint optimization from a single 
   
 
 
-%% Import Date: 2026-01-20T10:14:54.968-05:00 %%
+%% Import Date: 2026-01-22T21:39:16.250-05:00 %%
