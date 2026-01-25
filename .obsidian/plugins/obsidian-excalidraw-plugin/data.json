@@ -55,7 +55,7 @@
   "renderImageInMarkdownReadingMode": false,
   "renderImageInHoverPreviewForMDNotes": false,
   "renderImageInMarkdownToPDF": false,
-  "allowPinchZoom": true,
+  "allowPinchZoom": false,
   "allowWheelZoom": false,
   "zoomToFitOnOpen": true,
   "zoomToFitOnResize": false,
@@ -74,7 +74,7 @@
   "showSecondOrderLinks": true,
   "focusOnFileTab": true,
   "openInMainWorkspace": true,
-  "showLinkBrackets": true,
+  "showLinkBrackets": false,
   "syncElementLinkWithText": false,
   "allowCtrlClick": true,
   "forceWrap": false,
@@ -451,7 +451,7 @@
   "pdfFrame": false,
   "pdfGapSize": 20,
   "pdfGroupPages": false,
-  "pdfLockAfterImport": false,
+  "pdfLockAfterImport": true,
   "pdfNumColumns": 1,
   "pdfNumRows": 1,
   "pdfDirection": "right",
@@ -815,7 +815,5 @@
     "alignment": "center",
     "margin": "normal"
   },
-  "disableContextMenu": false,
-  "defaultTrayMode": true,
-  "compactModeOnTablets": true
+  "disableContextMenu": false
 }

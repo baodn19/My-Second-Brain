@@ -1,0 +1,5 @@
+---
+tags:
+  - videos
+---
+![[Video.base]]

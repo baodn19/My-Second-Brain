@@ -1,16 +1,5 @@
 [
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "table-editor-obsidian",
-  "calendar",
-  "code-styler",
-  "cmdr",
-  "obsidian-file-color",
-  "file-explorer-note-count",
-  "obsidian-icon-folder",
-  "obsidian-importer",
-  "omnisearch",
-  "obsidian-zotero-desktop-connector",
-  "highlightr-plugin",
-  "templater-obsidian"
+  "better-word-count"
 ]

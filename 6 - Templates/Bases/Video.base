@@ -1,0 +1,15 @@
+filters:
+  and:
+    - categories.contains("Video")
+    - '!file.name.contains("Template")'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - source
+      - author
+  - type: table
+    name: Video
+    order:
+      - file.name
