@@ -53,6 +53,7 @@
     "acquired": "date",
     "domain": "multitext",
     "subject": "multitext",
-    "formula": "text"
+    "formula": "text",
+    "contact": "multitext"
   }
 }

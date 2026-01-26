@@ -8,6 +8,8 @@ loc:
 people:
   - Barrett Werner
 topics: []
+contact:
+  - https://www.linkedin.com/in/barrett-werner-8b8429100/
 ---
 - Barrett is going to do a tour of [[HarvestCROO]]. A chance to recruit member
 - List out some class that I want to sit in

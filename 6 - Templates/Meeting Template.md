@@ -1,10 +1,11 @@
 ---
 categories:
   - "[[Meetings]]"
+date:
 type: []
-date: {{date}}
 org:
 loc:
 people: []
 topics: []
+contact:
 ---

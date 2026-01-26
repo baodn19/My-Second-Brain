@@ -1,5 +1,5 @@
 ---
 tags:
-  - videos
+  - categories
 ---
 ![[Video.base]]

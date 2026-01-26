@@ -7,7 +7,10 @@ org:
 loc:
 people:
   - Co Tran
-topics: []
+topics:
+  - Research & Engineering in Agentic AI
+contact:
+  - https://www.facebook.com/co.chua.71
 ---
 # Note
 - Fully autonomous is the trend => **If you don't follow the trend, then you'll be left out**

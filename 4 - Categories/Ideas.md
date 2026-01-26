@@ -2,4 +2,4 @@
 tags:
   - categories
 ---
-![[Formulas.base]]
+![[Ideas.base]]

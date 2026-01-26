@@ -21,6 +21,7 @@ views:
       - date
       - type
       - people
+      - contact
     sort:
       - property: date
         direction: ASC
