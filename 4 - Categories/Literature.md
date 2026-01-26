@@ -2,5 +2,4 @@
 tags:
   - categories
 ---
-
-![[Journal.base]]
+![[Literature.base]]

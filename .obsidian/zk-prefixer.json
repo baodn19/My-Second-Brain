@@ -1,5 +1,5 @@
 {
-  "format": "YYYY-MM-DD HHmm",
+  "format": "YYYY-MM-DD HH-mm",
   "folder": "5 - Main Notes",
-  "template": "Templates/Journal Template"
+  "template": "6 - Templates/Unique Template"
 }

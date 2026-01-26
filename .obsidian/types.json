@@ -54,6 +54,7 @@
     "domain": "multitext",
     "subject": "multitext",
     "formula": "text",
-    "contact": "multitext"
+    "contact": "multitext",
+    "modified": "text"
   }
 }
