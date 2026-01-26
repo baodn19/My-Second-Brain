@@ -1,0 +1,21 @@
+---
+categories:
+  - "[[Meetings]]"
+type: []
+date: 2025-09-20
+org:
+loc:
+people:
+  - Barrett Werner
+topics: []
+---
+- Barrett is going to do a tour of [[HarvestCROO]]. A chance to recruit member
+- List out some class that I want to sit in
+- It's important to have the foundation -> I should consider doing [[dynamics]] or [[statics]]
+- Have a good breadth while maintain a concentration
+- Solving the hard problems doesn't mean you get paid well
+- There are repetitive jobs that pay better
+	- Eg: Barrett was paid more in his oil and gas company compared to the time in aerospace. However, the former job is easier and more repetitive
+- Control exists everywhere, it's about the feedback loop
+- It's impossible to learn everything, especially in robotics
+- [[Carnegie]] and [[Rockefeller]] was rivals

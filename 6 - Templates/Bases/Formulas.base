@@ -1,0 +1,36 @@
+filters:
+  and:
+    - categories.contains("Formulas")
+    - '!file.name.contains("Template")'
+formulas:
+  Formula: html(note.formula)
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - subject
+      - formula.Formula
+    sort:
+      - property: formula.Formula
+        direction: ASC
+    columnSize:
+      file.name: 217
+  - type: table
+    name: Electrical
+    filters:
+      and:
+        - subject == ["Electrical"]
+    order:
+      - file.name
+      - formula.Formula
+    columnSize:
+      file.name: 294
+  - type: table
+    name: Physics
+    filters:
+      and:
+        - subject == ["Physics"]
+    order:
+      - file.name
+      - formula.Formula

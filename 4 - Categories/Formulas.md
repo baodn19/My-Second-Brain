@@ -1,0 +1,5 @@
+---
+tags:
+  - formulas
+---
+![[Formulas.base]]
