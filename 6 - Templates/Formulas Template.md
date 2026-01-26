@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Formulas]]"
-subject:
+tags:
 formula:
 ---
 # Overview

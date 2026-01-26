@@ -55,6 +55,6 @@
     "subject": "multitext",
     "formula": "text",
     "contact": "multitext",
-    "modified": "text"
+    "modified": "date"
   }
 }

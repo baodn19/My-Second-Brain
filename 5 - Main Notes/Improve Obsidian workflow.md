@@ -2,6 +2,7 @@
 - [x] Add matureness tag to notes (and have a base for it)
 - [ ] Add connecting notes for interdisciplinary topics
 - [ ] Add BibTex to research template
+- [x] In formulas, change domain into tags
 
 # Reference
 - [[the hybrid note-taking system I wish I learned earlier]]

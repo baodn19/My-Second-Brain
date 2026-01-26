@@ -1,0 +1,7 @@
+filters:
+  and:
+    - categories.contains(link("Concepts"))
+    - '!file.name.contains("Template")'
+views:
+  - type: table
+    name: Table

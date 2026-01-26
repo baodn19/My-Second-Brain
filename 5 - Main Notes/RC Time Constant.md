@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Formulas]]"
-subject:
+tags:
   - Electrical
 formula: <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3c4;</mi><mo>=</mo><mi>R</mi><mi>C</mi></math>
 ---

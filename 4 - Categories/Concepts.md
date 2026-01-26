@@ -1,0 +1,5 @@
+---
+tags:
+  - categories
+---
+![[Concepts.base]]

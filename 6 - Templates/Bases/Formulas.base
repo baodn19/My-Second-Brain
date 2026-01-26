@@ -9,7 +9,7 @@ views:
     name: Table
     order:
       - file.name
-      - subject
+      - tags
       - formula.Formula
     sort:
       - property: formula.Formula
