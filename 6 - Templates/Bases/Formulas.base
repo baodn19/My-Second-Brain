@@ -20,17 +20,17 @@ views:
     name: Electrical
     filters:
       and:
-        - subject == ["Electrical"]
+        - file.tags.contains("Electrical")
     order:
       - file.name
       - formula.Formula
     columnSize:
       file.name: 294
   - type: table
-    name: Physics
+    name: Robot Kinematics
     filters:
       and:
-        - subject == ["Physics"]
+        - file.tags.contains("robot-kinematics")
     order:
       - file.name
       - formula.Formula
