@@ -1,0 +1,15 @@
+filters:
+  and:
+    - categories.contains(link("Research References"))
+    - '!file.name.contains("Template")'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - title
+      - authors
+      - year
+    sort:
+      - property: author
+        direction: ASC

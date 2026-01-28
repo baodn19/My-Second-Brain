@@ -12,7 +12,8 @@
   "omnisearch",
   "obsidian-zotero-desktop-connector",
   "highlightr-plugin",
-  "templater-obsidian",
   "frontmatter-modified-date",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "templater-obsidian",
+  "better-word-count"
 ]
