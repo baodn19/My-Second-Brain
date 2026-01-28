@@ -13,7 +13,7 @@ modified: January 26th 2026, 2:54:35 pm
 	- Groups related data w/ different types
 	- Element: member/ field
 - *Use case:* represents a **real-world entity**
-- Structure vs [[Array]]:
+- Structure vs [[array]]:
 
 | Feature       | Structure            | Array             |
 | ------------- | -------------------- | ----------------- |
