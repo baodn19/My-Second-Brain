@@ -4,7 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "categories": "multitext",
-    "created": "date",
+    "created": "text",
     "genre": "multitext",
     "director": "multitext",
     "last": "date",
@@ -55,6 +55,7 @@
     "subject": "multitext",
     "formula": "text",
     "contact": "multitext",
-    "modified": "date"
+    "modified": "date",
+    "class": "multitext"
   }
 }

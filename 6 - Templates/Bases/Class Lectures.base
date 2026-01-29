@@ -1,0 +1,10 @@
+filters:
+  and:
+    - categories.contains(link("Class Lectures"))
+    - '!file.name.contains("Template")'
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - class.contains(link("Class Lectures#CDA 4621"))
