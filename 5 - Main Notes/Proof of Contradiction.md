@@ -2,9 +2,10 @@
 created: January 27th 2026
 categories:
   - "[[Concepts]]"
-modified: January 27th 2026, 3:36:59 pm
+modified: January 29th 2026, 12:48:58 pm
 tags:
   - mathematics
+  - logic
 ---
 - *To prove a theorem statement (T):* We assume T is false -> Prove the assumption is false -> T is true
 - *Theorem:* In a group of 25 people, at least 3 were born in the same month (example of [[Pigeon Hole Principle]])
