@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "5 - Main Notes/Sure, AI can ‘do’ writing. But memoir Not so much  Aeon Essays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Sure, AI can ‘do’ writing. But memoir Not so much  Aeon Essays"
             }
           }
         ]
@@ -85,8 +85,8 @@
             "showSearch": false,
             "searchQuery": ""
           },
-          "icon": "lucide-archive",
-          "title": "All properties"
+          "icon": "lucide-ghost",
+          "title": "all-properties"
         }
       },
       {
@@ -169,6 +169,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -181,6 +183,22 @@
   },
   "active": "bfe2db465e43bfec",
   "lastOpenFiles": [
+    "6 - Templates/Research Literatures Template.md",
+    "5 - Main Notes/Sure, AI can ‘do’ writing. But memoir Not so much  Aeon Essays.md",
+    "/6 - Templates/Research References Template.md",
+    "/6 - Templates/Research Literatures Template.md",
+    "/6 - Templates/Bases/Research Literatures.base",
+    "6 - Templates/Bases/Research Literatures.base",
+    "/6 - Templates/Bases",
+    "/6 - Templates",
+    "/5 - Main Notes/Sure, AI can ‘do’ writing. But memoir Not so much  Aeon Essays.md",
+    "/5 - Main Notes/Postgraduate Cambridge University Scholarship  Gates Cambridge.md",
+    "/5 - Main Notes",
+    "/4 - Categories/Research Literatures.md",
+    "4 - Categories/Research Literatures.md",
+    "/4 - Categories",
+    "/2 - Source Materials/mildenhallNeRFRepresentingScenes2021.md",
+    "/2 - Source Materials",
     "Test.md",
     "2 - Source Materials/mildenhallNeRFRepresentingScenes2021.md",
     "2 - Source Materials",
@@ -199,24 +217,8 @@
     "5 - Main Notes/clockwise.md",
     "5 - Main Notes/Charging Capacitor.md",
     "5 - Main Notes/delete Operator.md",
-    "5 - Main Notes/relatively prime.md",
-    "5 - Main Notes/Free Store.md",
-    "5 - Main Notes/wheel angular velocity.md",
-    "5 - Main Notes/Gates Cambridge Scholarships Film.md",
-    "5 - Main Notes/quantifiers.md",
-    "5 - Main Notes/Lunch with with Barrett Werner.md",
-    "5 - Main Notes/Memory leak.md",
-    "5 - Main Notes/negation.md",
-    "5 - Main Notes/array.md",
     "5 - Main Notes",
     "3 - Topics",
-    "LICENSE",
-    "1 - Rough Notes",
-    "6 - Templates/Bases/Map.base",
-    "6 - Templates/Bases/Meetings.base",
-    "6 - Templates/Bases/Board games.base",
-    "6 - Templates/Bases/Websites.base",
-    "6 - Templates/Bases/Places.base",
     "Attachments/RC-circuit-charging-curve_1.webp",
     "Attachments/Pasted image 20260125233224.png"
   ]

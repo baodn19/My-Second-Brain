@@ -13,5 +13,7 @@ tags:
 modified: January 30th 2026, 8:59:12 am
 ---
 # Key Takeaways
+- poetry formed a critical part of the computer pioneer Alan Turing’s original test: to determine whether an unseen respondent to a series of questions was human or a mechanical imposter
+- In the paper ‘Computing Machinery and Intelligence’ (1950), published in the journal _Mind_, Turing set out his objective: ‘to consider the question, “Can machines think?”’
 
 # What to explore next
