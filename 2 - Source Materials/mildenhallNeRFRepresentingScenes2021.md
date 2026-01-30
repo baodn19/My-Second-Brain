@@ -1,15 +1,16 @@
 ---
-title: "NeRF: representing scenes as neural radiance fields for view synthesis" 
-year: 2021 
+title: "NeRF: representing scenes as neural radiance fields for view synthesis"
+year: 2021
 authors: Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng
 categories:
   - "[[Research References]]"
-tags: 
-- Computing-methodologies 
-- Computer-graphics 
-- Image-manipulation 
-- Image-based-rendering 
-pass: 
+tags:
+  - Computing-methodologies
+  - Computer-graphics
+  - Image-manipulation
+  - Image-based-rendering
+pass:
+modified: January 28th 2026, 11:52:57 pm
 ---
 
 Zotero PDF Link: [Full Text PDF](zotero://select/library/items/4XPNLV9T) 

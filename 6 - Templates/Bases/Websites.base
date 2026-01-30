@@ -1,0 +1,6 @@
+filters:
+  and:
+    - categories.contains(link("Websites"))
+views:
+  - type: table
+    name: Table

@@ -2,9 +2,10 @@
 categories:
   - "[[Interview Questions]]"
 created: "{{date:MMMM Do YYYY}}"
-modified: January 27th 2026, 8:12:17 am
-question:
+modified: January 29th 2026, 7:10:40 pm
+tags:
 ---
-## Question
+## Obvious Answer
 
+## Non-obvious Answer
 ## Resource
