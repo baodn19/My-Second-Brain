@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "bf94737d98a5169e",
+    "type": "split",
+    "children": [
+      {
+        "id": "642ba62e46daf1fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfe2db465e43bfec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3baf748ec2ae4457",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "77eed6d3107e4303",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "cf3537509831e478",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "174bcd678eb312ac",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "26d40dab923b1031",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "930be723ed0f87d5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "426ca084f1614b54",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8ae568d00267e3ea",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Test.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "6b90ccbb53cd7a63",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Test.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "89aac5e3a8420986",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Test.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "2d05bcf79efde2e0",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "bfe2db465e43bfec",
+  "lastOpenFiles": [
+    "Test.md",
+    "2 - Source Materials/mildenhallNeRFRepresentingScenes2021.md",
+    "2 - Source Materials",
+    "5 - Main Notes/Improve Obsidian workflow.md",
+    "5 - Main Notes/Make hand annotation for CV faster.md",
+    "5 - Main Notes/enumerations.md",
+    "5 - Main Notes/robot velocity rotational transformation.md",
+    "5 - Main Notes/divisor.md",
+    "5 - Main Notes/Dynamic Memory.md",
+    "5 - Main Notes/Mock with CS VN.md",
+    "5 - Main Notes/Rotation Matrix in Z-axis.md",
+    "5 - Main Notes/Rice harvesting robots that can collaborate with human.md",
+    "5 - Main Notes/Meeting with Austen McDonald.md",
+    "5 - Main Notes/left wheel linear velocity.md",
+    "5 - Main Notes/Discharging Capacitor.md",
+    "5 - Main Notes/clockwise.md",
+    "5 - Main Notes/Charging Capacitor.md",
+    "5 - Main Notes/delete Operator.md",
+    "5 - Main Notes/relatively prime.md",
+    "5 - Main Notes/Free Store.md",
+    "5 - Main Notes/wheel angular velocity.md",
+    "5 - Main Notes/Gates Cambridge Scholarships Film.md",
+    "5 - Main Notes/quantifiers.md",
+    "5 - Main Notes/Lunch with with Barrett Werner.md",
+    "5 - Main Notes/Memory leak.md",
+    "5 - Main Notes/negation.md",
+    "5 - Main Notes/array.md",
+    "5 - Main Notes",
+    "3 - Topics",
+    "LICENSE",
+    "1 - Rough Notes",
+    "6 - Templates/Bases/Map.base",
+    "6 - Templates/Bases/Meetings.base",
+    "6 - Templates/Bases/Board games.base",
+    "6 - Templates/Bases/Websites.base",
+    "6 - Templates/Bases/Places.base",
+    "Attachments/RC-circuit-charging-curve_1.webp",
+    "Attachments/Pasted image 20260125233224.png"
+  ]
+}
