@@ -13,23 +13,6 @@ pass:
 
 Zotero PDF Link: {{pdfZoteroLink}} 
 Related: {% for relation in relations | selectattr("citekey") %} [[{{relation.citekey}}]]{% if not loop.last %}, {% endif%} {% endfor %} 
-
-# Persistent Notes 
-{% persist "notes" %}{% if isFirstImport %} 
-## Problem Statement
-
-## Methodology
-
-## Datasets
-
-## Results
-
-## Flaws
-
-## Open Questions
-{% endif %} 
-{% endpersist %} 
-
 # In-text annotations 
 {% for annotation in annotations -%} 
 {%- if annotation.annotatedText -%} 
