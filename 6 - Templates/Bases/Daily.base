@@ -1,10 +1,6 @@
 filters:
-  or:
-    - file.name.contains(this.file.name)
-    - created.toString().contains(this.file.name)
-    - start.toString().contains(this.file.name)
-    - end.toString().contains(this.file.name)
-    - file.links.contains(this.file)
+  and:
+    - created == "2026-01-30"
 properties:
   file.name:
     displayName: Entry
@@ -17,11 +13,6 @@ properties:
 views:
   - type: table
     name: Daily notes
-    filters:
-      and:
-        - '!file.tags.contains("daily")'
-        - '!file.tags.contains("monthly")'
-        - file.name != this.file.name
     order:
       - file.name
       - created
