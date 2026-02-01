@@ -15,7 +15,7 @@ topics:
   - RAS faculty advisor
 contact:
   - xlin2@usf.edu
-modified: February 1st 2026, 5:14:58 pm
+modified: February 1st 2026, 5:22:56 pm
 ---
 ## Note
 - *RAS @ USF:*
@@ -39,3 +39,4 @@ modified: February 1st 2026, 5:14:58 pm
 ## Question
 - Is it possible for me to talk to the president of *Robotics @ Maryland* to learn about his leadership experience?
 - What's your experience mentoring *Robotics @ Maryland*?
+- Can I publicize the flyer in our lab and through our general chat?

@@ -5,6 +5,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "5 - Main Notes",
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
