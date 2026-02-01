@@ -1,6 +1,6 @@
 filters:
   and:
-    - created == "2026-01-30"
+    - modified == "January 31st, 2026"
 properties:
   file.name:
     displayName: Entry
