@@ -14,7 +14,7 @@ topics:
   - leadership experience at IEEE-CS
 contact:
   - akurnikova@usf.edu
-modified: February 1st 2026, 4:01:09 pm
+modified: February 1st 2026, 5:08:53 pm
 ---
 ## Questions
 **Q:** What's your thought on the plateu?
