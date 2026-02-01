@@ -56,6 +56,7 @@
     "formula": "text",
     "contact": "multitext",
     "modified": "date",
-    "class": "multitext"
+    "class": "multitext",
+    "reference note": "multitext"
   }
 }

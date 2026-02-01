@@ -2,16 +2,25 @@
 created: January 30th 2026
 categories:
   - "[[Meetings]]"
-date:
+date: 2026-02-02
 type:
-  - RAS
+  - "[[IEEE-RAS @ USF]]"
 org:
+  - "[[ERA Lab]]"
 loc:
+  - ENB379C
 people:
-  - Xiaomin Lin
-topics: []
+  - "[[Xiaomin Lin]]"
+topics:
+  - RAS faculty advisor
 contact:
-modified: January 30th 2026, 3:33:46 pm
+  - xlin2@usf.edu
+modified: February 1st 2026, 3:57:48 pm
 ---
+## Note
+- *RAS @ USF:*
+	- *Problem:* a lack of professional development in the field of robotics & automation (professional talk, informing about related USF research & conference for robotics)
+
 ## Question
-**Q:** Are you a membership with IEEE - RAS?
+- Are you a membership with IEEE - RAS?
+- Is it possible for me to talk to the president of *Robotics @ Maryland* to learn about his leadership experience?

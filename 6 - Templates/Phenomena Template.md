@@ -1,8 +1,7 @@
 ---
 categories:
-  - "[[Ideas]]"
+  - "[[Phenomena]]"
 created: "{{date:YYYY-MM-DD}}"
 modified:
 tags:
-maturity:
 ---

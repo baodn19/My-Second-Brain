@@ -1,16 +1,20 @@
 ---
-created: January 31st 2026
+created: 2026-01-31
 categories:
   - "[[Meetings]]"
-date: 2026-01-31
-modified: January 31st 2026, 11:45:50 pm
-type: []
+modified: February 1st 2026, 3:40:46 pm
+type:
+  - "[[Research]]"
 org:
+  - "[[ERA Lab]]"
 loc:
+  - Virtual
 people:
-  - Dong Tien Trung
-topics: []
+  - "[[Dong Tien Trung]]"
+topics:
+  - Giving me tasks to get started with CV
 contact:
+  - dongt@usf.edu
 ---
 ## Note
 - Em xem Computerphile cho nerf và gs
@@ -22,8 +26,8 @@ contact:
 - *Task:* làm baseline, table, ppt và thuyết trình     
 - *Deadline:* 1 tháng   
 - Easy project: train yolo models
-- Crop detection: tìm trong nông nghiệp dùng cv để nhận diện gì
-	1. Tìm dataset: Roboflow, caverse, universal (**xong bước này rồi confirm phần còn lại**)
+- Crop detection: tìm trong nông nghiệp dùng cv để nhận diện gì [[Finding objects of interest in agriculture for image recognition]]
+	1. Tìm dataset: Roboflow, caverse, universal (**xong bước này rồi confirm phần còn lại**, then ask for examples of baseline)
 	2. Literature review: trong mảng đó có thuật toán gì (state-of-the-art)
 	3. Train yolo model hoặc classification model
 	4. Compare (baseline) với state-of-the-art

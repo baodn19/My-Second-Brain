@@ -15,17 +15,16 @@ views:
     name: Daily notes
     order:
       - file.name
-      - created
       - categories
       - tags
     sort:
+      - property: categories
+        direction: DESC
       - property: tags
         direction: ASC
       - property: created
         direction: DESC
       - property: file.name
-        direction: ASC
-      - property: categories
         direction: ASC
     columnSize:
       file.name: 287
