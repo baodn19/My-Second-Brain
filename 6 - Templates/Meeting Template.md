@@ -1,7 +1,8 @@
 ---
 categories:
   - "[[Meetings]]"
-date:
+created:
+modified:
 type: []
 org:
 loc:

@@ -1,18 +1,12 @@
 ---
 categories:
   - "[[Interview Questions]]"
-created: "{{date:YYYY-MM-DD}}"
-modified:
+created: 2026-02-01
+modified: February 1st 2026, 12:39:47 am
 tags:
+  - experiential
 ---
 ## Obvious Answer
 
 ## Non-obvious Answer
-### Option 1
-
-### Option 2
-
-### Option 3
-
-
 ## Resource

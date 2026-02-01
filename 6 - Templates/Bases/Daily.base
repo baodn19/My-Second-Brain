@@ -1,6 +1,6 @@
 filters:
   and:
-    - modified == "January 31st, 2026"
+    - file.mtime == "2026-02-01"
 properties:
   file.name:
     displayName: Entry

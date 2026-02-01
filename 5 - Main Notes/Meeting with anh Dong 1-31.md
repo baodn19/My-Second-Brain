@@ -3,6 +3,7 @@ created: January 31st 2026
 categories:
   - "[[Meetings]]"
 date: 2026-01-31
+modified: January 31st 2026, 11:45:50 pm
 type: []
 org:
 loc:
@@ -10,7 +11,6 @@ people:
   - Dong Tien Trung
 topics: []
 contact:
-modified: 01/31/2026
 ---
 ## Note
 - Em xem Computerphile cho nerf và gs
@@ -18,9 +18,9 @@ modified: 01/31/2026
 - Dùng diffusion để lắp vào những chi tiết ko có trong dữ liệu đầu vào
 - Dự định tiếp theo: thực hành trên nerfstudio
 
-- Thích, đã làm những gì, ý tưởng gì không
-- *Task:* làm baseline, table, ppt và thuyết trình
-- *Deadline:* 1 tháng
+- Thích, đã làm những gì, ý tưởng gì không  
+- *Task:* làm baseline, table, ppt và thuyết trình     
+- *Deadline:* 1 tháng   
 - Easy project: train yolo models
 - Crop detection: tìm trong nông nghiệp dùng cv để nhận diện gì
 	1. Tìm dataset: Roboflow, caverse, universal (**xong bước này rồi confirm phần còn lại**)
