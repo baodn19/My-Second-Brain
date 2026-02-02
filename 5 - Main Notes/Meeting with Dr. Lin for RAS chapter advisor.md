@@ -36,6 +36,8 @@ modified: February 1st 2026, 5:22:56 pm
 	- Engage and involve Section volunteers (Section Chair, Section Student Activities Chair and Section Student Representative) to support the Branch activities.
 	- Ask your colleagues to partner with you to offer technical demonstrations, professional development workshops, and visits to industry for your Branch Members.
 	- Support and encourage student volunteers who are involved with programs and activities and recognize volunteers who contribute to the Branch’s success.
+
+## [[Xiaomin Lin 2-2 In-meeting notes]] 
 ## Question
 - Is it possible for me to talk to the president of *Robotics @ Maryland* to learn about his leadership experience?
 - What's your experience mentoring *Robotics @ Maryland*?
