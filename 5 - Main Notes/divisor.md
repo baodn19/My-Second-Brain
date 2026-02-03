@@ -2,7 +2,7 @@
 categories:
   - "[[Concepts]]"
 created: January 27th 2026
-modified: January 29th 2026, 3:33:13 pm
+modified: February 3rd 2026, 1:37:24 pm
 tags:
   - mathematics
 ---
@@ -24,3 +24,23 @@ tags:
 			The smallest possible values: a = 2, b = 3, but ab = 6 > 3 $\textreferencemark$
 - $\forall a,b\in \mathbb{Z}$ if a|b $\implies \forall n\in \mathbb{N},a^n |b^n$
 	- *Proof:* Assume: a|b $\implies \exists k\in \mathbb{Z}:ak=b\implies b^n=(ak)^n=a^nk^n\implies a^n |b^n$
+- The sum of 3 consecutive integers is always divisible by 3
+	- Given n, n+1, n+2, where $n \in \mathbb{Z}: n + (n+1) + (n+2) = 3n + 3=3(n+1)$
+			$\implies$ The sum is divisible by 3.  $\square$
+- $\forall n\in \mathbb{Z}, 6 |n^3 - n$
+	- *First approach:* 1) n = 6k
+					2) n = 6k + 1
+					3) n = 6k + 2 
+					4) n = 6k + 3
+					5) n = 6k + 4
+					6) n = 6k + 5
+					For each compute $n^3 - n$
+	- *Second approach:* i) n = 2k for some $k \in \mathbb{Z}$
+					$n^3-n=8k^2 - 2k=2k(4k^2 -1)$
+					There are 3 cases: $p \in \mathbb{Z}$
+					a) k = 3p
+					b) k = 3p + 1
+					c) k = 3p + 2
+					d) k = 3p + 3 = 3(p + 1) = 3r; we are in case a)
+					In each 3 case, you take k and plug iinto $k(4k^2 - 1)$, compute and show that it is equal to $3t, 3\in \mathbb{Z}$
+					ii) n = 2k + 1, ... 

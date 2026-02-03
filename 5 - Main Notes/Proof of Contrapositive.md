@@ -2,7 +2,7 @@
 created: January 27th 2026
 categories:
   - "[[Concepts]]"
-modified: January 29th 2026, 1:05:31 pm
+modified: February 3rd 2026, 1:02:13 pm
 tags:
   - mathematics
   - logic
@@ -17,7 +17,7 @@ tags:
 	- *Proof:* Take $x, y \in \mathbb{R}$; assume $x, y \in \mathbb{Q} \implies \exists p, q, r, s \in \mathbb{Z}$  such that $q \neq 0, s \neq 0$
 			$x = \frac{p}{q}, y = \frac{r}{s}$
 			Then $xy = \frac{p}{q} . \frac{r}{s} = \frac{pr}{qs}; pr \in \mathbb{Z}, qs \in \mathbb{Z}, qs \neq 0 \implies xy \in \mathbb{Q}$
-- *Theorem:* $\forall n \in \mathbb{Z}, if 3\nmid(n+1)^2-1$, then $3\nmid n$
+- *Theorem:* $\forall n \in \mathbb{Z}$, if $3\nmid(n+1)^2-1$, then $3\nmid n$
 	- *Proof:* By contrapositive
 			$\forall n \in \mathbb{Z}, if 3 |n \implies 3|(n+1)^2-1$
 			Given $n \in \mathbb{Z}$. Assume $3|n \implies \exists k \in \mathbb{Z}: n=3k$

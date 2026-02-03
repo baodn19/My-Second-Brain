@@ -2,7 +2,7 @@
 created: January 27th 2026
 categories:
   - "[[Concepts]]"
-modified: January 29th 2026, 12:48:58 pm
+modified: February 3rd 2026, 12:50:11 pm
 tags:
   - mathematics
   - logic
@@ -34,4 +34,5 @@ tags:
 			$\iff 2k^2 -2y=1$
 			$\iff 2(k^2 -y)=1 \neq 2$  $\textreferencemark$ 
 			$\implies$ Assumption is false $\implies$ Theorem is true
+
 
