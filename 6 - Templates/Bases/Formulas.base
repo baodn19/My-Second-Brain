@@ -12,8 +12,8 @@ views:
       - tags
       - formula.Formula
     sort:
-      - property: formula.Formula
-        direction: ASC
+      - property: file.mtime
+        direction: DESC
     columnSize:
       file.name: 217
   - type: table

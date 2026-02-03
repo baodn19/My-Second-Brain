@@ -1,6 +1,6 @@
 ---
 created: January 27th 2026
-modified: January 27th 2026, 4:04:20 pm
+modified: February 3rd 2026, 3:59:03 pm
 categories:
   - "[[Formulas]]"
 tags:
@@ -18,4 +18,5 @@ $$
 - $\omega$: [[wheeled-robot angular velocity]]
 - $d$: distance between wheels (axis length)
 - r: radius of wheel
+- R: distance to rotation center at [[instantaneous center of curvature (ICC)]]
 - $\varphi_{l}$: left [[wheel angular velocity]]
