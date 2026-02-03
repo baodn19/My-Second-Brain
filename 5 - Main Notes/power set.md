@@ -11,4 +11,4 @@ tags:
 - *Definition:* the [[set]] of [[subset]]s of a set A
 - *Notation:* $P(A) = \{B|B\subseteq A\}$
 - *Example:* A = {0, 1} $\implies P(A) = \{\emptyset,A,\{0\},\{1\}\}$
-			B = {0, 1, 2} $\implies P(B) = \{ \}$
+- *Theorem:* If |A| < infinity $\implies|P(A)|=2^{|A|}$

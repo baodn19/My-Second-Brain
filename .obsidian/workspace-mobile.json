@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Xiaomin Lin 2-2 In-meeting notes"
             }
+          },
+          {
+            "id": "9c3050968a9cf160",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Main Notes/power set.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "power set"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +185,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "zk-prefixer:Create new unique note": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -181,10 +195,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8108f82282f6d738",
+  "active": "9c3050968a9cf160",
   "lastOpenFiles": [
-    "5 - Main Notes/Meeting with Dr. Lin for RAS chapter advisor.md",
     "5 - Main Notes/Xiaomin Lin 2-2 In-meeting notes.md",
+    "5 - Main Notes/empty sets.md",
+    "5 - Main Notes/prove P -} Q.md",
+    "5 - Main Notes/set.md",
+    "5 - Main Notes/subset.md",
+    "5 - Main Notes/cardinality.md",
+    "5 - Main Notes/power set.md",
+    "/6 - Templates/Class Lectures Template.md",
+    "/6 - Templates",
+    "/5 - Main Notes/subset.md",
+    "/5 - Main Notes/set.md",
+    "/5 - Main Notes/prove P -} Q.md",
+    "/5 - Main Notes/power set.md",
+    "/5 - Main Notes/empty sets.md",
+    "/5 - Main Notes/divisor.md",
+    "/5 - Main Notes/cardinality.md",
+    "/5 - Main Notes/Proof of Contrapositive.md",
+    "/5 - Main Notes/Proof of Contradiction.md",
+    "/5 - Main Notes/COP4530 - Assignment 1.md",
+    "5 - Main Notes/COP4530 - Assignment 1.md",
+    "/5 - Main Notes",
+    "5 - Main Notes/Meeting with Dr. Lin for RAS chapter advisor.md",
     "5 - Main Notes/Sure, AI can ‘do’ writing. But memoir Not so much  Aeon Essays.md",
     "5 - Main Notes/ERA Lab.md",
     "5 - Main Notes/Xiaomin Lin.md",
@@ -192,29 +226,9 @@
     "5 - Main Notes/labor shortage in strawberry harvesting.md",
     "6 - Templates/Bases/Phenomena.base",
     "5 - Main Notes/labor shortage in strawberry harvesting in Florida.md",
-    "4 - Categories/Interview.md",
-    "5 - Main Notes/graceful pivot.md",
-    "6 - Templates/Phenomena Template.md",
-    "5 - Main Notes/agricultural labor shortage in Florida.md",
-    "5 - Main Notes/IEEE-RAS @ USF.md",
-    "5 - Main Notes/How are you going to use the resource of the Gates Scholarship.md",
-    "5 - Main Notes/How would you explain to your parents what you do.md",
-    "5 - Main Notes/What would winning the Knight-Hennessy today mean for you.md",
-    "5 - Main Notes/Florida farms squeezed by worker fear and new E-Verify mandate.md",
-    "5 - Main Notes/What would winning the Gates today mean for you.md",
-    "5 - Main Notes/NeRF Neural Radiance Fields (10 min talk).md",
-    "5 - Main Notes/How are you going to use the resource of the Knight-Hennessy Scholarship.md",
-    "5 - Main Notes/How is knowledge today constructed.md",
-    "5 - Main Notes/Dynamic 3D reconstruction.md",
-    "5 - Main Notes/Meeting with anh Dong 1-31.md",
-    "5 - Main Notes/Scholar huddle 01-30.md",
-    "5 - Main Notes/What's your opinion on pirating.md",
-    "5 - Main Notes/Questions for Anzhelika.md",
     "/6 - Templates/Bases/Phenomena.base",
     "/6 - Templates/Bases/Daily.base",
     "/6 - Templates/Bases",
-    "/6 - Templates",
-    "/5 - Main Notes",
     "/4 - Categories",
     "/6 - Templates/Bases/Research Literatures.base",
     "6 - Templates/Bases/Research Literatures.base",
