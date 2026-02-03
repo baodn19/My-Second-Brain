@@ -2,11 +2,11 @@
 created: February 3rd 2026
 categories:
   - "[[Concepts]]"
-modified: February 3rd 2026, 1:39:18 pm
+modified: February 3rd 2026, 2:19:02 pm
 tags:
-  - computing-theory
   - logic
   - set-theory
+  - mathematics
 ---
 - *Notation:* $A \subseteq B$: every element of A is also an element of B
 - *Example:*
