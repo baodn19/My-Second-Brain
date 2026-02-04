@@ -2,10 +2,9 @@
 categories:
   - "[[Meetings]]"
 created: 2026-01-31
-modified: February 1st 2026, 12:54:49 am
+modified: February 1st 2026, 5:27:41 pm
 type:
   - "[[scholarship]]"
-org:
 loc:
   - FAO 200M
 people:
@@ -16,7 +15,6 @@ people:
   - "[[Caleb Fernandes]]"
 topics:
   - How to work on the response of interview questions
-contact:
 ---
 ## Post-graduation slip
 - [[What's your opinion on pirating]]

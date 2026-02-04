@@ -1,8 +1,8 @@
 ---
-created: January 30th 2026
+created: 2026-02-01
 categories:
   - "[[Interview Questions]]"
-modified: January 30th 2026, 1:57:54 pm
+modified: February 1st 2026, 5:29:36 pm
 tags:
   - experiential
 ---
@@ -12,5 +12,13 @@ tags:
 - I help the robot see its environment while minimizing the energy spent on this
 - End goal is to design robot operate in agricultural environments
 - Vision is crucial to help the robot navigate cluttered environments & receive real-time feedback
+- *Feedback:* too technical
 ## Non-obvious Answer
+### Option 1
+
+### Option 2
+
+### Option 3
+
+
 ## Resource
