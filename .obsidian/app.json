@@ -1,14 +1,14 @@
 {
-  "attachmentFolderPath": "Attachments",
-  "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "5 - Main Notes",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "attachmentFolderPath": "Attachments",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "5 - Main Notes"
 }
