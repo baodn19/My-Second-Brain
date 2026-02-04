@@ -2,17 +2,28 @@
 created: January 30th 2026
 categories:
   - "[[Meetings]]"
-date:
-type: []
+date: 2026-02-04
+type:
+  - "[[Advising]]"
 org:
+  - "[[Bellini CAICC]]"
 loc:
+  - Virtual
 people:
-  - Erin Dudley
-topics: []
+  - "[[Erin Dudley]]"
+topics:
+  - Degree progression
 contact:
-modified: February 1st 2026, 2:29:02 pm
+  - bellini-advising@usf.edu
+modified: February 4th 2026, 10:52:57 am
 ---
 ## Question
 **Q:** Does MAS 3105 waive EGN 4450? If I want to take CAP 4662 does MAS 3105 work as a pre-req?
+- MAS 3105 can waive EGN 4450. Send a message after finish MAS 3105 to waive EGN 4450. Confirm MAS 3105 as pre-req with supervisor. need to put pre-req overwrite & do before registration for spring 2027.
 **Q:** Does EGN 3615 apply for UGES?
-**Q:** What will the unnecessary labs count toward? 
+- EGN 3615 does. Next week she will ask advisor
+**Q:** What will the unnecessary labs count toward?
+- Chemistry lab would be 1 credit hour out of 16 credit hours
+**Q:** What's the procedure for signing up for RCL?
+- Work with international service. At least 1 in-person class and the form approve by academic advisor
+- Registrar approve the research experience as internship or not
