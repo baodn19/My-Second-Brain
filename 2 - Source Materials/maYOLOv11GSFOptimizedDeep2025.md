@@ -1,17 +1,17 @@
 ---
 title: "[[YOLOv11-GSF - an optimized deep learning model for strawberry ripeness detection in agriculture]]"
-year: 2025 
+year: 2025
 authors: Haoran Ma, Qian Zhao, Runqing Zhang, Chunxu Hao, Wenhui Dong, Xiaoying Zhang, Fuzhong Li, Xiaoqin Xue, Gongqing Sun
 categories:
   - "[[Research References]]"
-tags: 
-- C3K2-SG-module 
-- F-PIoUv2-loss-function 
-- ghost-module 
-- object-detection 
-- strawberry 
-- YOLOv11 
-pass: 
+tags:
+  - C3K2-SG-module
+  - F-PIoUv2-loss-function
+  - ghost-module
+  - object-detection
+  - strawberry
+  - YOLOv11
+pass: first
 ---
 
 Zotero PDF Link: [[Zotero Attachments/Ma et al. - 2025 - YOLOv11-GSF an optimized deep learning model for strawberry ripeness detection in agriculture.pdf]]
