@@ -1,5 +1,5 @@
 ---
-title: "{{title | escape}}" 
+title: "[[{{title | replace(':', ' -') | replace('/', '-') | replace('"', '')}}]]"
 year: {{date | format("YYYY")}} 
 authors: {{authors}}
 categories:
@@ -11,7 +11,7 @@ tags:
 pass: 
 ---
 
-Zotero PDF Link: {{pdfZoteroLink}} 
+{% for attachment in attachments %}{% if attachment.path and ".pdf" in attachment.path %}Zotero PDF Link: [[Zotero Attachments/{{ attachment.path | replace(r/^.*[\\\/]/, "") }}]]{% endif %}{% endfor %}
 Related: {% for relation in relations | selectattr("citekey") %} [[{{relation.citekey}}]]{% if not loop.last %}, {% endif%} {% endfor %} 
 # In-text annotations 
 {% for annotation in annotations -%} 
