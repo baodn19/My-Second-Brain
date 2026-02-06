@@ -12,6 +12,7 @@ tags:
   - strawberry
   - YOLOv11
 pass: first
+modified: February 6th 2026, 3:29:00 pm
 ---
 
 Zotero PDF Link: [[Zotero Attachments/Ma et al. - 2025 - YOLOv11-GSF an optimized deep learning model for strawberry ripeness detection in agriculture.pdf]]
