@@ -1,18 +1,20 @@
 ---
 categories:
   - "[[Books]]"
-author: []
-cover:
-genre: []
-pages:
-isbn:
-isbn13:
-year:
-rating:
-topics: []
-created: {{date}}
-last:
-via: ""
+title: "{{title}}"
+subtitle: "{{subtitle}}"
+author: [{{author}}]
+category: [{{category}}]
+publisher: {{publisher}}
+publish: {{publishDate}}
+total: {{totalPage}}
+isbn: {{isbn10}} {{isbn13}}
+cover: {{coverUrl}}
+localCover: {{localCoverImage}}
+status: unread
+created: {{DATE:YYYY-MM-DD HH:mm:ss}}
+modified: 
 tags:
   - to-read
 ---
+
