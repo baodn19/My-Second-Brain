@@ -2,7 +2,7 @@
 categories:
   - "[[Research Literatures]]"
 created: February 5th 2026
-modified: February 6th 2026, 1:26:53 pm
+modified: February 8th 2026, 11:08:14 am
 reference note:
   - "[[maYOLOv11GSFOptimizedDeep2025]]"
 tags:
