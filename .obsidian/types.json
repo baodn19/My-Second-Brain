@@ -57,6 +57,7 @@
     "contact": "multitext",
     "modified": "date",
     "class": "multitext",
-    "reference note": "multitext"
+    "reference note": "multitext",
+    "pass": "multitext"
   }
 }

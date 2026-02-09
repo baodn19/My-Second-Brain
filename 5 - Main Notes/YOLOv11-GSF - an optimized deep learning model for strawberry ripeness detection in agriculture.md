@@ -12,6 +12,7 @@ tags:
   - object-detection
   - strawberry
   - YOLOv11
+pass: first
 ---
 ## 1st Pass
 ### Problems

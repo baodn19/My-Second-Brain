@@ -7,8 +7,8 @@ categories:
 tags:
   - object-detection
   - strawberry
-pass: first
-modified: February 8th 2026, 11:39:01 am
+pass:
+modified: February 9th 2026, 3:03:31 pm
 ---
 
 Zotero PDF Link: [[Zotero Attachments/Chen et al. - 2025 - An accurate recognition and localization algorithm for strawberry picking robots.pdf]]

@@ -1,0 +1,17 @@
+filters:
+  and:
+    - categories.contains(link("Research Literatures"))
+    - '!file.name.contains("Template")'
+views:
+  - type: table
+    name: First Pass
+    filters:
+      and:
+        - pass == ["first"]
+    order:
+      - file.name
+      - tags
+  - type: table
+    name: Second Pass
+  - type: table
+    name: Thrid Pass

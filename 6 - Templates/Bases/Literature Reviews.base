@@ -1,6 +1,6 @@
 filters:
   and:
-    - categories.contains(link("Research Literatures"))
+    - category.contains(link("Literature Reviews"))
     - '!file.name.contains("Template")'
 views:
   - type: table

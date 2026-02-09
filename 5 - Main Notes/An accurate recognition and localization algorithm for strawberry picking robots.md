@@ -8,6 +8,8 @@ reference note:
 tags:
   - object-detection
   - strawberry
+pass:
+  - first
 ---
 ## 1st Pass
 ### Problems
