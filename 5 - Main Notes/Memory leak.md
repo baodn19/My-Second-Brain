@@ -8,7 +8,7 @@ tags:
 ---
 - *Occurs when:*
 	- Memory is dynamically allocated using [[new Operator]] 
-	- The [[Pointers]] to that memory is lost without calling delete 
+	- The [[null pointer]] to that memory is lost without calling delete 
 	- The memory becomes inaccessible but still occupied
 - *Consequence:*
 	- The original object still exists in memory 

@@ -15,7 +15,7 @@ tags:
 	- Avoiding unnecessary copying 
 	- Writing cleaner, safer code
 - *Memory Safety:*
-	- [[Pointers]] → powerful, flexible, risky; use only when necessary 
+	- [[null pointer]] → powerful, flexible, risky; use only when necessary 
 	- References → safer, simpler, limited; use when possible
 ## Syntax
 - `T& <refName> = <variable>`

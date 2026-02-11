@@ -9,7 +9,7 @@ tags:
 ---
 ## Overview
 - Allocates memory from the free store 
-- Returns a [[Pointers]] to the allocated object
+- Returns a [[null pointer]] to the allocated object
 - Memory is allocated from the [[free store]] 
 - It exists even after leaving the statement 
 - It will remain until [[delete Operator]] is called
