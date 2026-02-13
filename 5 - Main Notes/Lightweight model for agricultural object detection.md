@@ -1,7 +1,7 @@
 ---
 created: "{date:YYYY-MM-DD}}"
 category:
-  - "[[Literature Reviews]]"
+  - "[[Literature Reviews - Agricultural Object Detection]]"
 modified: February 9th 2026, 3:06:12 pm
 tags:
   - strawberry

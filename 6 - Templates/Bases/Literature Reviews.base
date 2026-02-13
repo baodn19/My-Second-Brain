@@ -1,7 +1,10 @@
 filters:
   and:
-    - category.contains(link("Literature Reviews"))
+    - category.contains(link("Literature Reviews - Agricultural Object Detection"))
     - '!file.name.contains("Template")'
 views:
   - type: table
     name: Table
+    sort:
+      - property: file.name
+        direction: ASC

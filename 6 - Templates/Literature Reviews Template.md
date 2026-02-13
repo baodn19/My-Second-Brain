@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Literature Reviews]]"
+  - "[[Literature Reviews - Agricultural Object Detection]]"
 created: "{date:YYYY-MM-DD}}"
 modified: February 9th 2026, 2:56:49 pm
 tags:
