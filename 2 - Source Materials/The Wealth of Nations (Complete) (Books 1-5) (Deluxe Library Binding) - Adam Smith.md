@@ -14,7 +14,8 @@ cover: http://books.google.com/books/content?id=qK4QzgEACAAJ&printsec=frontcover
 localCover:
 status: unread
 created: 2026-02-07 09:15:05
-modified: February 7th 2026, 9:15:15 am
+modified: February 13th 2026, 12:25:45 am
 tags:
   - to-read
 ---
+- [[Introduction and Plan of the Work]]

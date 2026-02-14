@@ -2,7 +2,7 @@
 categories:
   - "[[Formulas]]"
 created: February 3rd 2026
-modified: February 3rd 2026, 4:07:05 pm
+modified: February 13th 2026, 12:24:31 am
 tags:
   - robot-kinematics
   - wheeled-robot

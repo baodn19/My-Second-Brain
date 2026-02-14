@@ -12,6 +12,14 @@ properties:
   note.genre:
     displayName: Genre
 views:
+  - type: cards
+    name: Cover View
+    order:
+      - title
+      - author
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.55
   - type: table
     name: Books
     order:
@@ -55,11 +63,3 @@ views:
       - file.name
       - year
       - genre
-  - type: cards
-    name: Cover View
-    order:
-      - title
-      - author
-    image: note.cover
-    imageFit: contain
-    imageAspectRatio: 1.55
