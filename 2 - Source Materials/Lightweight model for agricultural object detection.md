@@ -2,11 +2,18 @@
 created: "{date:YYYY-MM-DD}}"
 category:
   - "[[Literature Reviews - Agricultural Object Detection]]"
-modified: February 14th 2026, 10:54:52 am
+modified: February 14th 2026, 5:14:22 pm
 tags:
   - strawberry
   - object-detection
 ---
+# Research question
+- *Optimize model* to run on Jetson AGX Orin 64gb
+	- Why this device?
+	- What benefit does it provide to precision agriculture?
+		- Cost efficient?
+		- More compact?
+
 # Search Strategy
 - *Include:* 
 	- **Architecture specific:** `YOLOv11n`, `StarNet backbone`, `SlimNeck`, `GSConv`, `Knowledge Distillation`

@@ -11,8 +11,9 @@ tags:
   - object-detection
   - strawberry
   - YOLOv11
-pass: first
-modified: February 6th 2026, 3:29:00 pm
+pass:
+  - first
+modified: February 14th 2026, 5:43:19 pm
 ---
 
 Zotero PDF Link: [[Zotero Attachments/Ma et al. - 2025 - YOLOv11-GSF an optimized deep learning model for strawberry ripeness detection in agriculture.pdf]]
@@ -36,7 +37,17 @@ Related:
  
 Look into maturity detection [Page 2](zotero://open-pdf/library/items/V6HRNXDA?page=2&annotation=PQZBB87U) 
   
+ <mark class="hltr-green">"The rapid advancement of machine vision and deep learning technologies has led to the increasing maturity of target detection applications in agriculture (Xu et al., 2022)."</mark> [Page 2](zotero://open-pdf/library/items/V6HRNXDA?page=2&annotation=VU2JTSCR) 
+  
  <mark class="hltr-gray">"(Xu et al., 2022)"</mark> [Page 2](zotero://open-pdf/library/items/V6HRNXDA?page=2&annotation=4DC7MJPB) 
+  
+ <mark class="hltr-yellow">"improved YOLOv5 target detection algorithm based on the GAM(Global Attention Mechanism) attention mechanism, enhancing the model’s feature extraction capability by adding the GAM attention mechanism"</mark> [Page 2](zotero://open-pdf/library/items/V6HRNXDA?page=2&annotation=DBK5488X) 
+  
+ <mark class="hltr-yellow">"Gong et al. (2024) designed a strawberry picking robot capable of precise recognition and localization of strawberries, with a recognition rate of 95% for ripe strawberries."</mark> [Page 2](zotero://open-pdf/library/items/V6HRNXDA?page=2&annotation=P5AMCVQ8) 
+  
+ <mark class="hltr-yellow">"Tang et al. (2023) proposed an improved YOLOv7-Tiny model for ripe strawberry recognition."</mark> [Page 2](zotero://open-pdf/library/items/V6HRNXDA?page=2&annotation=VUPDVV33) 
+  
+ <mark class="hltr-yellow">"Yang et al. (2024) proposed a strawberry recognition and localization method combining an improved YOLOv8 algorithm with a pose keypoint detection algorithm"</mark> [Page 2](zotero://open-pdf/library/items/V6HRNXDA?page=2&annotation=AZHSTU7B) 
   
  <mark class="hltr-purple">"2 Materials and methods"</mark> [Page 3](zotero://open-pdf/library/items/V6HRNXDA?page=3&annotation=FIBTYCJC) 
   

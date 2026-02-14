@@ -1,5 +1,8 @@
 ---
-created: {{date}}
+category:
+  - "[[Evergreen]]"
+created: "{{date:YYYY-MM-DD}}"
+modified:
+topics:
 tags:
-  - 0🌲
 ---
