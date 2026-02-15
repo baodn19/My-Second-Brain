@@ -1,8 +1,8 @@
 ---
 categories:
   - "[[Research Literatures]]"
-created: "{{date:MMMM Do YYYY}}"
-modified:
+created: February 15th 2026
+modified: February 15th 2026, 1:45:10 pm
 reference note:
 pass:
   - first

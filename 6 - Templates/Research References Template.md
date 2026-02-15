@@ -8,7 +8,6 @@ tags:
 {% for t in tags -%} 
   - {{t.tag | replace(" ", "-")}} 
 {% endfor -%}
-pass: 
 ---
 
 {% for attachment in attachments %}{% if attachment.path and ".pdf" in attachment.path %}Zotero PDF Link: [[Zotero Attachments/{{ attachment.path | replace(r/^.*[\\\/]/, "") }}]]{% endif %}{% endfor %}

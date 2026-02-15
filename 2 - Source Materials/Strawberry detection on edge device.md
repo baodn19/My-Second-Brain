@@ -1,8 +1,8 @@
 ---
-created: "{date:YYYY-MM-DD}}"
+created: 2026-02-15
 category:
   - "[[Literature Reviews - Agricultural Object Detection]]"
-modified: February 14th 2026, 5:14:22 pm
+modified: February 15th 2026, 1:41:16 pm
 tags:
   - strawberry
   - object-detection
@@ -24,10 +24,10 @@ tags:
 	- `Simulation-only` (You want "field" or "in-situ" results).
 
 # First Pass
-![[Strawberry Object Detection on Edge Devices.base]]
+![[Strawberry Detection on Edge Devices.base]]
 # Second Pass
-![[Strawberry Object Detection on Edge Devices.base]]
+![[Strawberry Detection on Edge Devices.base]]
 # Third Pass
-![[Strawberry Object Detection on Edge Devices.base]]
+![[Strawberry Detection on Edge Devices.base]]
 # State-of-the-art
 # Research Gap

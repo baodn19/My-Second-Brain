@@ -1,6 +1,6 @@
 filters:
   and:
-    - categories.contains(link("Research Literatures"))
+    - categories.contains(link("Strawberry detection on edge device"))
     - '!file.name.contains("Template")'
 views:
   - type: table
