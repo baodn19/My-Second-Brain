@@ -13,6 +13,7 @@ tags:
   - 0🌲
 status:
   - "[[Published]]"
+modified: February 14th 2026, 7:52:33 pm
 ---
 Using [[Evergreen]] notes in Obsidian has been the most impactful change to how I think.
 
