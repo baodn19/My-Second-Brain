@@ -2,7 +2,7 @@
 created: 2026-02-15
 category:
   - "[[Literature Reviews - Agricultural Object Detection]]"
-modified: February 16th 2026, 9:24:08 am
+modified: February 16th 2026, 9:34:32 am
 tags:
   - strawberry
   - object-detection
@@ -17,6 +17,7 @@ tags:
 	- How many stages would be meaningful to the farmer?
 	- Localize the where stages of strawberry => What value would this bring?
 		- Research shows that **water stress** or specific **potassium levels** applied at the "Turning" stage can actually increase the final sweetness and size of the fruit. A robot that maps these stages tells the farmer exactly which rows need a change in fertigation _today_ to maximize the quality of _next week’s_ harvest.
+		- Combine SLAM and computer vision
 
 # Search Strategy
 - *Include:* 
