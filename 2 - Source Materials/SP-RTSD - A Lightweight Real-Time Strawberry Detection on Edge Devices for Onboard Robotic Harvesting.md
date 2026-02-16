@@ -1,14 +1,15 @@
 ---
 categories:
-  - "[[Research Literatures]]"
+  - "[[Strawberry detection on edge device]]"
 created: February 15th 2026
-modified: February 15th 2026, 9:56:44 pm
+modified: February 16th 2026, 9:17:12 am
 reference note:
   - "[[chenSPRTSDLightweightRealTime2025]]"
 pass:
   - first
 tags:
   - edge-deployment
+year: 2025
 ---
 ## 1st Pass
 ### Problems

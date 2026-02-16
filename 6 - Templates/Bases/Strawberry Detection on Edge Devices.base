@@ -11,6 +11,7 @@ views:
     order:
       - file.name
       - tags
+      - year
   - type: table
     name: Second Pass
     filters:
