@@ -14,8 +14,12 @@ cover: http://books.google.com/books/content?id=qK4QzgEACAAJ&printsec=frontcover
 localCover:
 status: unread
 created: 2026-02-07 09:15:05
-modified: February 13th 2026, 12:25:45 am
+modified: February 15th 2026, 10:46:43 pm
 tags:
   - to-read
 ---
-- [[Introduction and Plan of the Work]]
+# Introduction
+- [[The proportion of produce to customer affect necessities of life]]
+- [[Labor provides the necessities of life]]
+# Book 1 - Chapter 1: Of the Division of Labor
+- [[Division of labor increase the labor productivity]]

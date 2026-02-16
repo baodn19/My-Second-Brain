@@ -2,8 +2,8 @@
 created: 2026-02-01
 categories:
   - "[[Phenomena]]"
-modified: February 1st 2026, 1:34:55 pm
+  - "[[agricultural labor]]"
+modified: February 15th 2026, 10:52:15 pm
 tags:
   - precision-agriculture
-  - labor
 ---
