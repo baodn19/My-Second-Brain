@@ -43,7 +43,7 @@
     "shares": "number",
     "variety": "text",
     "price": "number",
-    "author": "multitext",
+    "author": "text",
     "published": "date",
     "where": "multitext",
     "loc": "multitext",
@@ -58,6 +58,7 @@
     "modified": "date",
     "class": "multitext",
     "reference note": "multitext",
-    "pass": "multitext"
+    "pass": "multitext",
+    "scholarship": "multitext"
   }
 }

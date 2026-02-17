@@ -1,5 +1,4 @@
 [
-  "obsidian-excalidraw-plugin",
   "obsidian-git",
   "code-styler",
   "obsidian-zotero-desktop-connector",
@@ -8,5 +7,6 @@
   "frontmatter-modified-date",
   "obsidian-latex-suite",
   "obsidian-book-search-plugin",
-  "advanced-random-note"
+  "advanced-random-note",
+  "dataview"
 ]
