@@ -1,5 +1,5 @@
 ---
-modified: February 12th 2026, 1:31:14 pm
+modified: February 17th 2026, 1:39:04 pm
 ---
 [
     // Math mode
@@ -14,6 +14,7 @@ modified: February 12th 2026, 1:31:14 pm
 
     // Greek letters
 	{trigger: "@a", replacement: "\\alpha", options: "mA"},
+	{trigger: "@r", replacement: "\\rho", options: "mA"},
 	{trigger: "@b", replacement: "\\beta", options: "mA"},
 	{trigger: "@g", replacement: "\\gamma", options: "mA"},
 	{trigger: "@G", replacement: "\\Gamma", options: "mA"},
@@ -37,7 +38,7 @@ modified: February 12th 2026, 1:31:14 pm
 	{trigger: "@O", replacement: "\\Omega", options: "mA"},
 	{trigger: "ome", replacement: "\\omega", options: "mA"},
 	{trigger: "Ome", replacement: "\\Omega", options: "mA"},
-	{trigger: "and", replacement: "\\wedge", options: "mA"},
+	{trigger: "annd", replacement: "\\wedge", options: "mA"},
 	{trigger: "oor", replacement: "\\vee", options: "mA"},
 		{trigger: "box", replacement: "\\Box", options: "mA"},
 		{trigger: "contra", replacement: "\\textreferencemark", options: "mA"},
@@ -150,6 +151,7 @@ modified: February 12th 2026, 1:31:14 pm
     {trigger: "sup=", replacement: "\\supseteq", options: "mA"},
 	{trigger: "eset", replacement: "\\emptyset", options: "mA"},
 	{trigger: "set", replacement: "\\{ $0 \\}$1", options: "mA"},
+	{trigger: "floor", replacement: "\\left\\lfloor $0 \\right\\rfloor$1", options: "mA"},
 	{trigger: "e\\xi sts", replacement: "\\exists", options: "mA", priority: 1},
 
 	{trigger: "LL", replacement: "\\mathcal{L}", options: "mA"},
