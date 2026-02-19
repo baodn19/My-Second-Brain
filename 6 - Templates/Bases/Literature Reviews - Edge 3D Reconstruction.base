@@ -1,0 +1,6 @@
+filters:
+  and:
+    - category.contains(link("Literature Reviews - Edge 3D Reconstruction"))
+views:
+  - type: table
+    name: Table
