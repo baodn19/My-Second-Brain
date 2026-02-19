@@ -2,7 +2,7 @@
 created: February 17th 2026
 categories:
   - "[[Concepts]]"
-modified: February 17th 2026, 1:36:00 pm
+modified: February 19th 2026, 1:30:20 pm
 tags:
   - mathematics
 ---
@@ -14,4 +14,7 @@ tags:
 	- f(A): [[function range]]
 - *Special:*
 	- [[natural number function]]
+	- [[power set function]]
 	- [[floor function]]
+	- [[square function]]
+- *Properties:* A, B: finite set. $\exists|B|^{|A|}$ functions from A to B

@@ -1,5 +1,5 @@
 ---
-modified: February 17th 2026, 1:39:04 pm
+modified: February 19th 2026, 1:06:48 pm
 ---
 [
     // Math mode
@@ -39,6 +39,7 @@ modified: February 17th 2026, 1:39:04 pm
 	{trigger: "ome", replacement: "\\omega", options: "mA"},
 	{trigger: "Ome", replacement: "\\Omega", options: "mA"},
 	{trigger: "annd", replacement: "\\wedge", options: "mA"},
+	{trigger: "PP", replacement: "\\\mathscr{P}", options: "mA"},
 	{trigger: "oor", replacement: "\\vee", options: "mA"},
 		{trigger: "box", replacement: "\\Box", options: "mA"},
 		{trigger: "contra", replacement: "\\textreferencemark", options: "mA"},
@@ -153,6 +154,7 @@ modified: February 17th 2026, 1:39:04 pm
 	{trigger: "set", replacement: "\\{ $0 \\}$1", options: "mA"},
 	{trigger: "floor", replacement: "\\left\\lfloor $0 \\right\\rfloor$1", options: "mA"},
 	{trigger: "e\\xi sts", replacement: "\\exists", options: "mA", priority: 1},
+	{trigger: "ne\\xi sts", replacement: "\\nexists", options: "mA", priority: 1},
 
 	{trigger: "LL", replacement: "\\mathcal{L}", options: "mA"},
 	{trigger: "HH", replacement: "\\mathcal{H}", options: "mA"},
