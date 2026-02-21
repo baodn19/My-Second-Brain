@@ -1,8 +1,8 @@
 ---
 created: 2026-02-18
 category:
-  - "[[Literature Reviews - Agricultural Object Detection]]"
-modified: February 19th 2026, 1:09:08 am
+  - "[[Literature Reviews - Edge 3D Reconstruction]]"
+modified: February 20th 2026, 12:37:39 pm
 tags:
 ---
 # Research Question
