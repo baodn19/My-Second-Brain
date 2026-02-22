@@ -2,7 +2,7 @@
 created: 2026-02-22
 category:
   - "[[Book Literatures]]"
-modified: February 22nd 2026, 12:21:17 am
+modified: February 22nd 2026, 12:28:18 am
 book: "[[Genius Makers - Cade Metz]]"
 ---
 # Themes
