@@ -1,5 +1,5 @@
 ---
-modified: February 19th 2026, 1:06:48 pm
+modified: February 24th 2026, 1:30:57 pm
 ---
 [
     // Math mode
@@ -12,8 +12,9 @@ modified: February 19th 2026, 1:06:48 pm
 	// {trigger: "–-", replacement: "—", options: "tA"},
 	// {trigger: "—-", replacement: "---", options: "tA"},
 
-    // Greek letters
+    // Greek letters 
 	{trigger: "@a", replacement: "\\alpha", options: "mA"},
+	{trigger: "!R", replacement: "\\not\\mathrel{R}", options: "mA"},
 	{trigger: "@r", replacement: "\\rho", options: "mA"},
 	{trigger: "@b", replacement: "\\beta", options: "mA"},
 	{trigger: "@g", replacement: "\\gamma", options: "mA"},
@@ -133,6 +134,7 @@ modified: February 19th 2026, 1:06:48 pm
 	{trigger: ">>", replacement: "\\gg", options: "mA"},
 	{trigger: "<<", replacement: "\\ll", options: "mA"},
 	{trigger: "simm", replacement: "\\sim", options: "mA"},
+	{trigger: "!simm", replacement: "\\nsim", options: "mA"},
 	{trigger: "sim=", replacement: "\\simeq", options: "mA"},
     {trigger: "prop", replacement: "\\propto", options: "mA"},
 
