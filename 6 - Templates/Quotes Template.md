@@ -1,5 +1,8 @@
 ---
+category:
+  - "[[Quotes]]"
 modified: February 17th 2026, 3:01:57 pm
+created: "{{date:YYYY-MM-DD}}"
 ---
 <%*
 // 1. Define variables FIRST
@@ -17,22 +20,13 @@ author: "<%* tR += author %>"
 source: "<%* tR += source %>"
 tags: 
 topics:
-scholarship: []
 ---
 
-# Quote: <% tp.file.title %>
+# Quote: 
 
 > [!quote] <% author %>
 > "<% quoteText %>"
 
 ---
 
-### 💡 The "Scholarship Hook"
-*How does this relate to the "World's Fight" or my research at [[ERA Lab]]?*
-- **The Insight:** - **Interview Pivot:** ### 🔗 Context & Connections
-* **Source Material:** [[<% source %>]]
-* **Research Lab:** [[RARE Lab]] / [[ERA Lab]]
-* **Project Link:** [[Projected AR Paper]] / [[IEEE RAS]]
-
-### 📝 Strategic Notes
--
+# Context
