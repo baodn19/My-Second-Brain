@@ -1,5 +1,5 @@
 ---
-modified: February 24th 2026, 1:30:57 pm
+modified: February 26th 2026, 1:22:36 pm
 ---
 [
     // Math mode
@@ -164,6 +164,7 @@ modified: February 24th 2026, 1:30:57 pm
 	{trigger: "RR", replacement: "\\mathbb{R}", options: "mA"},
 	{trigger: "ZZ", replacement: "\\mathbb{Z}", options: "mA"},
 	{trigger: "NN", replacement: "\\mathbb{N}", options: "mA"},
+	{trigger: "QQ", replacement: "\\mathbb{Q}", options: "mA"},
 
     // Handle spaces and backslashes
 
@@ -229,6 +230,7 @@ modified: February 24th 2026, 1:30:57 pm
 
     // Quantum mechanics
     {trigger: "dag", replacement: "^{\\dagger}", options: "mA"},
+    {trigger: "!|", replacement: "\\nmid", options: "mA"},
 	{trigger: "o+", replacement: "\\oplus ", options: "mA"},
 	{trigger: "ox", replacement: "\\otimes ", options: "mA"},
     {trigger: "bra", replacement: "\\bra{$0} $1", options: "mA"},
