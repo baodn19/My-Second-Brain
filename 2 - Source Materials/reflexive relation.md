@@ -2,8 +2,8 @@
 created: February 24th 2026
 categories:
   - "[[Concepts]]"
-modified: February 24th 2026, 1:26:51 pm
+modified: February 26th 2026, 7:27:59 pm
 tags:
   - mathematics
 ---
-- *Definition:* a [[binary relation]] R on a set A is **reflexive** if xRy $\forall x \in A$
+- *Definition:* a [[binary relation]] R on a set A is **reflexive** if xRx $\forall x \in A$
