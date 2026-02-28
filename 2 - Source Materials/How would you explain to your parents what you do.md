@@ -5,6 +5,7 @@ categories:
 modified: February 5th 2026, 10:18:08 pm
 tags:
   - experiential
+  - interview
 ---
 ## Obvious Answer
 - Imagine robots as blind people - they can't see anything

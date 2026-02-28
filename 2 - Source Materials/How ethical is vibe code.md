@@ -4,6 +4,7 @@ categories:
 created: 2026-02-15
 modified: February 15th 2026, 2:15:58 pm
 tags:
+  - interview
 ---
 ## Obvious Answer
 

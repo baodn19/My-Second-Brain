@@ -2,11 +2,10 @@
 created: 2026-02-15
 categories:
   - "[[Interview Questions]]"
-  - "[[Evergreen]]"
-modified: February 15th 2026, 6:35:44 pm
+modified: February 27th 2026, 11:06:04 am
 tags:
   - experiential
-  - seed
+  - interview
 ---
 ## Brainstorm
 - *What do they want to know:* motivation to pursue precision agriculture

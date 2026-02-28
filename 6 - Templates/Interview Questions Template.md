@@ -1,11 +1,10 @@
 ---
 categories:
   - "[[Interview Questions]]"
-  - "[[Evergreen]]"
 created: "{{date:YYYY-MM-DD}}"
 modified:
+topics:
 tags:
-  - seed
 ---
 ## Brainstorm
 

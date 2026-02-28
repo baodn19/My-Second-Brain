@@ -5,6 +5,7 @@ categories:
 modified: January 30th 2026, 1:58:17 pm
 tags:
   - experiential
+  - interview
 ---
 ## Obvious Answer
 - I align with the [[Gates Cambridge Scholarships]]'s mission to improve the lives of others

@@ -4,6 +4,7 @@ categories:
   - "[[Interview Questions]]"
 modified: January 30th 2026, 10:59:58 pm
 tags:
+  - interview
 ---
 ## Obvious Answer
 - *How did the story shape me:* how privilege my desire to improve other people's lives
