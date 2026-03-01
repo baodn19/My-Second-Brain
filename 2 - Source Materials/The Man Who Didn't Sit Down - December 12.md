@@ -2,9 +2,10 @@
 category:
   - "[[Book Literatures]]"
 created: 2026-02-24
-modified: February 25th 2026, 12:56:55 am
+modified: March 1st 2026, 11:15:23 am
 book: "[[Genius Makers - Cade Metz]]"
 ---
+- *Title:* my first impression is that "not sitting down" means constantly working, which is true. But this also refers to Hinton's slipped disk which prevent him from sitting down. 
 - 4 companies came to the auction: [[Baidu]], [[Google]], [[Microsoft]], [[Google DeepMind]] 
 	- Google: [[Alan Eustace]], [[Jeff Dean]]
 	- Baidu: [[Kai Yu]]
