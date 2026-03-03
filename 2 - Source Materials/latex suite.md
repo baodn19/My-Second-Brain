@@ -1,5 +1,5 @@
 ---
-modified: February 26th 2026, 1:22:36 pm
+modified: March 2nd 2026, 10:01:18 pm
 ---
 [
     // Math mode
@@ -33,9 +33,10 @@ modified: February 26th 2026, 1:22:36 pm
 	{trigger: "@L", replacement: "\\Lambda", options: "mA"},
 	{trigger: "@s", replacement: "\\sigma", options: "mA"},
 	{trigger: "@S", replacement: "\\Sigma", options: "mA"},
-	{trigger: "@u", replacement: "\\upsilon", options: "mA"},
-	{trigger: "@U", replacement: "\\Upsilon", options: "mA"},
+	{trigger: "@v", replacement: "\\upsilon", options: "mA"},
+	{trigger: "@V", replacement: "\\Upsilon", options: "mA"},
 	{trigger: "@o", replacement: "\\omega", options: "mA"},
+	{trigger: "@u", replacement: "\\mu", options: "mA"},
 	{trigger: "@O", replacement: "\\Omega", options: "mA"},
 	{trigger: "ome", replacement: "\\omega", options: "mA"},
 	{trigger: "Ome", replacement: "\\Omega", options: "mA"},
