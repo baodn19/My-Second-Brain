@@ -2,7 +2,7 @@
 created: 2026-03-02
 categories:
   - "[[Interview Questions]]"
-modified: March 2nd 2026, 10:39:29 am
+modified: March 3rd 2026, 9:21:32 am
 tags:
   - interview
 topics:
@@ -41,4 +41,9 @@ topics:
 ### Option 3
 
 ## Attempts
+- *3/3:* option 1
+	- Introduction is too long
+	- The achievement at WRO is unnecessary => Don't have enough time to talk about the part about other's
+![[Most Powerful Story - Take 1.m4a]]
+
 ## Resource
