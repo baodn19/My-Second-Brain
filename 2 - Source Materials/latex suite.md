@@ -1,5 +1,5 @@
 ---
-modified: March 2nd 2026, 10:01:18 pm
+modified: March 3rd 2026, 4:33:09 pm
 ---
 [
     // Math mode
@@ -78,6 +78,7 @@ modified: March 2nd 2026, 10:01:18 pm
     // More operations
 	{trigger: "([a-zA-Z])hat", replacement: "\\hat{[[0]]}", options: "rmA"},
     {trigger: "([a-zA-Z])bar", replacement: "\\bar{[[0]]}", options: "rmA"},
+    {trigger: "([a-zA-Z])over", replacement: "\\overline{[[0]]}", options: "rmA"},
 	{trigger: "([a-zA-Z])dot", replacement: "\\dot{[[0]]}", options: "rmA", priority: -1},
 	{trigger: "([a-zA-Z])ddot", replacement: "\\ddot{[[0]]}", options: "rmA", priority: 1},
 	{trigger: "([a-zA-Z])tilde", replacement: "\\tilde{[[0]]}", options: "rmA"},
@@ -90,6 +91,7 @@ modified: March 2nd 2026, 10:01:18 pm
 
 	{trigger: "hat", replacement: "\\hat{$0}$1", options: "mA"},
     {trigger: "bar", replacement: "\\bar{$0}$1", options: "mA"},
+    {trigger: "over", replacement: "\\overline{$0}$1", options: "mA"},
 	{trigger: "dot", replacement: "\\dot{$0}$1", options: "mA", priority: -1},
 	{trigger: "ddot", replacement: "\\ddot{$0}$1", options: "mA"},
 	{trigger: "cdot", replacement: "\\cdot", options: "mA"},
