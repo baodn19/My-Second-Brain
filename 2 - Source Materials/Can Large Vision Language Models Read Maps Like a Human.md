@@ -2,7 +2,7 @@
 categories:
   - "[[Research Literatures]]"
 created: March 1st 2026
-modified: March 1st 2026, 5:01:28 pm
+modified: March 3rd 2026, 6:36:51 pm
 reference note:
   - "[[xingCanLargeVision2025]]"
 pass:
@@ -21,7 +21,6 @@ year: 2025
 - [[MapBench]], a human readable map benchmark with 1600 human-annotated map queries
 - A CoT-augmented reasoning framework that decomposes map navigation into sequential prompting
 - Evaluation results of LVLMs on MapBench with both [[zero-shot]] and [[Chain-of-Thought (CoT)]] augmented prompting
-
 ### Limitations
 
 ## 2nd pass
