@@ -3,7 +3,7 @@ created: March 4th 2026
 categories:
   - "[[Concepts]]"
   - "[[RAS]]"
-modified: March 4th 2026, 9:39:08 am
+modified: March 4th 2026, 2:29:48 pm
 tags:
 ---
 # Career and Professional Development
@@ -22,5 +22,4 @@ tags:
 	- **Content:** Focus on specific, emerging sub-fields (e.g., Soft Robotics, Telerobotics, Response Robotics). They combine lectures from leading experts with hands-on workshops, tutorials, and discussions.
 	- **Example:** IEEE RAS Summer School on Multi-Robot Systems 2026 (July 29 – August 4, 2026)
 	- **Registration Discounts:** Host chapters utilize tiered pricing. RAS members generally receive a 20% to 30% reduction on the base registration fee compared to non-members.
-	- **Travel Support Grants:** Depending on your distance from the venue, these stipends typically range from $800 to $1,800 USD to offset airfare, lodging, and registration costs. Non-members are strictly ineligible for this funding.
-
+	- **Travel Support Grants:** Depending on your distance from the venue, these stipends typically range from $800 to $1,800 to offset airfare, lodging, and registration costs.
