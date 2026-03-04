@@ -8,3 +8,5 @@ views:
     order:
       - file.name
       - tags
+    columnSize:
+      file.name: 484

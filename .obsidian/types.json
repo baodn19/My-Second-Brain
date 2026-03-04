@@ -59,6 +59,7 @@
     "class": "multitext",
     "reference note": "multitext",
     "pass": "multitext",
-    "scholarship": "multitext"
+    "scholarship": "multitext",
+    "deadline": "date"
   }
 }

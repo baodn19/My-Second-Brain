@@ -1,0 +1,19 @@
+filters:
+  and:
+    - topics.contains(link("Gates Cambridge"))
+views:
+  - type: table
+    name: Information
+    filters:
+      and:
+        - category.contains(link("Scholarships"))
+    order:
+      - file.name
+      - tags
+    columnSize:
+      file.name: 338
+  - type: table
+    name: Interview Question
+    filters:
+      and:
+        - categories.contains(link("Interview Questions"))

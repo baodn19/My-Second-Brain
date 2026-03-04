@@ -1,0 +1,7 @@
+filters:
+  and:
+    - category.contains(link("Scholarships"))
+    - '!file.name.contains("Template")'
+views:
+  - type: table
+    name: Table
