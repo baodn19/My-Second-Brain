@@ -2,11 +2,12 @@
 created: March 2nd 2026
 categories:
   - "[[Concepts]]"
-modified: March 3rd 2026, 8:55:54 am
+modified: March 4th 2026, 4:21:36 pm
 tags:
   - probability
 ---
-- *Definition:* distribution associated with counting or arrival processes that has to do with time
+- *Definition (continuous random variable):* Models the count of discrete events occurring within a fixed interval (time or space) given a constant average rate.
+- *Example:* Counting the number of network packets arriving at an edge device per millisecond.
 - *Formula (without/ with time):*
 $$
 P(X=x)=\frac{\mu^x.e^{-\mu}}{x!}
