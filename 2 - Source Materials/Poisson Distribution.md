@@ -2,11 +2,11 @@
 created: March 2nd 2026
 categories:
   - "[[Concepts]]"
-modified: March 4th 2026, 4:21:36 pm
+modified: March 4th 2026, 9:46:17 pm
 tags:
   - probability
 ---
-- *Definition (continuous random variable):* Models the count of discrete events occurring within a fixed interval (time or space) given a constant average rate.
+- *Definition (discrete random variable):* Models the count of discrete events occurring within a fixed interval (time or space) given a constant average rate.
 - *Example:* Counting the number of network packets arriving at an edge device per millisecond.
 - *Formula (without/ with time):*
 $$
