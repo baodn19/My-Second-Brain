@@ -17,4 +17,4 @@ tags:
 	- [[Machines allow one to do the work of many]]
 
 # Source
-- [[The Wealth of Nations (Complete) (Books 1-5) (Deluxe Library Binding) - Adam Smith]]: book 1 chapter 1
+- [[The Wealth of Nations]]: book 1 chapter 1

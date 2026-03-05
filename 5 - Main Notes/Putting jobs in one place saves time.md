@@ -12,4 +12,4 @@ tags:
 - Putting many steps of the process in a workhouse = Time saved
 - If one is forced to switch his job often, productivity will decrease
 # Source
-- [[The Wealth of Nations (Complete) (Books 1-5) (Deluxe Library Binding) - Adam Smith]]: book 1 chapter 1
+- [[The Wealth of Nations]]: book 1 chapter 1

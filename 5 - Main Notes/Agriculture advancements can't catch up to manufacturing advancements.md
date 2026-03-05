@@ -13,4 +13,4 @@ tags:
 - If manufacturing is involve in processing of raw materials, rich countries have an edge.
 
 # Source
-- [[The Wealth of Nations (Complete) (Books 1-5) (Deluxe Library Binding) - Adam Smith]]: book 1 chapter 1
+- [[The Wealth of Nations]]: book 1 chapter 1

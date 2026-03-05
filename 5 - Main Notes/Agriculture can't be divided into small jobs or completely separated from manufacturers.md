@@ -13,4 +13,4 @@ tags:
 - The inability to separate agriculture from manufacturing is the reason why [[Agriculture advancements can't catch up to manufacturing advancements]]
 - A farmer takes on many jobs and it's hard to split the work among many
 # Source
-- [[The Wealth of Nations (Complete) (Books 1-5) (Deluxe Library Binding) - Adam Smith]]: book 1 chapter 1
+- [[The Wealth of Nations]]: book 1 chapter 1

@@ -1,6 +1,7 @@
 ---
 categories:
   - "[[Books]]"
+  - "[[Economics]]"
 title: The Wealth of Nations (Complete) (Books 1-5) (Deluxe Library Binding)
 subtitle: ""
 author:
@@ -14,7 +15,7 @@ cover: http://books.google.com/books/content?id=qK4QzgEACAAJ&printsec=frontcover
 localCover:
 status: unread
 created: 2026-02-07 09:15:05
-modified: February 15th 2026, 10:46:43 pm
+modified: March 5th 2026, 1:25:24 pm
 tags:
   - to-read
 ---

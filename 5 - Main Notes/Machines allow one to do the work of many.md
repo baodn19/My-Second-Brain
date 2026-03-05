@@ -15,4 +15,4 @@ tags:
 - Machine made by expert and inventors whose job is always influenced by the [[division of labor]]. This help save times and improve dexterity of the makers.
 
 # Source
-- [[The Wealth of Nations (Complete) (Books 1-5) (Deluxe Library Binding) - Adam Smith]]: book 1 chapter 1
+- [[The Wealth of Nations]]: book 1 chapter 1
