@@ -2,7 +2,7 @@
 created: 2026-03-07
 categories:
   - "[[Meetings]]"
-modified: March 7th 2026, 9:30:08 am
+modified: March 7th 2026, 11:21:28 pm
 type:
   - "[[Question-and-Answer]]"
 org:
@@ -18,3 +18,6 @@ contact:
 ---
 # Question 
 - Anh nghĩ gì về OpenClaw ạ?
+A: Security reasons và tốn quá nhiều tiền
+- Có khi nào dùng AI nhanh quá không?
+A: Result driven and accomplishment makes me happy
