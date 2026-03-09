@@ -1,0 +1,6 @@
+filters:
+  and:
+    - categories.contains(link("Literature Reviews - Geospatial Perception"))
+views:
+  - type: table
+    name: Table
