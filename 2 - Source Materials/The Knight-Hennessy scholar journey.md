@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Video]]"
-  - "[[Knight-Hennesy]]"
+  - "[[Knight-Hennessy]]"
 source: https://www.youtube.com/watch?v=ItgPLyQ0eN4&t=20s
 author:
   - "[[Knight-Hennessy Scholars]]"

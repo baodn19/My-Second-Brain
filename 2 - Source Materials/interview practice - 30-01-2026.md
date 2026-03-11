@@ -2,9 +2,10 @@
 categories:
   - "[[Meetings]]"
 created: 2026-01-31
-modified: February 1st 2026, 5:27:41 pm
+modified: March 11th 2026, 1:09:50 pm
 type:
   - "[[scholarship]]"
+  - "[[interview practice]]"
 loc:
   - FAO 200M
 people:

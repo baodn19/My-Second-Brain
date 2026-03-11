@@ -2,7 +2,7 @@
 created: 2026-03-07
 categories:
   - "[[Meetings]]"
-modified: March 7th 2026, 10:01:01 am
+modified: March 11th 2026, 1:09:50 pm
 type:
   - "[[interview practice]]"
 org:
@@ -19,3 +19,4 @@ contact:
 - *[[DON'Ts for interview]]:* 
 	- [[Why does Vietnam need you]]: don't answer with "Vietnam technically doesn't need me"
 - [[How does political conflict affect agriculture - Does automation help with this]]
+- *Integrate yourself in any questions:* balance between theory and individualism
