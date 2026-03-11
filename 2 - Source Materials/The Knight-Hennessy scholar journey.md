@@ -8,7 +8,7 @@ author:
 published: 2024-06-07
 created: 2026-03-10
 description: Knight-Hennessy Scholars at Stanford University is a multidisciplinary, multicultural graduate fellowship program spanning all seven schools at Stanford. On ...
-modified: March 10th 2026, 9:58:29 pm
+modified: March 10th 2026, 9:59:10 pm
 ---
 # Key Takeaways
 - If there's a problem in the world, someone in knight-hennessy is deeply passionate about it
