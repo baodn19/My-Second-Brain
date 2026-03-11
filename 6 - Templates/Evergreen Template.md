@@ -1,5 +1,5 @@
 ---
-category:
+categories:
   - "[[Evergreen]]"
 created: "{{date:YYYY-MM-DD}}"
 modified:
