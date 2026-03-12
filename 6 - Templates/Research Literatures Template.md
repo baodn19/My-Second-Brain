@@ -2,20 +2,24 @@
 categories:
   - "[[Research Literatures]]"
 created: "{{date:MMMM Do YYYY}}"
-modified: March 4th 2026, 11:37:01 am
+modified: March 12th 2026, 5:40:45 pm
 reference note:
 pass:
   - first
 tags:
 year:
 ---
-## 1st Pass: Extract information into headings: problems solved, contributions, and limitation
-### Problems
-### Contributions
+# 1st Pass: Extract information into headings: research question, problems solved, contributions, and limitation
+## Research question
 
-### Limitations
+## Problems
 
-## 2nd pass
+## Contributions
+
+## Limitations
+
+
+# 2nd pass
 ## Methodology
 
 ## Datasets
