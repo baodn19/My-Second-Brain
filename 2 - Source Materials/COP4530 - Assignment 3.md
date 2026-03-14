@@ -2,7 +2,7 @@
 created: 2026-03-13
 categories:
   - "[[Class Lectures]]"
-modified: March 13th 2026, 7:21:35 pm
+modified: March 13th 2026, 9:34:10 pm
 class:
   - "[[COP4530]]"
 tags:

@@ -21,7 +21,7 @@ modified: 01/31/2026
 	- What does it mean by differentiable?
 - *Drawback:* storing these large voxel grids can become unwieldy for large or high resolution scenes
 
-## [[neural network]] as a shape representation
-- *Represent shaped surface:* the level set of a fully connected [[neural network]] that's defined on 3d space
+## [[neural networks]] as a shape representation
+- *Represent shaped surface:* the level set of a fully connected [[neural networks]] that's defined on 3d space
 
 # What to explore next

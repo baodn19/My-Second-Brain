@@ -5,7 +5,7 @@ author: "[[Geoffrey Hinton]]"
 source: "[[Genius Makers - Cade Metz]]"
 tags:
 topics:
-  - "[[neural network]]"
+  - "[[neural networks]]"
 ---
 
 # Quote: 
@@ -16,5 +16,5 @@ topics:
 ---
 
 # Context
-![[neural network#^d92904]]
+![[neural networks#^d92904]]
 - *When to quote:* to believe in your path while being aware that it might be ridiculous and it isn't for everyone

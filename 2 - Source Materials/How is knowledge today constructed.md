@@ -19,7 +19,7 @@ topics:
 	1. [[Knowledge is built from past work]]
 	2. Knowledge today is built from collaboration between different field (how did [[Geoffrey Hinton]]'s training in psychology help me design the neural network) $\to$ Integrate [[Knight-Hennessy]]'s mission and [[Every field comes from philosophy]]
 - *Knowledge continuation:*
-	- Doing research in computer vision & deep learning $\to$ Reading the [[Genius Makers - Cade Metz]] to understand the pioneers in machine learning & [[neural network]].
+	- Doing research in computer vision & deep learning $\to$ Reading the [[Genius Makers - Cade Metz]] to understand the pioneers in machine learning & [[neural networks]].
 	- *Why:* to understand the person behind the invention and how much the purpose for the technology has changed (quote from NY papers on [[Perceptron]])
 		- What did they took into consideration when research and how can I adopt or avoid such mindset
 - *Collaboration:* knowledge today is constructed at the section fields. 

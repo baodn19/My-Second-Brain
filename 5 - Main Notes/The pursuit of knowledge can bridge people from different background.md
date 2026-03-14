@@ -9,5 +9,5 @@ tags:
   - seed
 ---
 # Concept
-- *[[neural network]]*: [[Geoffrey Hinton]] and [[Kai Yu]] have little in common. Both initially met at [[Canada]] at an academic workshop. Yu helped popularize deep learning in [[China]]
+- *[[neural networks]]*: [[Geoffrey Hinton]] and [[Kai Yu]] have little in common. Both initially met at [[Canada]] at an academic workshop. Yu helped popularize deep learning in [[China]]
 # Source
