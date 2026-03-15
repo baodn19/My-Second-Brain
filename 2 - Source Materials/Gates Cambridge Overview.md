@@ -2,7 +2,7 @@
 created: 2026-03-04
 category:
   - "[[Scholarships]]"
-modified: March 4th 2026, 8:47:18 am
+modified: March 15th 2026, 10:41:37 am
 deadline: 2027-12-03
 topics:
   - "[[Gates Cambridge]]"
@@ -10,7 +10,7 @@ topics:
 - [[Gates Cambridge Eligibility]]: pursue a postgraduate degree in any subject available at the University of Cambridge
 	- PhD in Engineering or PhD in Computer Science
 - *Criteria:*
-	-  outstanding intellectual ability
+	- outstanding intellectual ability
 	- reasons for choice of course
 	- a commitment to improving the lives of others
 	- leadership potential
