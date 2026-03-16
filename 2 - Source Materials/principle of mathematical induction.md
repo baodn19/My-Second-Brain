@@ -2,7 +2,7 @@
 created: March 12th 2026
 categories:
   - "[[Concepts]]"
-modified: March 15th 2026, 9:41:47 pm
+modified: March 16th 2026, 9:49:48 am
 tags:
   - mathematical-induction
 ---

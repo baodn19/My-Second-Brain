@@ -1,0 +1,6 @@
+filters:
+  and:
+    - topics.contains(link("Knight-Hennessy"))
+views:
+  - type: table
+    name: Table
