@@ -2,8 +2,9 @@
 created: March 3rd 2026
 categories:
   - "[[Concepts]]"
-modified: March 11th 2026, 10:18:53 pm
+modified: March 22nd 2026, 6:04:58 pm
 tags:
+  - RAS
 ---
 # Web
 - [ ] Create a front page video introduction for RAS
@@ -12,3 +13,7 @@ tags:
 
 # Events
 - [ ] Discussion sessions for robotics and ethics in automation
+- [ ] For events posted online, can you scan participation QR codes after the event itself?
+
+# [[Take away from RAS survey]]
+- [ ] Create project that combines mechanical and embedded software
