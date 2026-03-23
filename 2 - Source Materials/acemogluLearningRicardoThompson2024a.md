@@ -5,7 +5,7 @@ authors: Daron Acemoglu, Simon Johnson
 categories:
   - "[[Research References]]"
 tags:
-modified: March 21st 2026, 1:27:35 pm
+modified: March 23rd 2026, 12:20:12 am
 ---
 
 Zotero PDF Link: [[Zotero Attachments/Acemoglu and Johnson - 2024 - Learning From Ricardo and Thompson Machinery and Labor in the Early Industrial Revolution and in th.pdf]]
@@ -23,7 +23,7 @@ Related:
   
  <mark class="hltr-green">"[T]he Jennyes are in the Hands of the Poor and the Patent Machines are generally in the Hands of the Rich"</mark> [Page 598](zotero://open-pdf/library/items/LJP5RT44?page=598&annotation=U8AA8SLE) 
  
-Add to quotes in obsidian [Page 598](zotero://open-pdf/library/items/LJP5RT44?page=598&annotation=U8AA8SLE) 
+[[The Jennyes are in the Hands of the Poor and the Patent Machines are generally in the Hands of the Rich - cotton spinners]] [Page 598](zotero://open-pdf/library/items/LJP5RT44?page=598&annotation=U8AA8SLE) 
   
  <mark class="hltr-yellow">"Jennys were small spinning machines, which could be operated in people’s homes or small workshops."</mark> [Page 598](zotero://open-pdf/library/items/LJP5RT44?page=598&annotation=9V3377ZT) 
   

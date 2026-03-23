@@ -5,12 +5,20 @@ modified: February 17th 2026, 3:01:57 pm
 created: "{{date:YYYY-MM-DD}}"
 ---
 <%*
-// 1. Define variables FIRST
+// 1. Define variables and prompt for input
 let author = await tp.system.prompt("Enter Author Name");
-let source = await tp.system.prompt("Enter Source (e.g., Genius Makers)");
+let source = await tp.system.prompt("Enter Source");
 let quoteText = await tp.system.prompt("Paste the Quote here");
 
-// 2. Clear the output to avoid extra whitespace
+// 2. Sanitize and Truncate for Filename
+// Removes characters illegal in filenames: \ / : * ? " < > |
+let cleanQuote = quoteText.replace(/[\\/:*?"<>|]/g, "").substring(0, 50).trim();
+let fileName = `${cleanQuote} - ${author}`;
+
+// 3. Rename the file
+await tp.file.rename(fileName);
+
+// 4. Clear output for clean rendering
 tR = "";
 -%>
 ---
