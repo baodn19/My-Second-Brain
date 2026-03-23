@@ -1,0 +1,30 @@
+filters:
+  and:
+    - categories.contains(link("Terrain Map Navigation"))
+views:
+  - type: table
+    name: First Pass
+    filters:
+      and:
+        - pass == ["first"]
+    order:
+      - file.name
+      - year
+    columnSize:
+      file.name: 507
+  - type: table
+    name: Second Pass
+    filters:
+      and:
+        - pass == ["second"]
+    order:
+      - file.name
+      - pass
+  - type: table
+    name: Third Pass
+    filters:
+      and:
+        - pass == ["third"]
+    order:
+      - file.name
+      - pass

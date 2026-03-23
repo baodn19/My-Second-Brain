@@ -2,7 +2,7 @@
 created: 2026-03-09
 categories:
   - "[[Literature Reviews - Geospatial Perception]]"
-modified: March 11th 2026, 5:54:14 pm
+modified: March 23rd 2026, 11:35:16 am
 tags:
 ---
 # Research Question
@@ -19,8 +19,8 @@ tags:
 	- Different form of terrain maps
 - *Pass:*
 	- Doesn't use VLM
-	- 
 
 # Pass
+![[Terrain Map Navigation.base]]
 # State-of-the-art
 # Research Gap

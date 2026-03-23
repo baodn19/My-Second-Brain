@@ -1,8 +1,9 @@
 ---
 categories:
   - "[[Research Literatures]]"
+  - "[[Terrain Map Navigation]]"
 created: March 4th 2026
-modified: March 4th 2026, 1:20:08 pm
+modified: March 23rd 2026, 11:32:49 am
 reference note:
   - "[[yuSpatialRAGSpatialRetrieval2025]]"
 pass:

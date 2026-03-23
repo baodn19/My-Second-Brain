@@ -1,8 +1,9 @@
 ---
 categories:
   - "[[Research Literatures]]"
+  - "[[Terrain Map Navigation]]"
 created: March 1st 2026
-modified: March 4th 2026, 11:36:43 am
+modified: March 23rd 2026, 11:30:50 am
 reference note:
   - "[[xingCanLargeVision2025]]"
 pass:

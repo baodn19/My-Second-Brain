@@ -1,8 +1,9 @@
 ---
 categories:
   - "[[Research Literatures]]"
+  - "[[Terrain Map Navigation]]"
 created: March 4th 2026
-modified: March 4th 2026, 12:38:10 pm
+modified: March 23rd 2026, 11:32:36 am
 reference note:
   - "[[wangRS3DBenchComprehensiveBenchmark2025]]"
 pass:
