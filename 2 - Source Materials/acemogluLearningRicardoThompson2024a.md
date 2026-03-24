@@ -5,7 +5,7 @@ authors: Daron Acemoglu, Simon Johnson
 categories:
   - "[[Research References]]"
 tags:
-modified: March 23rd 2026, 12:20:12 am
+modified: March 23rd 2026, 10:31:39 pm
 ---
 
 Zotero PDF Link: [[Zotero Attachments/Acemoglu and Johnson - 2024 - Learning From Ricardo and Thompson Machinery and Labor in the Early Industrial Revolution and in th.pdf]]
