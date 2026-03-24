@@ -2,7 +2,7 @@
 categories:
   - "[[Research Literatures]]"
 created: March 23rd 2026
-modified: March 23rd 2026, 11:17:47 am
+modified: March 24th 2026, 2:52:32 pm
 reference note:
   - "[[fuLlm4sechwLeveragingDomainspecific2023]]"
 pass:
@@ -39,6 +39,14 @@ year:
 ## Methodology
 
 ## Datasets
+- Supervised Fine-Tuning (SFT) data format:
+	- Query-Response pair
+	- Full-synthetic: use teacher LLM (Gemini Pro) to teach student LLM (Qwen)
+	- **Semi-synthetic**
+- *Approach:* semi-synthetic
+	- Source: Hardware design code + Version control info
+	- Data augmentation: journalistic event description (**5W1H**)
+- 
 
 ## Results
 
