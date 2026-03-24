@@ -2,7 +2,7 @@
 created: March 12th 2026
 categories:
   - "[[Concepts]]"
-modified: March 23rd 2026, 10:34:44 am
+modified: March 24th 2026, 1:44:11 pm
 tags:
   - mathematical-induction
 ---
@@ -37,4 +37,15 @@ tags:
 		$$
 		$\implies6|7^{k+1}-1$
 		Thus, by induction, theorem is true $\forall n\in \mathbb{Z}^+$
-	
+- *Prove:* A: a finite set. $|\mathscr{P}(A)|=2^{|A|}$ ([[power set]])
+	*Basis:* If $A = \emptyset\implies \mathscr{P}(A)=\{\emptyset\}\implies|\mathscr{P}(A)|=1=2^0=2^{|A|}$
+	*Inductive step:* Assume: for some $k \in \mathbb{N}$, if A is a set: |A| = k then $|\mathscr{P}(A)|=2^{k}$
+				Let B be a set: |B| = k + 1. **want:** $|\mathscr{P}(B)|=2^{|B|}=2^{k+1}$
+				Take $y\in B$
+				Consider: S = B - {y} $\implies|S|=k\implies$ The statement is true for S by our assumption $\implies |\mathscr{P}(S)|=2^{|S|}=2^{k}$
+				Now, every subset of B either:
+				i) doesn't contain y $\implies$ The subset of B is a subset of S
+				ii) contain y $\implies$ The subset of B = (a subset of S) $\cup$ {y}
+				Since the $|\mathscr{P}(S)|$ of each type has the same number of elements
+				$\implies|\mathscr{P}(B)|=2\implies|\mathscr{P}(S)|=2.2^k=2^{k+1}=2^{|B|}$
+	Thus, by induction, for all finite sets A, $|\mathscr{P}(A)|=2^{|A|}$   $\Box$
