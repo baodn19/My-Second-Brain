@@ -2,7 +2,7 @@
 created: 2026-03-20
 categories:
   - "[[Interview Questions]]"
-modified: March 24th 2026, 10:13:33 am
+modified: March 25th 2026, 10:41:27 am
 topics:
 tags:
 ---
@@ -26,8 +26,13 @@ tags:
 ### Option 3
 
 ## Attempts
-- *3/24:* option 1
+### Option 1
+- *3/24:* 
 	- I doesn't sound certain about myself because I stretch words when speaking
 	- The response it too long
 ![[Who does automation benefit - Take 1.m4a]]
+- *3/25:* 
+	- Speaking too slow. **Goal:** 150 wpm
+	- I took too long to finish the first half of the answer
+![[Who does automation benefit - Take 2.m4a]]
 ## Resource
