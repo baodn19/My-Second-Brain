@@ -1,5 +1,5 @@
 ---
-modified: March 3rd 2026, 4:33:09 pm
+modified: March 26th 2026, 10:47:24 am
 ---
 [
     // Math mode
@@ -45,6 +45,7 @@ modified: March 3rd 2026, 4:33:09 pm
 	{trigger: "oor", replacement: "\\vee", options: "mA"},
 		{trigger: "box", replacement: "\\Box", options: "mA"},
 		{trigger: "contra", replacement: "\\textreferencemark", options: "mA"},
+		{trigger: "triang", replacement: "\\bigtriangleup", options: "mA"},
 
     // Text environment
     {trigger: "text", replacement: "\\text{$0}$1", options: "mA"},
