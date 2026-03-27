@@ -2,7 +2,7 @@
 created: March 3rd 2026
 categories:
   - "[[Concepts]]"
-modified: March 22nd 2026, 6:04:58 pm
+modified: March 26th 2026, 11:44:27 pm
 tags:
   - RAS
 ---
@@ -17,3 +17,6 @@ tags:
 
 # [[Take away from RAS survey]]
 - [ ] Create project that combines mechanical and embedded software
+
+# Research
+- [ ] Invite researchers based on interest of participating members
