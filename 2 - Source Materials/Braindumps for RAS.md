@@ -2,7 +2,7 @@
 created: March 3rd 2026
 categories:
   - "[[Concepts]]"
-modified: March 26th 2026, 11:44:27 pm
+modified: March 27th 2026, 9:45:51 pm
 tags:
   - RAS
 ---
@@ -20,3 +20,4 @@ tags:
 
 # Research
 - [ ] Invite researchers based on interest of participating members
+- [ ] Invite Daron Acemoglu to talk about automation and labor economics

@@ -2,7 +2,7 @@
 created: 2026-03-26
 categories:
   - "[[Meetings]]"
-modified: March 27th 2026, 12:01:29 am
+modified: March 27th 2026, 9:27:23 am
 type: []
 org:
 loc:
@@ -40,3 +40,5 @@ contact:
 # Question
 - What is MARS need in terms of funding?
 - Are there members participating in MARS that would be interested in leadership position?
+- Do you plan to expand MARS into other activities or do you plan stay project-focused like SOAR?
+- 
