@@ -2,7 +2,7 @@
 created: March 12th 2026
 categories:
   - "[[Concepts]]"
-modified: March 24th 2026, 2:40:09 pm
+modified: March 31st 2026, 1:31:49 pm
 tags:
   - mathematical-induction
 ---
@@ -49,3 +49,59 @@ tags:
 				Since the $|\mathscr{P}(S)|$ of each type has the same number of elements
 				$\implies|\mathscr{P}(B)|=2\implies|\mathscr{P}(S)|=2.2^k=2^{k+1}=2^{|B|}$
 	Thus, by induction, for all finite sets A, $|\mathscr{P}(A)|=2^{|A|}$   $\Box$
+- *Prove (6f):* for $\forall n \in \mathbb{Z}_{+}:$
+$$
+\sum ^{n}_{i=1} (2i-1)^3=n^2(2n^2 -1) (*)
+$$
+	*Basis:* n = 1: 
+		LHS: $\sum ^{1}_{i=1} (2-1)^3=(2-1)^3=1$
+		RHS: $1^2(2.1^2 -1)=1$
+		$\implies$ LHS = RHS   $\Box$
+	*Inductive step:* Assume $(*)$ for some $k \in \mathbb{Z}_{+}$, show $(*)$ for k+1. Assume:
+$$
+\sum ^{k}_{i=1} (2i-1)^3=k^2(2k^2 -1) 
+$$
+		*Want:* 
+$$
+\sum ^{k+1}_{i=1} (2i-1)^3=(k+1)^2[2(k+1)^2 -1]
+$$
+		LHS: $\sum ^{k}_{i=1} (2i-1)^3+[2(k+1)-1]^3=k^2(2k^3-1)+(2k+1)^3=2k^4-k^2+8k^3+12k^2+6k+1=2k^4+8k^3+11k^2+6k+1$
+		RHS: $(k^2+2k+1)(2k^2+4k+1)=2k^4+8k^3+11k^2+6k+1$
+		$\implies$ LHS = RHS  $\Box$
+	So, by induction $(*)$ is true $\forall n \in \mathbb{Z}_{+}$
+- *Prove (6h):* 
+$$
+\frac{1}{2!}+\frac{2}{3!}+\dots+\frac{n}{(n+1)!}=1-\frac{1}{(n+1)!}(*);\forall n \in \mathbb{Z}_{+}
+$$
+	*Basis:* n = 1: 
+		LHS: $\frac{1}{2!}=\frac{1}{2}$
+		RHS: $1-\frac{1}{2!}=1-\frac{1}{2}=\frac{1}{2}$
+		$\implies$ LHS = RHS   $\Box$
+	*Inductive Step:* assume $(*)$ for some $k \in \mathbb{Z}_{+},$ show $(*)$ for k + 1
+		*Want:* 
+	$$
+	\frac{1}{2!}+\dots+\frac{k}{(k+1)!}+\frac{k+1}{(k+2)!}=1-\frac{1}{(k+2)!}
+	$$
+		LHS: $\left( 1-\frac{1}{(k+1)!} \right)+ \frac{k+1}{(k+2)!}=\frac{(k+2)[(k+1)!-1]}{(k+2)(k+1)!}+ \frac{k+1}{(k+2)!}=\frac{(k+2)!-(k+2)+k+1}{(k+2)!}=\frac{(k+2)!-1}{(k+2)!}$ 
+		RHS: $\frac{(k+2)!-1}{(k+2)!}$
+		$\implies$ LHS = RHS   $\Box$
+	So, by induction $(*)$ is true $\forall n \in \mathbb{Z}_{+}$
+- *Prove (7j):* $4^{n+4}>(n+4)^4(*),\forall n\in \mathbb{Z}_{+}$
+	*Basis:* n = 1:
+		LHS: $4^5=1024$
+		RHS: $5^4=625$
+		$\implies$ LHS > RHS   $\Box$
+	*Inductive step:* Assume $(*)$ for some $k\in \mathbb{Z}_{+}$, show $(*)$ for k + 1
+		*Want:* $4^{k+5}>(k+5)^4$
+		LHS: $4^{k+4}.4>(k+4)^4.4=\left[ (k+4).4^{\frac{1}{4}} \right]^4=(1.41k+5.64)^4>(k+5)^4$
+		$\implies$ LHS > RHS
+	So, by induction $(*)$ is true $\forall n \in \mathbb{Z}_{+}$
+- *Prove (7m):* $\frac{n^3}{3}+\frac{n^5}{5}+\frac{7n}{15}$ is an integer $\forall n \in \mathbb{Z}_{+}$
+	*Basis:* n = 1: $\frac{1}{3}+\frac{1}{5}+\frac{7}{15}=1$  $\Box$
+	*Inductive step:* Assume for some $k\in \mathbb{Z}_{+},$ show for k + 1
+	$$f(k) = \frac{3k^5 + 5k^3 + 7k}{15} = A\iff3k^5 + 5k^3 + 7k = 15A$$
+		*want:* Is $\frac{(k+1)^3}{3}+\frac{(k+1)^5}{5}+\frac{7(k+1)}{15}$ an integer?
+		$\frac{(3k^5 + 5k^3 + 7k) + 15k^4 + 30k^3 + 45k^2 + 30k + 15}{15}=\frac{15(A + k^4 + 2k^3 + 3k^2 + 2k + 1)}{15}=15(A + k^4 + 2k^3 + 3k^2 + 2k + 1) \in \mathbb{Z}_{+}$
+		
+	So, by induction $(*)$ is true $\forall n \in \mathbb{Z}_{+}$
+	
