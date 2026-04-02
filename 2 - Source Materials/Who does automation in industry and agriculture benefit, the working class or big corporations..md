@@ -2,7 +2,7 @@
 created: 2026-03-20
 categories:
   - "[[Interview Questions]]"
-modified: March 26th 2026, 11:17:57 am
+modified: April 2nd 2026, 12:41:48 pm
 topics:
 tags:
 ---
@@ -13,7 +13,7 @@ tags:
 - *Short answer:* both
 - *Big corporation:*
 	- *Task Displacement:* Substitution of human labor with automated systems reduces the labor share of income $\to$ scale efficiently and increase profit margins
-	- The workers aren't in control of their work and robot cease to be a tool for them: [[The Jennyes are in the Hands of the Poor and the Patent Machines are generally in the Hands of the Rich - cotton spinners]]
+	- The workers aren't in control of their work and robot cease to be a tool for them: [[The Jennyes are in the Hands of the Poor and the Patent Machines are generally in the Hands of the Rich - cotton spinners]] (segwue to the next idea)
 		- **Me:** prioritize "human-in-the-loop" systems and augmentative technologies that empower workers rather than purely displacing them.
 - *Working class:*
 	- *Mitigation of Hazardous and Degrading Labor:* in EU (2011-2019), a 10% increase in robot adoption is associated with a 0.066% reduction in fatalities and a 1.96% decrease in injuries (Marco De Simone et al.; The impact of robots on workplace injuries and deaths: Empirical evidence from Europe)
