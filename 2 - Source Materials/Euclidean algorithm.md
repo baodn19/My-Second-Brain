@@ -1,5 +1,5 @@
 ---
-modified: April 2nd 2026, 1:44:43 pm
+modified: April 2nd 2026, 2:19:01 pm
 ---
 - *Theorem:* $a,b\in \mathbb{Z}^+,a\equiv r$ (mod b) ([[division algorithm]])
 	- r > 0 $\implies gcd(a,b)=gcd(b,r)$ ([[greatest common divisor]])

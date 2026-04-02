@@ -2,7 +2,7 @@
 created: March 3rd 2026
 categories:
   - "[[Concepts]]"
-modified: March 29th 2026, 12:12:03 am
+modified: April 2nd 2026, 3:44:58 pm
 tags:
   - RAS
 ---
@@ -10,6 +10,9 @@ tags:
 - [ ] Create a front page video introduction for RAS
 - [ ] Semester long hackathon: social robot, automate your life
 - [ ] Create a chatbot to convince why people should go to an event
+- [ ] Create an alumni web: year, major, job, company, contact
+## Resource
+- [ ] Promote research lab at USF
 
 # Events
 - [ ] Discussion sessions for robotics and ethics in automation
@@ -25,3 +28,13 @@ tags:
 
 # Startup
 - [ ] Send what you hope to achieve at RAS (I want this experience is sth you can talk about on your resume and make your time here worth)
+
+# Workshop
+- [ ] Copy Control of Mobile Robots: Pre-build the robot and create workshop around those robots where people can just work on the software or assembling the robot (like [[Lego]])
+	- We prepare all the necessary components so students can come in and finish the task within 1hr - 1hr30
+	- Can work in team where one person can go to workshop
+	- Can keep the robot if the team goes to 2/3 workshops
+	- Participate in automation discussion to make up for the loss of attendance
+- [ ] Borrow the drone playing field to test
+# Experiment
+- [ ] Record video of workshop and post on youtube
