@@ -1,6 +1,6 @@
 ---
 created: 2026-03-31
-modified: March 31st 2026, 7:40:44 am
+modified: April 3rd 2026, 7:46:34 pm
 ---
 - *Source:* [Vocal Branding: How Your Voice Shapes Your Communication Image | Wendy LeBorgne | TEDxUCincinnati](https://www.youtube.com/watch?v=p_ylzGfHKOs)
 - *Intensity (Loudness):* middle ground, not loud and not quiet; project more in larger room
