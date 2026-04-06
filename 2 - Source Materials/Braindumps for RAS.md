@@ -2,7 +2,7 @@
 created: March 3rd 2026
 categories:
   - "[[Concepts]]"
-modified: April 2nd 2026, 3:44:58 pm
+modified: April 6th 2026, 8:05:29 am
 tags:
   - RAS
 ---
@@ -18,6 +18,8 @@ tags:
 - [ ] Discussion sessions for robotics and ethics in automation
 - [ ] For events posted online, can you scan participation QR codes after the event itself?
 - [ ] Introduce to common open source project that is essential for GSoC 
+- [ ] Encourage multidisciplinary in robotics
+	- Hackathon collaboration between engineer and business students where applications are practical and grounded
 
 # [[Take away from RAS survey]]
 - [ ] Create project that combines mechanical and embedded software
@@ -38,3 +40,4 @@ tags:
 - [ ] Borrow the drone playing field to test
 # Experiment
 - [ ] Record video of workshop and post on youtube
+

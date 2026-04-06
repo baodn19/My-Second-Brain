@@ -2,11 +2,14 @@
 created: February 3rd 2026
 categories:
   - "[[Concepts]]"
-modified: February 3rd 2026, 1:09:58 pm
+modified: April 6th 2026, 10:30:04 am
 tags:
   - mathematics
   - logic
 ---
+# Overview
+- *Logic:* $\neg P \vee Q$
+
 ## To prove $P \to Q$
 - **NEVER:** start with assume Q
 - *[[direct proof]]*: Assume P and want to show Q
