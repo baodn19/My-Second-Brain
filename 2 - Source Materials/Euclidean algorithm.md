@@ -26,4 +26,4 @@ modified: April 9th 2026, 1:43:22 pm
 | **1** | 0   | gcd(83, 17) = 1 |
 $\implies gcd(83,17)=1$ by the **Euclidean algorithm**
 $1 = 15-7.2=15-7(17-15)=8.15-7.17=8(83-4.17)-7.17=(8)83+(-39)17$
-$1=8.83+(-39)17\implies1\equiv 8.83$ mod(17) $\implies 8$ is the [[multiplicative inverse]] of 83 and 17
+$1=8.83+(-39)17\implies1\equiv 8.83$ mod(17) $\implies 8$ is the [[multiplicative inverse]] of 83 in mod 17
