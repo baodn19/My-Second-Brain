@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02
-modified: April 2nd 2026, 1:30:55 pm
+modified: April 10th 2026, 8:34:32 am
 ---
 - *Definition:* $\forall n\in \mathbb{Z}^+,n>1$ factors **uniquely** as a product of primes
 $\implies \forall n\in \mathbb{Z}^+, n>1$ has a prime [[divisor]]
