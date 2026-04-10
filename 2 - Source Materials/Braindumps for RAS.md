@@ -2,7 +2,7 @@
 created: March 3rd 2026
 categories:
   - "[[Concepts]]"
-modified: April 6th 2026, 8:05:29 am
+modified: April 10th 2026, 8:57:05 am
 tags:
   - RAS
 ---
@@ -41,3 +41,5 @@ tags:
 # Experiment
 - [ ] Record video of workshop and post on youtube
 
+# XRP
+- [ ] Officer as mentor and underclassmen as mentees to work on the robots
