@@ -2,7 +2,7 @@
 created: March 3rd 2026
 categories:
   - "[[Concepts]]"
-modified: April 10th 2026, 8:57:05 am
+modified: April 10th 2026, 6:45:08 pm
 tags:
   - RAS
 ---
@@ -43,3 +43,4 @@ tags:
 
 # XRP
 - [ ] Officer as mentor and underclassmen as mentees to work on the robots
+- [ ] K-12 education where students can do line following robots

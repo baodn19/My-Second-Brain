@@ -9,7 +9,7 @@ pass:
 tags:
 year:
 ---
-# 1st Pass: Extract information into headings: research question, problems solved, contributions, and limitations
+# 1st Pass: Extract information into headings: research question, problems solved, contributions, methodologies, and limitations
 ## Research question
 
 ## Problems
