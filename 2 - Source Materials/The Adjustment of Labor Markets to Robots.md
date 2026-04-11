@@ -2,8 +2,9 @@
 categories:
   - "[[Research Literatures]]"
 created: April 10th 2026
-modified: April 10th 2026, 7:13:00 pm
+modified: April 11th 2026, 8:24:20 am
 reference note:
+  - "[[dauthAdjustmentLaborMarkets2021]]"
 pass:
   - first
 tags:
@@ -47,3 +48,6 @@ year:
 ## Flaws
 
 ## Open Questions
+
+# Ideas
+- [[Automation displaces and creates new jobs]]

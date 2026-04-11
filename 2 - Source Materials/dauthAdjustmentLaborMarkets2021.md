@@ -1,10 +1,11 @@
 ---
 title: "[[The Adjustment of Labor Markets to Robots]]"
-year: 2021 
+year: 2021
 authors: Wolfgang Dauth, Sebastian Findeisen, Jens Suedekum, Nicole Woessner
 categories:
   - "[[Research References]]"
-tags: 
+tags:
+modified: April 11th 2026, 8:24:28 am
 ---
 
 Zotero PDF Link: [[Zotero Attachments/Dauth et al. - 2021 - The Adjustment of Labor Markets to Robots.pdf]]
@@ -12,7 +13,31 @@ Related:
 # In-text annotations 
  <mark class="hltr-purple">"Abstract"</mark> [Page 3104](zotero://open-pdf/library/items/YLZVPAR3?page=3104&annotation=4VR58QAA) 
   
+ <mark class="hltr-yellow">"administrative data"</mark> [Page 3104](zotero://open-pdf/library/items/YLZVPAR3?page=3104&annotation=2H2MFVU2) 
+  
+ <mark class="hltr-red">"The incidence mostly falls on young workers just entering the labor force."</mark> [Page 3104](zotero://open-pdf/library/items/YLZVPAR3?page=3104&annotation=Z5XMP2Y7) 
+ 
+How about senior workers who have less capacity to adapt? [Page 3104](zotero://open-pdf/library/items/YLZVPAR3?page=3104&annotation=Z5XMP2Y7) 
+  
  <mark class="hltr-purple">"1. Introduction"</mark> [Page 3104](zotero://open-pdf/library/items/YLZVPAR3?page=3104&annotation=7XYUJEFY) 
+  
+ <mark class="hltr-yellow">"the adoption of automation technologies causes a displacement effect,"</mark> [Page 3104](zotero://open-pdf/library/items/YLZVPAR3?page=3104&annotation=77BTKFYQ) 
+ 
+Automation displaces and creates new jobs [Page 3104](zotero://open-pdf/library/items/YLZVPAR3?page=3104&annotation=77BTKFYQ) 
+  
+ <mark class="hltr-yellow">"productivity gains lead to new jobs elsewhere in the economy."</mark> [Page 3105](zotero://open-pdf/library/items/YLZVPAR3?page=3105&annotation=SZ9GTSAF) 
+ 
+Automation displaces and creates new jobs [Page 3105](zotero://open-pdf/library/items/YLZVPAR3?page=3105&annotation=SZ9GTSAF) 
+  
+ <mark class="hltr-yellow">"labor-replacing technology we focus on are industrial robots"</mark> [Page 3105](zotero://open-pdf/library/items/YLZVPAR3?page=3105&annotation=N4A66VRV) 
+ 
+Automation displaces and creates new jobs [Page 3105](zotero://open-pdf/library/items/YLZVPAR3?page=3105&annotation=N4A66VRV) 
+  
+ <mark class="hltr-yellow">"Korea (the world leader) and Germany are technologically much more advanced in robotics than other countries in Europe and the United States.1"</mark> [Page 3105](zotero://open-pdf/library/items/YLZVPAR3?page=3105&annotation=7CYAAXB5) 
+ 
+https://ifr.org/ifr-press-releases/news/robot-density-surges-in-europe-asia-and-americas [Page 3105](zotero://open-pdf/library/items/YLZVPAR3?page=3105&annotation=7CYAAXB5) 
+  
+ <mark class="hltr-yellow">"The first part of this paper replicates the strategy by Acemoglu and Restrepo (2019), who have found alarmingly negative impacts on labor demand in the United States."</mark> [Page 3105](zotero://open-pdf/library/items/YLZVPAR3?page=3105&annotation=RTKW78WH) 
   
  <mark class="hltr-purple">"2. Data and Methodology"</mark> [Page 3109](zotero://open-pdf/library/items/YLZVPAR3?page=3109&annotation=C6HKW6LE) 
   
@@ -55,4 +80,8 @@ Related:
  <mark class="hltr-purple">"6.2. Skill or Task Bias?"</mark> [Page 3139](zotero://open-pdf/library/items/YLZVPAR3?page=3139&annotation=PIA2XP7C) 
   
  <mark class="hltr-purple">"7. Conclusion"</mark> [Page 3142](zotero://open-pdf/library/items/YLZVPAR3?page=3142&annotation=YS9DLYP6) 
+  
+ <mark class="hltr-gray">"Acemoglu, Daron and Pascual Restrepo (2018b). “The Race between Machine and Man: Implications of Technology for Growth, Factor Shares and Employment.” American Economic Review, 108(6), 1488–1542."</mark> [Page 3152](zotero://open-pdf/library/items/YLZVPAR3?page=3152&annotation=3FG96X7F) 
+  
+ <mark class="hltr-gray">"Acemoglu, Daron and Pascual Restrepo (2019). “Robots and Jobs: Evidence from US Labor Markets.” Journal of Political Economy, 128, 2188–2244."</mark> [Page 3152](zotero://open-pdf/library/items/YLZVPAR3?page=3152&annotation=JU3ZVHNY) 
   
