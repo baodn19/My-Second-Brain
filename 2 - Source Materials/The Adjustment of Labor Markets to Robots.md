@@ -2,7 +2,7 @@
 categories:
   - "[[Research Literatures]]"
 created: April 10th 2026
-modified: April 11th 2026, 8:24:20 am
+modified: April 11th 2026, 11:08:01 pm
 reference note:
   - "[[dauthAdjustmentLaborMarkets2021]]"
 pass:
@@ -50,4 +50,5 @@ year:
 ## Open Questions
 
 # Ideas
-- [[Automation displaces and creates new jobs]]
+- [[Automation has zero effects on total employment which can mask displacement and re-allocation effects]]
+- 
