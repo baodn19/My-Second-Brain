@@ -3,12 +3,13 @@ created: March 4th 2026
 categories:
   - "[[Concepts]]"
   - "[[RAS]]"
-modified: March 4th 2026, 2:29:48 pm
+modified: April 13th 2026, 8:33:32 am
 tags:
 ---
 # Career and Professional Development
 - **Networking:** Direct access to a global network of robotics professionals (LinkedIn but better)
 - **Leadership Track Record:** Holding an officer position in a local student chapter demonstrates organizational capability and commitment to the field to future employers and academic programs.
+- *Join technical committees:* based on your interest of the fields
 
 # Financial Support
 - *Travel Grants:* for student members presenting accepted papers at RAS-sponsored conferences (e.g., [[HRI]], [[ICRA]], [[IROS]], [[RSS]], [[CoRL]])
