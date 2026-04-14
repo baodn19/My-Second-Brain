@@ -1,5 +1,5 @@
 ---
-modified: March 26th 2026, 10:47:24 am
+modified: April 14th 2026, 12:41:24 pm
 ---
 [
     // Math mode
@@ -169,6 +169,7 @@ modified: March 26th 2026, 10:47:24 am
 	{trigger: "ZZ", replacement: "\\mathbb{Z}", options: "mA"},
 	{trigger: "NN", replacement: "\\mathbb{N}", options: "mA"},
 	{trigger: "QQ", replacement: "\\mathbb{Q}", options: "mA"},
+	{trigger: "\\", replacement: "\\backslash", options: "mA"},
 
     // Handle spaces and backslashes
 

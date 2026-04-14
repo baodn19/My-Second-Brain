@@ -8,7 +8,7 @@ tags:
   - logic
 ---
 - *To prove a theorem statement (T):* We assume T is false -> Prove the assumption is false -> T is true
-- *Theorem:* In a group of 25 people, at least 3 were born in the same month (example of [[Pigeon Hole Principle]])
+- *Theorem:* In a group of 25 people, at least 3 were born in the same month (example of [[Pigeonhole Principle]])
 	- *Proof:* By contradiction
 			Assume in a group of 25 people, no (3 or more) were born in the same month.
 			i.e., for each month, there are (2 or less) people born in that month
