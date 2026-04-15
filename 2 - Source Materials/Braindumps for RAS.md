@@ -2,7 +2,7 @@
 created: March 3rd 2026
 categories:
   - "[[Concepts]]"
-modified: April 12th 2026, 9:42:27 pm
+modified: April 15th 2026, 9:59:16 am
 tags:
   - RAS
 ---
@@ -46,3 +46,5 @@ tags:
 - [ ] K-12 education where students can do line following robots
 
 # [[List of resources]]
+- *SPIRSE:*
+	- Integrate standards into lunarobotics to show active participation in standards
