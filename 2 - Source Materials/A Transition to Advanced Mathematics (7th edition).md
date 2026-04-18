@@ -18,7 +18,7 @@ cover: https://m.media-amazon.com/images/I/41yLvGdO5yL._SY425_.jpg
 localCover:
 status: unread
 created: 2026-03-05 13:23:51
-modified: March 5th 2026, 1:29:38 pm
+modified: April 17th 2026, 11:03:44 pm
 tags:
   - to-read
 ---
