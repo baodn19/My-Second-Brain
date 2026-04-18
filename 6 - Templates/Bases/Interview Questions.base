@@ -4,9 +4,24 @@ filters:
     - '!file.name.contains("Template")'
 views:
   - type: table
-    name: Table
+    name: Experiential
+    filters:
+      and:
+        - file.tags.contains("experiential")
+    order:
+      - file.name
+    columnSize:
+      file.name: 484
+  - type: table
+    name: Uncategorized
+    filters:
+      and:
+        - file.tags == []
     order:
       - file.name
       - tags
-    columnSize:
-      file.name: 484
+  - type: table
+    name: Definitional
+    filters:
+      and:
+        - file.tags.contains("definitional")
