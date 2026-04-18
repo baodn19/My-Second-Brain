@@ -25,3 +25,8 @@ views:
     filters:
       and:
         - file.tags.contains("definitional")
+  - type: table
+    name: In Progress
+    filters:
+      and:
+        - file.tags.contains("in-progress")
