@@ -2,7 +2,7 @@
 created: March 3rd 2026
 categories:
   - "[[Concepts]]"
-modified: April 19th 2026, 8:15:02 pm
+modified: April 20th 2026, 12:52:27 pm
 tags:
   - RAS
 ---
@@ -46,8 +46,13 @@ tags:
 - [ ] K-12 education where students can do line following robots
 
 # Lunabotics
-- Split EECS into EE and CS (ROS 2 and automation)
+- Split EECS into EE and Automation (ROS 2 and automation)
+	- Split Automation into perception, navigation, and simulation sub-team and work on the framework by **IEEE Standard 3D Map Data Representation for Robotics and Automation** => Ethos for SPIRSE
+	- Simulation: build custom map for testing, manage urdf models, build digital twins
+- *Benefit of digital twin:*
+	- Physics and Kinematics Simulation: simulate the physics and kinematics of the rover's moving parts, ensuring it does not exceed the allowed expansion height (2.5 m above the surface of the regolith) when extending its dumping or excavation mechanisms.
+	- Energy Consumption Optimization: estimate motor torque, regolith friction, and power draw under various load conditions to optimize their mechanical design and software efficiency before physical manufacturing.
 
 # [[List of resources]]
 - *SPIRSE:*
-	- Integrate standards into lunarobotics to show active participation in standards
+	- Integrate standards into lunabotics to show active participation in standards
