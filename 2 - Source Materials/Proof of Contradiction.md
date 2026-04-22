@@ -2,7 +2,7 @@
 created: January 27th 2026
 categories:
   - "[[Concepts]]"
-modified: February 3rd 2026, 11:03:17 pm
+modified: April 22nd 2026, 11:44:32 am
 tags:
   - mathematics
   - logic
