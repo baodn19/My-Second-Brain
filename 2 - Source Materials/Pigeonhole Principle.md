@@ -2,7 +2,7 @@
 categories:
   - "[[Concepts]]"
 created: April 14th 2026
-modified: April 14th 2026, 1:20:40 pm
+modified: April 23rd 2026, 3:25:38 pm
 tags:
 ---
 - *Definition:* if n pigeons fly into k pigeonholes, n > k, then some (at least one) pigeonhole contains more than one pigeon.
