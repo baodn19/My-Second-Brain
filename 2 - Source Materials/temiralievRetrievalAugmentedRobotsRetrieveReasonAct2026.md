@@ -1,12 +1,13 @@
 ---
 title: "[[Retrieval-Augmented Robots via Retrieve-Reason-Act]]"
-year: 2026 
+year: 2026
 authors: Izat Temiraliev, Diji Yang, Yi Zhang
 categories:
   - "[[Research References]]"
-tags: 
-- Computer-Science---Artificial-Intelligence 
-- Computer-Science---Robotics 
+tags:
+  - Computer-Science---Artificial-Intelligence
+  - Computer-Science---Robotics
+modified: April 25th 2026, 6:11:45 pm
 ---
 
 Zotero PDF Link: [[Zotero Attachments/Temiraliev et al. - 2026 - Retrieval-Augmented Robots via Retrieve-Reason-Act.pdf]]
