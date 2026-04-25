@@ -2,7 +2,7 @@
 created: March 3rd 2026
 categories:
   - "[[Concepts]]"
-modified: April 20th 2026, 12:52:27 pm
+modified: April 25th 2026, 11:12:29 am
 tags:
   - RAS
 ---
@@ -53,6 +53,12 @@ tags:
 	- Physics and Kinematics Simulation: simulate the physics and kinematics of the rover's moving parts, ensuring it does not exceed the allowed expansion height (2.5 m above the surface of the regolith) when extending its dumping or excavation mechanisms.
 	- Energy Consumption Optimization: estimate motor torque, regolith friction, and power draw under various load conditions to optimize their mechanical design and software efficiency before physical manufacturing.
 
+# Career
+- Ask Adam Willea as reference when apply to FANUC "Authorized System Integrators"
+
 # [[List of resources]]
 - *SPIRSE:*
 	- Integrate standards into lunabotics to show active participation in standards
+- GSOC
+- EPICS in IEEE
+- ICRA Satellite school
