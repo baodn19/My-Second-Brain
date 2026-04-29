@@ -2,7 +2,7 @@
 categories:
   - "[[Research Literatures]]"
 created: April 25th 2026
-modified: April 25th 2026, 11:01:22 pm
+modified: April 29th 2026, 11:11:46 am
 reference note:
   - "[[caliRobotsEconomicDevelopment2025]]"
 pass:
@@ -42,3 +42,8 @@ year:
 ## Flaws
 
 ## Open Questions
+
+# Ideas
+- [[The trade-off between productivity and employment isn't present for automation in developing countries]]
+- [[At low level of industrialization, large gains from automation offset the labor displacement effect, resulting in aggregate net employment gains]]
+- 
