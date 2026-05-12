@@ -2,7 +2,7 @@
 categories:
   - "[[Research Literatures]]"
 created: April 25th 2026
-modified: April 29th 2026, 11:11:46 am
+modified: May 12th 2026, 1:33:31 pm
 reference note:
   - "[[caliRobotsEconomicDevelopment2025]]"
 pass:
@@ -19,7 +19,7 @@ year:
 
 ## Contributions
 - The study documents that the aggregate local employment impact of industrial robots in the manufacturing sector is positive in a developing country context, specifically Indonesia.
-- It provides plant-level evidence demonstrating that this absence of an employment-productivity trade-off is caused by diminishing productivity returns to automation.
+- It provides plant-level evidence demonstrating that this absence of an employment-productivity trade-off is caused by diminishing productivity returns to automation. (Law of Diminishing Marginal Returns)
 - The findings challenge the concept that capital-intensive technologies explain the poor employment performance of manufacturing in countries at early stages of industrialization.
 
 ## Limitations
