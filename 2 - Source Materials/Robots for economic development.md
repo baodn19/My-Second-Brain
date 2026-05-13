@@ -2,7 +2,7 @@
 categories:
   - "[[Research Literatures]]"
 created: April 25th 2026
-modified: May 12th 2026, 1:33:31 pm
+modified: May 13th 2026, 2:31:30 pm
 reference note:
   - "[[caliRobotsEconomicDevelopment2025]]"
 pass:
@@ -30,7 +30,7 @@ year:
 
 # 2nd pass
 ## Methodology
-- The researchers employ a Bartik-style shift-share approach to measure local labor market exposure to automation, interacting baseline industry employment shares with industry-specific robot imports.
+- The researchers employ a [[Bartik-style]] shift-share approach to measure local labor market exposure to automation, interacting baseline industry employment shares with industry-specific robot imports.
 - An instrumental variable strategy (2SLS) is utilized to address endogeneity, using average industry-specific robot penetration in OECD countries to instrument for Indonesian robot adoption.
 - For the plant-level analysis, exposure to robots is measured by interacting industry-level robot imports with a plant's base-year share of secondary education workers.
 - Plant-level productivity is measured by estimating translog production functions using a control function approach to obtain quantity-total factor productivity.
