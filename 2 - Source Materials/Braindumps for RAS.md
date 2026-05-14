@@ -2,7 +2,7 @@
 created: March 3rd 2026
 categories:
   - "[[Concepts]]"
-modified: April 25th 2026, 6:11:45 pm
+modified: May 14th 2026, 10:05:13 am
 tags:
   - RAS
 ---
@@ -38,6 +38,7 @@ tags:
 	- Can keep the robot if the team goes to 2/3 workshops
 	- Participate in automation discussion to make up for the loss of attendance
 - [ ] Borrow the drone playing field to test
+- [ ] Learn from CMU Robo Club for Education and Outreach ([Sponsor Packet - 2026](https://roboclub.org/sponsors/sponsor_packet.pdf))
 # Experiment
 - [ ] Record video of workshop and post on youtube
 
