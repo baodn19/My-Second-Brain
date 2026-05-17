@@ -2,7 +2,7 @@
 created: 2026-05-15
 categories:
   - "[[Meetings]]"
-modified: May 16th 2026, 10:00:45 am
+modified: May 17th 2026, 12:44:38 pm
 type: []
 org:
 loc:
@@ -10,6 +10,10 @@ people: []
 topics: []
 contact:
 ---
+# Agenda
+- Discuss about [[A Different Kind of Power - Jacinda Ardern]], my progress, and take-away so far
+- Assisting Dr. Tingting Zhang for a project on elderly companion robot, a potential HRI publication
+- EPICS in IEEE: tackling problems related to agriculture, horticulture, or aquaculture in the Tampa Bay Community
 
 # Note
 - Take [Sunshine (Xinyun) Jiang](https://xinyunsunshine.github.io/#research), K-H scholar, as someone who pursue robotics and economics with crazy community work
