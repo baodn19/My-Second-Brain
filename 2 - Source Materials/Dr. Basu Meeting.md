@@ -2,7 +2,7 @@
 created: 2026-05-15
 categories:
   - "[[Meetings]]"
-modified: May 17th 2026, 12:44:38 pm
+modified: May 17th 2026, 2:57:59 pm
 type: []
 org:
 loc:
@@ -20,5 +20,5 @@ contact:
 - Most of K-H scholar founded sth in their home country ([Steven Truong ’20 named 2025 Knight-Hennessy Scholar | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2025/steven-truong-named-knight-hennessy-scholar-0514)), and some did master as a Marshall Scholar
 
 # Questions
-- When am I qualified enough to start doing the listening tour email draft? Do I need to understand the literature of authors, who I'm reaching out, well? Should I complete Macro and Micro beforehand?
+- When am I qualified enough to start doing the listening tour email draft? Do I need to understand the literature of authors, who I'm reaching out, well? Should I complete Macro and Micro beforehand? **When I have an idea for a publication that would benefit from their inputs?**
 - 

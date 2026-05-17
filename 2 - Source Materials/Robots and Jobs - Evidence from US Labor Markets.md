@@ -2,7 +2,7 @@
 categories:
   - "[[Research Literatures]]"
 created: May 13th 2026
-modified: May 13th 2026, 2:31:10 pm
+modified: May 17th 2026, 3:09:31 pm
 reference note:
 pass:
   - first
@@ -12,6 +12,8 @@ year:
 # 1st Pass: Extract information into headings: research question, problems solved, contributions, methodologies, and limitations
 ## Research question
 - What is the equilibrium impact of industrial robots on local US labor markets, specifically regarding employment and wages?
+## Assumption
+- Commuting zones housing industries with greater advances in robotics technology are not differentially affected by other labor market shocks or trends
 ## Problems
 - Existing literature lacks systematic evidence on the equilibrium effects of automation and robots on employment and wages.
 - Prior approaches predicting job susceptibility do not account for cross-sector equilibrium responses.
@@ -40,3 +42,6 @@ year:
 ## Flaws
 
 ## Open Questions
+
+# Definition
+- *Commuting zones:* proxies for local US labor market
