@@ -2,7 +2,9 @@
 created: 2026-03-26
 tags:
   - research
-modified: March 29th 2026, 5:16:08 pm
+modified: May 19th 2026, 5:08:45 pm
+categories:
+  - "[[Experience]]"
 ---
 
 | Problem                                                                                          | Solution                                                                                           |

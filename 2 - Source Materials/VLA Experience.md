@@ -1,5 +1,7 @@
 ---
-modified: May 12th 2026, 6:19:01 pm
+modified: May 19th 2026, 5:09:40 pm
+categories:
+  - "[[Experience]]"
 ---
 # Theory
 # Experience 

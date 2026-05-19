@@ -1,6 +1,8 @@
 ---
 created: 2026-04-12
-modified: May 9th 2026, 6:20:53 pm
+modified: May 19th 2026, 5:09:29 pm
+categories:
+  - "[[Experience]]"
 ---
 # Theory
 
