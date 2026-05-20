@@ -1,13 +1,14 @@
 ---
 title: "[[X-VLA - Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model]]"
-year: 2025 
+year: 2025
 authors: Jinliang Zheng, Jianxiong Li, Zhihao Wang, Dongxiu Liu, Xirui Kang, Yuchun Feng, Yinan Zheng, Jiayin Zou, Yilun Chen, Jia Zeng, Ya-Qin Zhang, Jiangmiao Pang, Jingjing Liu, Tai Wang, Xianyuan Zhan
 categories:
   - "[[Research References]]"
-tags: 
-- Computer-Science---Artificial-Intelligence 
-- Computer-Science---Computer-Vision-and-Pattern-Recognition 
-- Computer-Science---Robotics 
+tags:
+  - Computer-Science---Artificial-Intelligence
+  - Computer-Science---Computer-Vision-and-Pattern-Recognition
+  - Computer-Science---Robotics
+modified: May 19th 2026, 10:54:59 pm
 ---
 
 Zotero PDF Link: [[Zotero Attachments/Zheng et al. - 2025 - X-VLA Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model.pdf]]

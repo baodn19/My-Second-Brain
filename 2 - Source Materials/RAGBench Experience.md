@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Experience]]"
-modified: May 19th 2026, 8:50:59 pm
+modified: May 19th 2026, 11:11:48 pm
 ---
 # Theory
 
@@ -18,7 +18,7 @@ modified: May 19th 2026, 8:50:59 pm
 - *Desired outcomes:* 
 	- Trial 1 has the greatest ROUGE values mean the retriever effectively return relevant information.
 	- Trial 2 has the second greatest ROUGE values. This demonstrates that chunking texts and vectorizing them to rank relevancy is superior
-	- Trial 3 has the least ROUGE values. This indicates the RAG pipeline improves the answer.
+	- Trial 3 has the lowest ROUGE values. This indicates the RAG pipeline improves the answer.
 ### Metrics to include
 - *Retrieval evaluation:*
 	- Hit rate:
@@ -29,9 +29,9 @@ modified: May 19th 2026, 8:50:59 pm
 	- ROUGE values: evaluate generated response based on lexical overlap (less effective)
 	- BERTScore: evaluate generated response based on semantic similarity using contextual embeddings (more effective)
 ### Choosing subset for evaluation
-- *Overview:* each dataset should stress-test a component of the pipeline
 - *Retrieval:* long document length so each documents gets chunked into many pieces $\implies$ Notice Hit@K and Precision@K
-- 
+- *MS Macro:* subset with the most documents, testing if the retriever can find the relevant chunks  
+- *HotpotQA:* test on multi-hop to evaluate synthesizing information from many documents
 
 # Questions
 
