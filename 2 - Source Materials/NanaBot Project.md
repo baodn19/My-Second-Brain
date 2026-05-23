@@ -1,4 +1,5 @@
 ---
+created: 2026-05-22
 categories:
   - "[[Projects]]"
 type: []
@@ -7,8 +8,9 @@ start:
 year:
 url:
 status:
-modified: May 22nd 2026, 8:09:46 pm
+modified: May 22nd 2026, 8:09:51 pm
 ---
+
 
 | Problems | Solution | Take-away |
 | -------- | -------- | --------- |
