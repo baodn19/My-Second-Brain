@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Experience]]"
-modified: May 23rd 2026, 1:08:40 pm
+modified: May 27th 2026, 4:46:56 pm
 ---
 # Theory
 - [[frielRAGBenchExplainableBenchmark2025]]
