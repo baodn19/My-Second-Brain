@@ -4,6 +4,7 @@ categories:
 modified: May 23rd 2026, 1:08:40 pm
 ---
 # Theory
+- [[frielRAGBenchExplainableBenchmark2025]]
 
 # Experience
 ## [[ablation study]] of [[RAG]] pipeline

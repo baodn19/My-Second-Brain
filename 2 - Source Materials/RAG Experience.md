@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Experience]]"
-modified: May 23rd 2026, 1:10:24 pm
+modified: May 27th 2026, 4:23:14 pm
 ---
 # Theory: [[RAG]]
 # Experience
