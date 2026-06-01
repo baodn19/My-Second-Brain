@@ -16,9 +16,12 @@ localCover:
 status:
   - reading
 created: 2026-04-17 23:05:46
-modified: April 17th 2026, 11:11:36 pm
+modified: May 31st 2026, 10:48:03 pm
 tags:
 ---
+# Overarching
+- [[To act on the things that bother you]]
 # Chapter 1
 - [[Consolidation leads to job loss]]: "The Kaingaroa Loggin Company was absorbed into Tasman forestry, resulting in hundreds of job losses."
 - [[Rogernomics]]: "Parts of the economy that had been owned by the state, including forestry, were privatized and gutted in an approach that was dubbed Rogernomics."
+
