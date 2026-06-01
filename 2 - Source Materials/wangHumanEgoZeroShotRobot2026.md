@@ -1,10 +1,11 @@
 ---
 title: "[[HumanEgo - Zero-Shot Robot Learning from Minutes of Human Egocentric Videos]]"
-year: 2026 
+year: 2026
 authors: Zhi Wang, Botao He, Kelin Yu, Seungjae Lee, Ruohan Gao, Furong Huang, Yiannis Aloimonos
 categories:
   - "[[Research References]]"
-tags: 
+tags:
+modified: May 30th 2026, 5:52:49 pm
 ---
 
 Zotero PDF Link: [[Zotero Attachments/Wang et al. - 2026 - HumanEgo Zero-Shot Robot Learning from Minutes of Human Egocentric Videos.pdf]]

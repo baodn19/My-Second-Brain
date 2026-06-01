@@ -2,7 +2,7 @@
 created: March 3rd 2026
 categories:
   - "[[Concepts]]"
-modified: May 14th 2026, 10:05:13 am
+modified: June 1st 2026, 12:02:48 pm
 tags:
   - RAS
 ---
@@ -45,6 +45,7 @@ tags:
 # XRP
 - [ ] Officer as mentor and underclassmen as mentees to work on the robots
 - [ ] K-12 education where students can do line following robots
+	- [ ] Let EGN 3000L students showcase their robots at K-12 Stem
 
 # Lunabotics
 - Split EECS into EE and Automation (ROS 2 and automation)
