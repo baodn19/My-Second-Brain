@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Experience]]"
-modified: May 30th 2026, 5:26:12 pm
+modified: June 4th 2026, 3:38:24 pm
 ---
 # Theory
 - [[frielRAGBenchExplainableBenchmark2025]]
@@ -11,21 +11,22 @@ modified: May 30th 2026, 5:26:12 pm
 - *Overview:* run 3 trials with the same LLM model and compare the [[ROUGE]] values of each trials
 - *Trials:*
 
-|**Trial**|**Active Components**|**Ablated (Removed) Component**|**Metric Evaluated**|
-|---|---|---|---|
-|**1: All Documents**|Retrieval + Augmentation + Generation|None (Full System)|End-to-end pipeline effectiveness.|
-|**2: Relevant Documents**|Augmentation + Generation|Active Retrieval Search|LLM synthesis capabilities and impact of distractor noise (Oracle condition).|
-|**3: No Documents**|Generation|Retrieval + Augmentation|Baseline parametric knowledge of the LLM.|
-- *Desired outcomes:* 
-	- Trial 1 has the greatest ROUGE values mean the retriever effectively return relevant information.
-	- Trial 2 has the second greatest ROUGE values. This demonstrates that chunking texts and vectorizing them to rank relevancy is superior
-	- Trial 3 has the lowest ROUGE values. This indicates the RAG pipeline improves the answer.
+| **Trial**                 | **Active Components**                                         | **Ablated (Removed) Component** | **Metric Evaluated**                                                          |
+| ------------------------- | ------------------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------- |
+| **1: All Documents**      | Retrieval (Corpus) + Augmentation + Generation                | None (Full System)              | End-to-end pipeline effectiveness.                                            |
+| **2: Relevant Chunk**     | Augmentation + Generation                                     | Retrieval                       | LLM synthesis capabilities given the correct context                          |
+| **3: Relevant Documents** | Retrieval (Ground Truth Document) + Augmentation + Generation | None (Reduce retrieving scope)  | LLM synthesis capabilities and impact of distractor noise (Oracle condition). |
+| **4: No Documents**       | Generation                                                    | Retrieval + Augmentation        | Baseline parametric knowledge of the LLM.                                     |
+- *Desired outcomes:* ranking in highest generation metrics (see below)
+	- Questions supported by document: T2 > T3 $\approx$ T1 > T4
+	- Questions **not** supported by document: T4 > T2 > T3 > T1
 ### Metrics to include
 - *Retrieval evaluation:*
 	- Hit rate:
 		- Hit@1: the percentage that the first retrieved chunk belongs to the ground truth document
 		- Hit@K: the percentage that for every question, at least a chunk belongs to the ground truth document
 	- Precision@K: the percentage of retrieved chunks that belong to the ground truth document (mean and median)
+	- Recall@K: the percentage of ground truth document covered by the top-K chunks
 - *Generation evaluation:*
 	- ROUGE values: evaluate generated response based on lexical overlap (less effective)
 	- BERTScore: evaluate generated response based on semantic similarity using contextual embeddings (more effective)

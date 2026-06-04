@@ -2,7 +2,7 @@
 created: March 3rd 2026
 categories:
   - "[[Concepts]]"
-modified: June 1st 2026, 12:02:48 pm
+modified: June 4th 2026, 5:03:20 pm
 tags:
   - RAS
 ---
@@ -20,6 +20,7 @@ tags:
 - [ ] Introduce to common open source project that is essential for GSoC 
 - [ ] Encourage multidisciplinary in robotics
 	- Hackathon collaboration between engineer and business students where applications are practical and grounded
+- [ ] What kind of event will attract new students?
 
 # [[Take away from RAS survey]]
 - [ ] Create project that combines mechanical and embedded software
