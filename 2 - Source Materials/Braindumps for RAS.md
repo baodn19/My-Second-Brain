@@ -2,7 +2,7 @@
 created: March 3rd 2026
 categories:
   - "[[Concepts]]"
-modified: June 4th 2026, 5:03:20 pm
+modified: June 8th 2026, 9:12:12 pm
 tags:
   - RAS
 ---
@@ -58,6 +58,10 @@ tags:
 
 # Career
 - Ask Adam Willea as reference when apply to FANUC "Authorized System Integrators"
+
+# Outreach and Education
+- [ ] Reach out to NSBE for K-12 or through makers hub
+- [ ] Reach out to EGN300L (or Yassin) to ask about deploying best team to teach K-12 students (Their product will be shared in the next semester)
 
 # [[List of resources]]
 - *SPIRSE:*
