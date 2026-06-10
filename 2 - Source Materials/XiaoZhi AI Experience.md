@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Experience]]"
-modified: June 9th 2026, 10:54:40 am
+modified: June 9th 2026, 10:56:28 am
 ---
 # Theory
 - *Source:* https://github.com/78/xiaozhi-esp32

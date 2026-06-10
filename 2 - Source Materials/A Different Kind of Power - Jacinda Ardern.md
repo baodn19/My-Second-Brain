@@ -16,7 +16,7 @@ localCover:
 status:
   - reading
 created: 2026-04-17 23:05:46
-modified: June 9th 2026, 10:45:12 am
+modified: June 9th 2026, 11:17:27 am
 tags:
 ---
 # Overarching
@@ -37,4 +37,9 @@ tags:
 
 # Chapter 20
 - *Treat obstacles as challenges to overcome:* "From then on, I treated my pregnancy like a test, a set of hurdles to get through without breaking a sweat." (reminds me of [[Brick walls lets us prove how badly we want things - Randy Pausch]])
-- *Strive*
+- *Strive to be the best person everyday:* "The difference between what we are and what we could be is the greatest waste"
+	- Context: debate topic from Jacinda's high school. The loss of human potential from traumas and tiny moments of dehumanization.
+
+# Chapter 23
+- *Be hopeful:* "I still believed that when faced with a choice between hatred and hope, you must choose hope every time."
+	- Context: Her exclamation at the public prayer after mass shooting on March 15 in New Zealand
