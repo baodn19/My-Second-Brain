@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Experience]]"
-modified: June 4th 2026, 3:38:24 pm
+modified: June 14th 2026, 3:48:30 pm
 ---
 # Theory
 - [[frielRAGBenchExplainableBenchmark2025]]
@@ -34,6 +34,8 @@ modified: June 4th 2026, 3:38:24 pm
 - *Retrieval:* long document length so each documents gets chunked into many pieces $\implies$ Notice Hit@K and Precision@K
 - *MS Macro:* subset with the most documents, testing if the retriever can find the relevant chunks  
 - *HotpotQA:* test on multi-hop to evaluate synthesizing information from many documents
+
+## Untracked files that you wished to keep should be copied outside of the repo folder
 
 # Questions
 

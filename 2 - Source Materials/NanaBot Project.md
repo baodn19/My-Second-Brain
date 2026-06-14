@@ -8,7 +8,7 @@ start:
 year:
 url:
 status:
-modified: June 9th 2026, 6:26:11 pm
+modified: June 13th 2026, 12:47:11 pm
 ---
 
 
@@ -21,3 +21,7 @@ modified: June 9th 2026, 6:26:11 pm
 # Related experience
 - [[XiaoZhi AI Experience]]
 - [[Lotus AI Experience]]
+
+# To-do
+- [ ] Add a scroll option for the screen when selecting recipe 
+- [ ] Test if I can interrupt AI while it is speaking
