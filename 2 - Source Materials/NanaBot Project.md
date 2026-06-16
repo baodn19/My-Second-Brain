@@ -8,7 +8,7 @@ start:
 year:
 url:
 status:
-modified: June 13th 2026, 12:47:11 pm
+modified: June 16th 2026, 3:49:00 pm
 ---
 
 
@@ -21,6 +21,7 @@ modified: June 13th 2026, 12:47:11 pm
 # Related experience
 - [[XiaoZhi AI Experience]]
 - [[Lotus AI Experience]]
+- [[ESP32-S3 Experience]]
 
 # To-do
 - [ ] Add a scroll option for the screen when selecting recipe 
