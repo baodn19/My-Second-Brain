@@ -2,7 +2,7 @@
 created: March 3rd 2026
 categories:
   - "[[Concepts]]"
-modified: June 16th 2026, 3:26:19 pm
+modified: June 16th 2026, 7:39:40 pm
 tags:
   - RAS
 ---
@@ -62,6 +62,7 @@ tags:
 # Outreach and Education
 - [ ] Reach out to NSBE for K-12 or through makers hub
 - [ ] Reach out to EGN300L (or Yassin) to ask about deploying best team to teach K-12 students (Their product will be shared in the next semester)
+- [ ] Connect students with professionals
 
 # [[List of resources]]
 - *SPIRSE:*
@@ -69,3 +70,5 @@ tags:
 - GSOC
 - EPICS in IEEE
 - ICRA Satellite school
+- https://www.ieee-ras.org/membership/dei-committee/idea-travel-support/
+- 
