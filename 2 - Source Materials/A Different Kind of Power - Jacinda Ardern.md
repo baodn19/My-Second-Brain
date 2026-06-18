@@ -16,7 +16,7 @@ localCover:
 status:
   - reading
 created: 2026-04-17 23:05:46
-modified: June 9th 2026, 11:17:27 am
+modified: June 18th 2026, 2:31:09 pm
 tags:
 ---
 # Overarching
@@ -43,3 +43,12 @@ tags:
 # Chapter 23
 - *Be hopeful:* "I still believed that when faced with a choice between hatred and hope, you must choose hope every time."
 	- Context: Her exclamation at the public prayer after mass shooting on March 15 in New Zealand
+
+# Chapter 25
+- *There's no one way to impact the world, be open to possibilities:* "two very different people who had taken vastly different paths and believed different things, but who still aspired to bring just a bit more unity into the world"
+	- Can support [[Why Schwarzman]]: learn from different perspectives with the shared goal of a more prosperous world
+- *Holding yourself up to a high standard:* "If I'd shown up at Neve's party with a store-bough cake, or no cake at all, no one would have thought twice. But in my mind, there was a bare minumum set of "Mum" things I needed to tick off. And I would be damned if an Australian Women's Weekly cake wasn't one of them."
+
+# Chapter 26
+- *Standing by what's right, not what's the easiest:* "It meant guaranteed failure. But any other number would tell the public that we had a tolerance for tragedy and the loss of life. And I didn't."
+	- Context: setting the goal for suicide rates by 2030
