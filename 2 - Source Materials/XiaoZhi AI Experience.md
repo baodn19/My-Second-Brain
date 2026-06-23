@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Experience]]"
-modified: June 9th 2026, 10:56:28 am
+modified: June 23rd 2026, 12:48:41 pm
 ---
 # Theory
 - *Source:* https://github.com/78/xiaozhi-esp32
@@ -15,4 +15,4 @@ modified: June 9th 2026, 10:56:28 am
 4. Ubuntu: Go to the `.bin` files and flash firmware with `esptool` which is downloaded through `pipx`  (use either 1152000 or 460800 baud rate)
 
 # Questions
-
+- What do I learn about MCP and API after integrating LotusAI?

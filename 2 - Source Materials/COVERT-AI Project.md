@@ -1,6 +1,6 @@
 ---
 created: 2026-05-19
-modified: June 14th 2026, 3:47:49 pm
+modified: June 23rd 2026, 3:04:15 pm
 categories:
   - "[[Projects]]"
 type: []
@@ -19,3 +19,4 @@ status:
 # Related experience
 - [[RAGBench Experience]]
 - [[RAG Experience]]
+- [[CPU vs GPU Video Ingestion]]
