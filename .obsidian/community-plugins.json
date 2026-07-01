@@ -4,10 +4,10 @@
   "obsidian-zotero-desktop-connector",
   "highlightr-plugin",
   "templater-obsidian",
-  "frontmatter-modified-date",
   "obsidian-latex-suite",
   "obsidian-book-search-plugin",
   "advanced-random-note",
   "dataview",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "chronology"
 ]
