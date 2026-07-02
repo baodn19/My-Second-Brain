@@ -14,7 +14,7 @@ isbn: 1776951271 9781776951277
 cover: http://books.google.com/books/content?id=XZtiEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 localCover:
 status:
-  - reading
+  - completed
 created: 2026-04-17 23:05:46
 modified: June 20th 2026, 10:28:25 am
 tags:

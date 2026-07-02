@@ -1,3 +1,0 @@
----
-created: "{{date:YYYY-MM-DD}}"
----
