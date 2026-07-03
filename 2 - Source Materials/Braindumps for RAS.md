@@ -63,6 +63,8 @@ tags:
 - [ ] Reach out to NSBE for K-12 or through makers hub
 - [ ] Reach out to EGN300L (or Yassin) to ask about deploying best team to teach K-12 students (Their product will be shared in the next semester)
 - [ ] Connect students with professionals
+- [ ]  1-1 Big Little
+- [ ] How do RAS at USF benefit the professional in the Tampa Bay Area
 
 # [[List of resources]]
 - *SPIRSE:*
@@ -71,4 +73,4 @@ tags:
 - EPICS in IEEE
 - ICRA Satellite school
 - https://www.ieee-ras.org/membership/dei-committee/idea-travel-support/
-- 
+-

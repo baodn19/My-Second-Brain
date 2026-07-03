@@ -1,0 +1,17 @@
+filters:
+  and:
+    - categories.contains(link("Favorite Problem"))
+    - '!file.name.contains("Template")'
+views:
+  - type: table
+    name: Active
+  - type: table
+    name: Satisfied
+  - type: table
+    name: Paused
+  - type: table
+    name: Incubating
+    order:
+      - file.name
+      - status
+      - topics

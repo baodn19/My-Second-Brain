@@ -17,16 +17,14 @@ views:
   - type: table
     name: Table
     order:
-      - file.name
-      - type
+      - file.basename
       - year
       - status
-      - url
     sort:
-      - property: status
-        direction: ASC
       - property: year
         direction: DESC
+      - property: status
+        direction: ASC
     columnSize:
-      file.name: 209
-      note.type: 199
+      file.basename: 150
+      note.year: 87
