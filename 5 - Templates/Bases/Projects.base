@@ -15,11 +15,19 @@ properties:
     displayName: Year
 views:
   - type: table
-    name: Table
+    name: All
     order:
       - file.name
       - year
       - status
+  - type: table
+    name: Ongoing
+    filters:
+      and:
+        - status == ["ongoing"]
+    order:
+      - file.name
+      - year
     sort:
       - property: year
         direction: DESC
@@ -28,3 +36,21 @@ views:
     columnSize:
       file.basename: 150
       note.year: 87
+    markers: none
+    indentProperties: false
+  - type: table
+    name: Completed
+    filters:
+      and:
+        - status.contains("completed")
+    order:
+      - file.name
+      - year
+  - type: table
+    name: Resumed
+    filters:
+      and:
+        - status == ["resumed"]
+    order:
+      - file.name
+      - year
