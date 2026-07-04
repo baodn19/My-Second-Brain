@@ -5,17 +5,13 @@ tags:
   - "#Project"
 categories:
   - "[[Projects]]"
+year:
 status:
   - ongoing
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
-# # Summary (250 words)
-- *Checklist:*
-	- [ ] *The Context (~50 words):* What was the specific problem, constraint, or opportunity?
-	- [ ] *The Action (~100 words):* What core mechanism or solution did you build to solve it?
-	- [ ] *The Result (~50 words):* What was the measurable impact, or what was the most valuable lesson learned?
-- *Summary:*
+# Summary (250 words)
 
 # Trials & Errors
 

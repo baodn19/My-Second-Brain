@@ -17,7 +17,7 @@ views:
   - type: table
     name: Table
     order:
-      - file.basename
+      - file.name
       - year
       - status
     sort:
