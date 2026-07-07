@@ -12,7 +12,7 @@ problem:
 
 # Banned Practice
 - Phones on the **bed** and **toilet**
-- Only watch anime on weekend
+- Watching animes on weekdays
 
 # Recommended Entertainment Method
 - *Spotify:* music and podcast is fine
