@@ -12,7 +12,7 @@ year: 2026
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
 # Summary (250 words)
-
+Nanabot is a social robot that helps elder people who lives alone with chronic diseases to eat healthy and take medicines timely. 
 
 # Trials & Errors
 ## Technical
