@@ -1,4 +1,5 @@
 ---
+maturity: seed
 excalidraw-plugin: parsed
 tags:
   - excalidraw
