@@ -15,9 +15,10 @@ status:
 
 # Trials & Errors
 
-| Problems | Solution | Take-away |
-| -------- | -------- | --------- |
-|          |          |           |
+| Bugs Behavior | Underlying problem | Solution |
+| ------------- | ------------------ | -------- |
+|               |                    |          |
+|               |                    |          |
 # Related Experience
 
 ## Drawing

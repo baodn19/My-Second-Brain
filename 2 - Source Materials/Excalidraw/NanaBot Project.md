@@ -17,10 +17,10 @@ Nanabot is a social robot that helps elder people who lives alone with chronic d
 # Trials & Errors
 ## Technical
 
-| Problems                        | Solution | Take-away |
-| ------------------------------- | -------- | --------- |
-| The chatbot often cut my speech |          |           |
-|                                 |          |           |
+| Bugs Behavior | Underlying problem | Solution |
+| ------------- | ------------------ | -------- |
+|               |                    |          |
+|               |                    |          |
 ## Non-technical
 
 | Problems                                                                                                                                                             | Solution                                           | Take-away                                                                                                                             |
@@ -46,6 +46,14 @@ Vertical Scroll on 3.2inch SPI Module ILI9341
  + Create a struct for functions with too many parameters
  + For long-lived elements, use heap (eg: UI elements persist after function return) - vice versa for stack ^KL2PE3bb
 
+Touchscreen
+ ^ySnLZ5kM
+
+240 px ^PsnF3fpX
+
+320
+px ^a9nmBkOb
+
 %%
 ## Drawing
 ```compressed-json
@@ -67,12 +75,34 @@ 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
 
-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
+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
 
-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
+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
 
-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
+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
 
-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=
+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
+
+QENyYDB6R6VbKjNn4pYQAA==
 ```
 %%
