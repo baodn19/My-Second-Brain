@@ -40,6 +40,7 @@ tags:
 	- Participate in automation discussion to make up for the loss of attendance
 - [ ] Borrow the drone playing field to test
 - [ ] Learn from CMU Robo Club for Education and Outreach ([Sponsor Packet - 2026](https://roboclub.org/sponsors/sponsor_packet.pdf))
+- [ ] Do a workshop on serial communications
 # Experiment
 - [ ] Record video of workshop and post on youtube
 
@@ -65,6 +66,11 @@ tags:
 - [ ] Connect students with professionals
 - [ ]  1-1 Big Little
 - [ ] How do RAS at USF benefit the professional in the Tampa Bay Area
+
+# Website
+- [ ] Create a request box for students
+- [ ] Do post mortem after each project
+- [ ] Create a list of workshops content that people can host
 
 # [[List of resources]]
 - *SPIRSE:*
