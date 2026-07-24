@@ -37,6 +37,9 @@ Nanabot is a social robot that helps elder people who lives alone with chronic d
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | I learned nothing from my projects when LLM does the planning, coding, and debugging and my only job is prompting. I don't have the understanding of the system code | Outline [[Coding Workflow]] with human-in-the-loop | Human does the thinking and planning<br>LLM does the coding and play devil's advocate to your<br>LLM MUST NOT do the thinking for you |
 
+# MVP Development
+
+
 # Related Experience
 - [[XiaoZhi AI Experience]]
 - [[Lotus AI Experience]]
