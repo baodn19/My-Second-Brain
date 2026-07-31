@@ -5,6 +5,11 @@ filters:
 views:
   - type: table
     name: Active
+    order:
+      - file.name
+      - status
+    columnSize:
+      file.name: 371
   - type: table
     name: Satisfied
   - type: table
