@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "bf94737d98a5169e",
+    "type": "split",
+    "children": [
+      {
+        "id": "642ba62e46daf1fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8108f82282f6d738",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Main Notes/Xiaomin Lin 2-2 In-meeting notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Xiaomin Lin 2-2 In-meeting notes"
+            }
+          },
+          {
+            "id": "9c3050968a9cf160",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Main Notes/power set.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "power set"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3baf748ec2ae4457",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "77eed6d3107e4303",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "cf3537509831e478",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "174bcd678eb312ac",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "26d40dab923b1031",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-ghost",
+          "title": "all-properties"
+        }
+      },
+      {
+        "id": "930be723ed0f87d5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "426ca084f1614b54",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8ae568d00267e3ea",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Test.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "6b90ccbb53cd7a63",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Test.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "89aac5e3a8420986",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Test.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "2d05bcf79efde2e0",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9c3050968a9cf160",
+  "lastOpenFiles": [
+    "5 - Main Notes/Xiaomin Lin 2-2 In-meeting notes.md",
+    "5 - Main Notes/empty sets.md",
+    "5 - Main Notes/prove P -} Q.md",
+    "5 - Main Notes/set.md",
+    "5 - Main Notes/subset.md",
+    "5 - Main Notes/cardinality.md",
+    "5 - Main Notes/power set.md",
+    "/6 - Templates/Class Lectures Template.md",
+    "/6 - Templates",
+    "/5 - Main Notes/subset.md",
+    "/5 - Main Notes/set.md",
+    "/5 - Main Notes/prove P -} Q.md",
+    "/5 - Main Notes/power set.md",
+    "/5 - Main Notes/empty sets.md",
+    "/5 - Main Notes/divisor.md",
+    "/5 - Main Notes/cardinality.md",
+    "/5 - Main Notes/Proof of Contrapositive.md",
+    "/5 - Main Notes/Proof of Contradiction.md",
+    "/5 - Main Notes/COP4530 - Assignment 1.md",
+    "5 - Main Notes/COP4530 - Assignment 1.md",
+    "/5 - Main Notes",
+    "5 - Main Notes/Meeting with Dr. Lin for RAS chapter advisor.md",
+    "5 - Main Notes/Sure, AI can ‘do’ writing. But memoir Not so much  Aeon Essays.md",
+    "5 - Main Notes/ERA Lab.md",
+    "5 - Main Notes/Xiaomin Lin.md",
+    "5 - Main Notes/Workshop series for southeastcon like SHPE.md",
+    "5 - Main Notes/labor shortage in strawberry harvesting.md",
+    "6 - Templates/Bases/Phenomena.base",
+    "5 - Main Notes/labor shortage in strawberry harvesting in Florida.md",
+    "/6 - Templates/Bases/Phenomena.base",
+    "/6 - Templates/Bases/Daily.base",
+    "/6 - Templates/Bases",
+    "/4 - Categories",
+    "/6 - Templates/Bases/Research Literatures.base",
+    "6 - Templates/Bases/Research Literatures.base",
+    "/2 - Source Materials",
+    "Attachments/RC-circuit-charging-curve_1.webp",
+    "Attachments/Pasted image 20260125233224.png"
+  ]
+}
