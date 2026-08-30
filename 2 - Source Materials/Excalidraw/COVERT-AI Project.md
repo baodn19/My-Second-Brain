@@ -30,7 +30,7 @@ COVERT-AI has
 | Convention                                                                                                                                                | Purpose                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | Git history should only have 2 lines, blue for current branch and yellow for main. Make sure to pull code from main everyday to keep your code up-to-date | Avoid code diverging and people's code conflicting each other                          |
-| Delete remote branch after merging                                                                                                                        | Keep the repository clean and to highlight working branches                            |
+| Delete remote & local branch after merging                                                                                                                | Keep the repository clean and to highlight working branches                            |
 | Have a switch to turn off any broken features                                                                                                             | Avoid that features breaking the whole application and isolate broken feature to debug |
 # Concepts
 ## Knowing who talked talked when and what
