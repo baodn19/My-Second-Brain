@@ -32,6 +32,8 @@ COVERT-AI has
 | Git history should only have 2 lines, blue for current branch and yellow for main. Make sure to pull code from main everyday to keep your code up-to-date | Avoid code diverging and people's code conflicting each other                          |
 | Delete remote & local branch after merging                                                                                                                | Keep the repository clean and to highlight working branches                            |
 | Have a switch to turn off any broken features                                                                                                             | Avoid that features breaking the whole application and isolate broken feature to debug |
+| Paths (NEMO_PATH, PYTHONPATH) declaration and removal for a conda project should be integrated into the venv activation and deactivation.                 | Avoid PYTHONPATH having unnecessary paths and keeping the path to the project itself   |
+| Use `python-dotenv` to read `.env` files. Don't use placeholders value for `.env.example`, instead use comments                                           | Avoid writing functions to parse keys from `.env`.                                     |
 # Concepts
 ## Knowing who talked talked when and what
 - *Combine ASR and diarization:*
