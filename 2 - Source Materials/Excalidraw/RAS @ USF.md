@@ -14,7 +14,7 @@ tags: [excalidraw]
 
 ## Operations
 - [ ] **Get an Operation Chair**
-- [ ] EGN3000L presentation
+- [ ] EGN3000L presentation (email a professor)
 - [ ] Get back to outreach for USF
 - [ ] Shared calendars of upcoming events
 - [ ] Do polls for events and workshops
