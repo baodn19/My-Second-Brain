@@ -10,8 +10,12 @@ tags: [excalidraw]
 ## Lunabotics
 - [ ] Storage
 - [ ] Workplace
+- [ ] Getting back parts of the rover
 
 ## Operations
+- [ ] **Get an Operation Chair**
+- [ ] EGN3000L presentation
+- [ ] Get back to outreach for USF
 - [ ] Shared calendars of upcoming events
 - [ ] Do polls for events and workshops
 - [ ] Marketing materials for student org fair
