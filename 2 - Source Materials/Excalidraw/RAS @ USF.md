@@ -11,9 +11,11 @@ tags: [excalidraw]
 - [ ] Storage
 - [ ] Workplace
 - [ ] Getting back parts of the rover
+- [ ] What's the benefit of getting participation for bullsconnect
 
 ## Operations
 - [ ] **Get an Operation Chair**
+- [ ] **Reschedule Kickoff**
 - [ ] EGN3000L presentation (email a professor)
 - [ ] Get back to outreach for USF
 - [ ] Shared calendars of upcoming events
