@@ -6,7 +6,6 @@ modified: February 12th 2026, 5:12:52 pm
 type:
   - "[[Planning]]"
 org:
-  - "[[RAS]]"
 loc:
 people: []
 topics: []
