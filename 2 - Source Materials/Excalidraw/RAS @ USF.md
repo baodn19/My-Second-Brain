@@ -16,6 +16,7 @@ tags: [excalidraw]
 ## Operations
 - [ ] **Get an Operation Chair**
 - [ ] **Reschedule Kickoff**
+- [ ] **Materials for Student Org Fair**
 - [ ] EGN3000L presentation (email a professor)
 - [ ] Get back to outreach for USF
 - [ ] Shared calendars of upcoming events
