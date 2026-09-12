@@ -14,11 +14,9 @@ tags: [excalidraw]
 - [ ] What's the benefit of getting participation for bullsconnect
 
 ## Operations
-- [ ] **Get an Operation Chair**
-- [x] **Reschedule Kickoff**
 - [ ] **Materials for Student Org Fair**
 - [ ] EGN3000L presentation (email a professor)
-- [ ] **Get back to outreach for USF**
+- [ ] **Get back to outreach for USF** with new time
 - [ ] Shared calendars of upcoming events
 - [ ] Do polls for events and workshops
 - [ ] Marketing materials for student org fair
