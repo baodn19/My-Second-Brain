@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Books]]"
-title: 2026-09-06 14-47
+title: The Myth of Sisyphus
 subtitle: "{{subtitle}}"
 author: "[[Albert Camus]]"
 category: "[[Existentialist Philosophy]]"
