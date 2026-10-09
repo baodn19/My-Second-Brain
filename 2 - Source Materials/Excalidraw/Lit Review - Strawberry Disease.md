@@ -6,7 +6,17 @@ tags: [excalidraw]
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
+# Related Works
+## Previous Methodology
 
+| Index | Paper                                                                                                                                                                           | Methodology | Dataset | Limitation |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------- | ---------- |
+| 1     | [Improved Vision-Based Detection of Strawberry Diseases Using a Deep Neural Network](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2020.559172/full) |             |         |            |
+## Important Papers
+
+| Paper | Methodology | Cited Index |
+| ----- | ----------- | ----------- |
+|       |             |             |
 # Excalidraw Data
 
 ## Text Elements

@@ -14,6 +14,9 @@ properties:
 views:
   - type: cards
     name: Cover View
+    groupBy:
+      property: status
+      direction: ASC
     order:
       - title
       - author
@@ -63,3 +66,8 @@ views:
       - file.name
       - year
       - genre
+  - type: kanban
+    name: Kanban
+    groupBy:
+      property: status
+      direction: ASC
