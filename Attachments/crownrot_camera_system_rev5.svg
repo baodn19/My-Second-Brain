@@ -1,0 +1,665 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1700 1915" width="1700" height="1915" font-family="Arial, 'Liberation Sans', Helvetica, sans-serif" font-size="11" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyOGFjYWIyZS1iMTQzLTQ3N2YtOWIwNy1iZWZiM2RlNWNiMWEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaHL4uncViFUSjk8Yt06cD/YAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpmOTRkN2MxMy04NTExLTQ3MzAtYTFlOC0yOWFkNjc4ODIxNjZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoyghCO4KmCrVP42yHwoOQxwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggEprN51tm0tBpRWA6MiuurkTQT2gxG3zqXP9FrfSsiyekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaOmKjV1fBTZzLxm1McTOZGUAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYINsXpiyorqqQR/o8bRj7KrLJdV+v5U+ZKwt7q7HgKzmpZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQESZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjI4YWNhYjJlLWIxNDMtNDc3Zi05YjA3LWJlZmIzZGU1Y2IxYS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjA5MDEyNWEyLTAyNTctNDYwYS05NDNlLTc1NTdiOTljOGEzNHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCASms3nW2bS0GlFYDoyK66uRNBPaDEbfOpc/0Wt9KyLJ6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggCMYYgOu3ZXkIZYGr2oZ3ka+HrVV271GE6AgPBsPqt0KiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggT9cElC2bA38hLQGJ6V1BABGhtuWDNINKNCD0sT/ZKEF0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQLoM+67qxZavrYEksAT/XX+5fMhOR3l+9Tddhwjq4L0Q8ZLs+b5F6eG/fQyOcqhP+VF0C9CarESsv1kopnfQX/s=</c2pa:manifest></metadata>
+<defs>
+  <pattern id="perf" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#ffffff"/><circle cx="5" cy="5" r="1.6" fill="#cfd4d8"/></pattern>
+  <pattern id="soil" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#c8a978"/><circle cx="2" cy="3" r="1" fill="#a88a5a"/></pattern>
+  <marker id="arr" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#333"/></marker>
+  <marker id="arrS" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#333"/></marker>
+  <marker id="arrR" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#c0392b"/></marker>
+  <marker id="arrB" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#1f6feb"/></marker>
+  <g id="plant">
+    <path d="M0,0 L-18,-30 M0,0 L0,-42 M0,0 L18,-30" stroke="#3a7d2c" stroke-width="2" fill="none"/>
+    <ellipse cx="-22" cy="-34" rx="15" ry="8" fill="#4caf50"/>
+    <ellipse cx="0" cy="-46" rx="13" ry="9" fill="#43a047"/>
+    <ellipse cx="22" cy="-34" rx="15" ry="8" fill="#4caf50"/>
+    <ellipse cx="0" cy="0" rx="7" ry="4" fill="#8b5a2b"/>
+  </g>
+  <g id="cn"><circle r="8" fill="#ffffff" stroke="#000"/></g>
+  <clipPath id="frameclip"><rect x="0" y="28" width="185" height="131"/></clipPath>
+</defs>
+
+<rect width="1700" height="1915" fill="#fafaf7"/>
+<text x="20" y="30" font-size="21" font-weight="bold">Strawberry Crown-Rot Field Camera: two identical Arducam 64MP Hawkeye stations (4 inoculated plants each), UF/IFAS GCREC, Wimauma FL</text>
+<text x="20" y="50" font-size="11" fill="#555">rev. 5 · Nov 1, 2026 · from build plan rev. 3, the Oct 28 and Oct 31 Amazon lists, and the Oct 31 handoff · 96 in (8 ft) T-post from Home Depot · drawn for one station; build ×2</text>
+<text x="1690" y="50" font-size="11" text-anchor="end" fill="#555">[O] ordered · [L1] Oct 28 list · [L2] Oct 31 list · [HD] Home Depot · [TB] still to buy</text>
+
+<!-- ===================== PANEL A ===================== -->
+<g transform="translate(10,62)">
+  <rect x="0" y="0" width="830" height="830" fill="#eef6fb" stroke="#999"/>
+  <text x="12" y="22" font-size="15" font-weight="bold">(a) Field install: side elevation across the bed, looking east (north on left; above ground 1 in = 6 px)</text>
+
+  <!-- ground and bed -->
+  <rect x="0" y="620" width="830" height="210" fill="url(#soil)"/>
+  <polygon points="324,620 336,560 516,560 528,620" fill="#1e1e1e"/>
+  <circle cx="426" cy="572" r="3" fill="#777"/>
+  <text x="352" y="594" font-size="9" fill="#fff">bed ≈ 30 in top (est. 26–35 in)</text>
+  <text x="352" y="607" font-size="9" fill="#cfcfcf">2 rows 12 in apart · drip tape</text>
+
+  <!-- FOV cone: lens 1.27 m above crowns, 54.6° across -->
+  <polygon points="426,262 271,560 581,560" fill="#ffd54f" fill-opacity="0.28" stroke="#e0a800" stroke-dasharray="6 4"/>
+
+  <!-- plants -->
+  <use xlink:href="#plant" x="390" y="560"/>
+  <use xlink:href="#plant" x="462" y="560"/>
+  <line x1="336" y1="497" x2="516" y2="497" stroke="#e53935" stroke-dasharray="4 3"/>
+  <line x1="336" y1="492" x2="336" y2="502" stroke="#e53935"/><line x1="516" y1="492" x2="516" y2="502" stroke="#e53935"/>
+  <text x="340" y="488" font-size="9">Row A: P1 (P3 behind)</text>
+  <text x="430" y="476" font-size="9">Row B: P2 (P4 behind)</text>
+
+  <!-- T-post: 8 ft, driven 2.5 ft, top 5.5 ft (y=224) -->
+  <rect x="264" y="224" width="12" height="396" fill="#2f6b3a"/>
+  <g fill="#2f6b3a">
+    <rect x="276" y="250" width="3" height="4"/><rect x="276" y="280" width="3" height="4"/><rect x="276" y="310" width="3" height="4"/>
+    <rect x="276" y="340" width="3" height="4"/><rect x="276" y="370" width="3" height="4"/><rect x="276" y="400" width="3" height="4"/>
+    <rect x="276" y="430" width="3" height="4"/><rect x="276" y="460" width="3" height="4"/><rect x="276" y="520" width="3" height="4"/>
+    <rect x="276" y="550" width="3" height="4"/><rect x="276" y="580" width="3" height="4"/>
+  </g>
+  <!-- buried part (drawn shortened) -->
+  <rect x="264" y="620" width="12" height="108" fill="none" stroke="#2f6b3a" stroke-dasharray="4 3"/>
+  <path d="M256,672 L284,664 M256,680 L284,672" stroke="#2f6b3a" stroke-width="2"/>
+  <rect x="254" y="708" width="32" height="18" fill="none" stroke="#2f6b3a" stroke-dasharray="4 3"/>
+  <g font-size="9.5" text-anchor="end">
+    <text x="250" y="700">post driven 2.5 ft (drawn shortened)</text>
+    <text x="250" y="713">anchor plate fully buried</text>
+  </g>
+
+  <!-- post-top tick -->
+  <line x1="232" y1="224" x2="261" y2="224" stroke="#333"/>
+  <text x="196" y="221" font-size="10" font-weight="bold">5.5 ft</text>
+
+  <!-- north guy line: post top -> rebar stake 3 ft north -->
+  <circle cx="270" cy="228" r="4" fill="none" stroke="#555" stroke-width="1.5"/>
+  <line x1="266" y1="229" x2="58" y2="612" stroke="#555" stroke-width="1.5"/>
+  <line x1="97" y1="540" x2="78" y2="575" stroke="#9aa3ab" stroke-width="5"/>
+  <line x1="60" y1="610" x2="30" y2="702" stroke="#444" stroke-width="3"/>
+  <!-- Tanglefoot band -->
+  <rect x="259" y="470" width="22" height="18" fill="#efe6c8" stroke="#8a7a50"/>
+
+  <!-- strut, D = 26 in, arm = D + 6 in = 32 in -->
+  <rect x="260" y="224" width="202" height="10" fill="#b8bfc6" stroke="#6c757d"/>
+  <line x1="272" y1="229" x2="456" y2="229" stroke="#6c757d" stroke-dasharray="8 6"/>
+  <rect x="256" y="216" width="28" height="7" fill="#c9a64a" stroke="#7a6320"/>
+  <rect x="256" y="235" width="28" height="7" fill="#c9a64a" stroke="#7a6320"/>
+
+  <!-- camera box, lid down; lens at 5.0 ft (y=260) -->
+  <rect x="406" y="234" width="40" height="26" fill="#c9cdd1" stroke="#555"/>
+  <line x1="406" y1="235.5" x2="446" y2="235.5" stroke="#bfc3c7" stroke-width="3"/>
+  <line x1="406" y1="260" x2="446" y2="260" stroke="#5dade2" stroke-width="3"/>
+  <polygon points="419,261 433,261 436,268 416,268" fill="#111"/>
+  <polygon points="402,252 406,250 406,257 402,257" fill="#111"/>
+  <polygon points="446,252 450,250 450,257 446,257" fill="#111" stroke="#ff7f27" stroke-width="1"/>
+
+  <!-- D dimension -->
+  <line x1="270" y1="206" x2="426" y2="206" stroke="#333" marker-start="url(#arrS)" marker-end="url(#arr)"/>
+  <line x1="426" y1="200" x2="426" y2="232" stroke="#333" stroke-dasharray="2 2"/>
+  <text x="300" y="201" font-size="10" font-weight="bold">D ≈ 26 in (measure)</text>
+
+  <!-- sun at 48° (Nov 1 noon) and box shadow -->
+  <circle cx="478" cy="189" r="9" fill="#ffca28" stroke="#e0a800"/>
+  <g stroke="#e0a800" stroke-width="1.5">
+    <line x1="478" y1="174" x2="478" y2="168"/><line x1="493" y1="189" x2="499" y2="189"/><line x1="489" y1="178" x2="493" y2="174"/><line x1="489" y1="200" x2="493" y2="204"/><line x1="467" y1="178" x2="463" y2="174"/>
+  </g>
+  <line x1="470" y1="198" x2="90" y2="620" stroke="#e67e22" stroke-dasharray="5 4"/>
+  <ellipse cx="90" cy="621" rx="16" ry="3" fill="#333" fill-opacity="0.6"/>
+  <text x="502" y="193" font-size="9.5" fill="#8a5a00">noon sun 48° on Nov 1 (39° on Dec 21)</text>
+  <text x="502" y="206" font-size="9.5" fill="#8a5a00">shadows of box, arm and post fall north</text>
+
+  <!-- 12 V riser -->
+  <path d="M402,255 C385,262 300,248 282,262 L282,600 C282,612 255,612 233,600" fill="none" stroke="#c0392b" stroke-width="2.5"/>
+  <g fill="#111"><rect x="277" y="300" width="10" height="3"/><rect x="277" y="372" width="10" height="3"/><rect x="277" y="444" width="10" height="3"/><rect x="277" y="516" width="10" height="3"/><rect x="277" y="580" width="10" height="3"/></g>
+
+  <!-- battery box at post base, >= 6 in north of post -->
+  <rect x="175" y="555" width="58" height="65" rx="4" fill="#1a1a1a"/>
+  <line x1="175" y1="572" x2="233" y2="572" stroke="#666" stroke-width="4"/>
+  <line x1="190" y1="575" x2="190" y2="618" stroke="#333"/><line x1="204" y1="575" x2="204" y2="618" stroke="#333"/><line x1="218" y1="575" x2="218" y2="618" stroke="#333"/>
+
+  <!-- upper-left labels -->
+  <g font-size="9.5">
+    <text x="12" y="46" font-weight="bold">[HD] 96 in (8 ft) studded steel T-post ×2</text>
+    <text x="12" y="60">one piece, driven 2.5 ft into the north furrow,</text>
+    <text x="12" y="73">top at 5.5 ft (VEVOR 2.7 in driver [L2])</text>
+    <text x="12" y="86" fill="#c0392b">(!) measure flange (Everbilt ≈ 1.76 in) for the</text>
+    <text x="12" y="99" fill="#c0392b">clamp U-bolt, and corner width vs. 2.7 in driver</text>
+    <text x="12" y="120" font-weight="bold">3 guy lines from the post top, above clamps:</text>
+    <text x="12" y="133">1 north (drawn) + 2 along the furrow, in and</text>
+    <text x="12" y="146">out of the page (see plan) · none crosses the</text>
+    <text x="12" y="159">bed or the camera view</text>
+  </g>
+  <!-- guy-line label, left of the line -->
+  <g font-size="9.5">
+    <text x="12" y="296">North guy: 1/8 in vinyl-</text>
+    <text x="12" y="309">coated 304 stainless wire;</text>
+    <text x="12" y="322">thimble + 2 clamps per end;</text>
+    <text x="12" y="335">M5 turnbuckle per line; close</text>
+    <text x="12" y="348">hook with wire or a UV tie</text>
+    <text x="12" y="365" font-weight="bold">Rebar stake 3–4 ft north</text>
+  </g>
+  <line x1="150" y1="320" x2="210" y2="330" stroke="#333" marker-end="url(#arr)"/>
+  <g font-size="9">
+    <text x="12" y="470">Tanglefoot (opt.) on the</text>
+    <text x="12" y="482">post and each guy line</text>
+  </g>
+  <line x1="112" y1="477" x2="257" y2="479" stroke="#333" marker-end="url(#arr)"/>
+
+  <!-- riser labels between post and cone -->
+  <g font-size="9">
+    <text x="288" y="330">16 AWG pair (XHF)</text>
+    <text x="288" y="342">UV black ties ~1/ft</text>
+    <text x="288" y="354">drip loop → PG9,</text>
+    <text x="288" y="366">box side wall</text>
+  </g>
+
+  <!-- upper-right labels -->
+  <g font-size="10">
+    <text x="500" y="46">[L2] Newhouse 1-5/8 in 12 ga strut, 4 ft ×2: $34.93 ea</text>
+    <text x="500" y="60">cut to D + ~6 in (D = post to bed centre line,</text>
+    <text x="500" y="74">measured on site; arm ≈ 25–35 in). Drawn: arm 32 in</text>
+    <text x="500" y="88" fill="#666">(a 2 ft arm would put the lens only ~19 in out)</text>
+    <text x="500" y="104">[L2] Newhouse U-bolt clamp 2-pk ×2: $15.16 ea, over studs</text>
+    <text x="500" y="118">[L2] GZBEVITAR 3/8"-16 spring nuts + bolts /32: $33.99</text>
+    <text x="500" y="136">[O] QILIPSU 8.6×6.7×4.3 in box, clear lid DOWN</text>
+    <text x="500" y="150">[L2] Hoya 52 mm window + [L1] CAMKIX hood (see b)</text>
+    <text x="500" y="164">[L2] Nashua 322 foil tape: outside top + sides only</text>
+  </g>
+  <line x1="498" y1="70" x2="458" y2="226" stroke="#333" marker-end="url(#arr)"/>
+  <line x1="498" y1="140" x2="447" y2="245" stroke="#333" marker-end="url(#arr)"/>
+
+  <!-- lens height dimension and right-column labels -->
+  <line x1="598" y1="264" x2="598" y2="618" stroke="#333" marker-start="url(#arrS)" marker-end="url(#arr)"/>
+  <g font-size="10">
+    <text x="606" y="284" font-weight="bold">lens ≈ 5.0 ft (1.52 m) above aisle</text>
+    <text x="606" y="298">≈ 1.27 m (50 in) above crowns</text>
+    <text x="606" y="312">(strut + box = 151 mm below post top)</text>
+    <text x="606" y="390" font-weight="bold" fill="#8a6d00">FOV 54.6° across bed, 72° along</text>
+    <text x="606" y="404" fill="#8a6d00">→ 1.31 m (51.6 in) across at crowns</text>
+    <text x="606" y="418" fill="#8a6d00">→ 1.85 m (6.1 ft) along · 0.20 mm/px</text>
+    <text x="606" y="432" fill="#8a6d00">block (red, 30 in at 18 in canopy)</text>
+    <text x="606" y="446" fill="#8a6d00">has ≈ 10 in margin each side</text>
+    <text x="606" y="510">Crowns at bed surface =</text>
+    <text x="606" y="524">inoculation site (Colletotrichum)</text>
+    <text x="606" y="560">Raised bed, black plastic mulch</text>
+    <text x="606" y="574">~10 in high · bed centres 48–60 in</text>
+    <text x="606" y="588">post in the N furrow, arm reaches S</text>
+  </g>
+  <line x1="604" y1="408" x2="505" y2="420" stroke="#8a6d00" marker-end="url(#arr)"/>
+  <line x1="604" y1="514" x2="470" y2="557" stroke="#8b5a2b" marker-end="url(#arr)"/>
+
+  <!-- soil labels -->
+  <g font-size="9.5">
+    <text x="104" y="640">noon box shadow ≈ 55 in</text>
+    <text x="104" y="652">N of bed centre (Nov 1)</text>
+    <text x="62" y="672">rebar 3 ft × 3/8 in [L2],</text>
+    <text x="62" y="684">angled away from post</text>
+    <text x="12" y="760" font-weight="bold">Battery box on the ground, ≥ 6 in N of the</text>
+    <text x="12" y="773">post so it stays out of frame (see c).</text>
+    <text x="12" y="790">Frame at furrow level reaches ~5 in N of</text>
+    <text x="12" y="803">the post; along-furrow stakes ≥ 4 ft out</text>
+    <text x="12" y="816">keep the wires out of the frame corners.</text>
+  </g>
+
+  <!-- inset 1: plan view of the camera frame (100 px = 1 m) -->
+  <g transform="translate(306,638)">
+    <rect x="-6" y="-6" width="258" height="190" fill="#ffffff" stroke="#999"/>
+    <text x="0" y="8" font-size="10.5" font-weight="bold">Plan view of frame (8 ft post, chosen)</text>
+    <text x="0" y="21" font-size="9">72° along bed × 54.6° across · 1.27 m to crowns</text>
+    <rect x="0" y="28" width="185" height="131" fill="#1e1e1e" stroke="#e0a800" stroke-width="2"/>
+    <g clip-path="url(#frameclip)">
+      <circle cx="3.5" cy="78.25" r="15.2" fill="#4caf50" opacity="0.45"/><circle cx="39.1" cy="78.25" r="15.2" fill="#4caf50" opacity="0.45"/>
+      <circle cx="145.9" cy="78.25" r="15.2" fill="#4caf50" opacity="0.45"/><circle cx="181.5" cy="78.25" r="15.2" fill="#4caf50" opacity="0.45"/>
+      <circle cx="3.5" cy="108.75" r="15.2" fill="#4caf50" opacity="0.45"/><circle cx="39.1" cy="108.75" r="15.2" fill="#4caf50" opacity="0.45"/>
+      <circle cx="145.9" cy="108.75" r="15.2" fill="#4caf50" opacity="0.45"/><circle cx="181.5" cy="108.75" r="15.2" fill="#4caf50" opacity="0.45"/>
+      <circle cx="74.7" cy="78.25" r="15.2" fill="#4caf50"/><circle cx="110.3" cy="78.25" r="15.2" fill="#4caf50"/>
+      <circle cx="74.7" cy="108.75" r="15.2" fill="#4caf50"/><circle cx="110.3" cy="108.75" r="15.2" fill="#4caf50"/>
+    </g>
+    <g fill="none" stroke="#e53935" stroke-dasharray="3 3">
+      <circle cx="74.7" cy="78.25" r="22.9"/><circle cx="110.3" cy="78.25" r="22.9"/>
+      <circle cx="74.7" cy="108.75" r="22.9"/><circle cx="110.3" cy="108.75" r="22.9"/>
+    </g>
+    <rect x="51.8" y="55.35" width="81.4" height="76.3" fill="none" stroke="#e53935" stroke-width="1.5"/>
+    <text x="68" y="82" font-size="9.5" fill="#fff">P1</text><text x="104" y="82" font-size="9.5" fill="#fff">P3</text>
+    <text x="68" y="112" font-size="9.5" fill="#fff">P2</text><text x="104" y="112" font-size="9.5" fill="#fff">P4</text>
+    <text x="190" y="81" font-size="8">row A</text><text x="190" y="112" font-size="8">row B</text>
+    <text x="190" y="40" font-size="8">N ↑</text>
+    <text x="0" y="171" font-size="9">1.85 × 1.31 m · 0.20 mm/px · leaflet ≈ 270 px</text>
+    <text x="0" y="183" font-size="9">solid 12 in · dashed 18 in canopy · red box = block</text>
+  </g>
+
+  <!-- inset 2: station plan view, north up (18 px = 1 ft) -->
+  <g transform="translate(572,638)">
+    <rect x="-6" y="-6" width="258" height="190" fill="#ffffff" stroke="#999"/>
+    <text x="0" y="8" font-size="10.5" font-weight="bold">Station plan, north up (1 ft = 18 px)</text>
+    <rect x="0" y="16" width="246" height="144" fill="#d9c49c"/>
+    <rect x="0" y="91.5" width="246" height="51" fill="#1e1e1e"/>
+    <text x="4" y="102" font-size="8" fill="#ddd">bed (black mulch)</text>
+    <text x="4" y="28" font-size="8">north furrow</text>
+    <rect x="70.4" y="78.3" width="109.2" height="77.4" fill="#ffd54f" fill-opacity="0.25" stroke="#e0a800" stroke-dasharray="5 3"/>
+    <text x="118" y="153" font-size="8" fill="#8a6d00">frame</text>
+    <!-- guy lines -->
+    <g stroke="#555" stroke-width="1.3">
+      <line x1="125" y1="78" x2="125" y2="24"/><line x1="125" y1="78" x2="53" y2="78"/><line x1="125" y1="78" x2="197" y2="78"/>
+    </g>
+    <circle cx="125" cy="24" r="3" fill="#444"/><circle cx="53" cy="78" r="3" fill="#444"/><circle cx="197" cy="78" r="3" fill="#444"/>
+    <text x="130" y="27" font-size="8">N stake 3–4 ft</text>
+    <text x="2" y="74" font-size="8">stake ≥ 4 ft</text>
+    <text x="200" y="74" font-size="8">≥ 4 ft</text>
+    <!-- battery box -->
+    <rect x="92" y="52" width="25" height="14" fill="#1a1a1a"/>
+    <text x="54" y="48" font-size="8">battery box</text>
+    <!-- arm, post, camera box -->
+    <rect x="122" y="78" width="6" height="48" fill="#b8bfc6" stroke="#6c757d"/>
+    <rect x="121" y="75" width="8" height="6" fill="#2f6b3a"/>
+    <rect x="118.5" y="112" width="13" height="10" fill="#c9cdd1" stroke="#555"/>
+    <text x="134" y="88" font-size="8">post + 32 in arm</text>
+    <text x="226" y="40" font-size="10" font-weight="bold">N</text>
+    <line x1="230" y1="58" x2="230" y2="44" stroke="#333" marker-end="url(#arr)"/>
+    <text x="0" y="171" font-size="9">D = post to bed centre line · arm = D + ~6 in</text>
+    <text x="0" y="183" font-size="9">beds assumed E–W; if N–S, recheck post shadows</text>
+  </g>
+</g>
+
+<!-- ===================== PANEL B ===================== -->
+<g transform="translate(860,62)">
+  <rect x="0" y="0" width="830" height="830" fill="#f4f6f8" stroke="#999"/>
+  <text x="12" y="22" font-size="15" font-weight="bold">(b) Camera box cutaway: QILIPSU 220×170×110 mm IP67 ABS, clear PC hinged lid [O ×2]: $22.99 ea</text>
+  <text x="40" y="42" font-size="10">Plan view looking up through the lid (2 px = 1 mm)</text>
+  <rect x="40" y="50" width="440" height="340" rx="12" fill="#c4c9ce" stroke="#6b7177" stroke-width="3"/>
+  <rect x="52" y="62" width="416" height="316" fill="#e6edf2"/>
+  <rect x="70" y="80" width="380" height="280" fill="url(#perf)" stroke="#bbb"/>
+
+  <!-- Pi 5 on M2.5 brass standoffs -->
+  <rect x="90" y="100" width="170" height="112" rx="6" fill="#2f8f46" stroke="#1d5e2c"/>
+  <text x="108" y="200" font-size="8" fill="#fff">Raspberry Pi 5 4 GB</text>
+  <rect x="150" y="115" width="80" height="70" fill="#c0c4c8" stroke="#888"/>
+  <line x1="156" y1="118" x2="156" y2="182" stroke="#999"/><line x1="164" y1="118" x2="164" y2="182" stroke="#999"/>
+  <line x1="216" y1="118" x2="216" y2="182" stroke="#999"/><line x1="224" y1="118" x2="224" y2="182" stroke="#999"/>
+  <circle cx="190" cy="150" r="24" fill="#222"/><circle cx="190" cy="150" r="6" fill="#555"/>
+  <g fill="#d4a017" stroke="#7a6320"><circle cx="97" cy="107" r="3.5"/><circle cx="213" cy="107" r="3.5"/><circle cx="97" cy="205" r="3.5"/><circle cx="213" cy="205" r="3.5"/></g>
+  <rect x="104" y="208" width="14" height="8" fill="#888"/>
+  <rect x="225" y="204" width="22" height="6" fill="#ddd" stroke="#888"/>
+  <rect x="82" y="140" width="12" height="24" fill="#fff" stroke="#888"/>
+
+  <!-- Hawkeye on printed bracket behind the window -->
+  <rect x="303" y="145" width="74" height="70" fill="#f5b041" fill-opacity="0.35" stroke="#d68910" stroke-dasharray="5 3"/>
+  <rect x="315" y="156" width="50" height="48" fill="#2f8f46" stroke="#1d5e2c"/>
+  <g fill="#555"><circle cx="319" cy="160" r="2.5"/><circle cx="361" cy="160" r="2.5"/><circle cx="319" cy="185" r="2.5"/><circle cx="361" cy="185" r="2.5"/></g>
+  <rect x="326" y="166" width="28" height="28" fill="#111"/><circle cx="340" cy="180" r="9" fill="#444"/><circle cx="340" cy="180" r="4" fill="#7fb3d5"/>
+  <!-- EVA gasket annulus, window hole, Hoya ring (outside lid) -->
+  <path d="M340,136 a44,44 0 1,0 0.01,0 z M340,145 a35,35 0 1,1 -0.01,0 z" fill="#111" fill-opacity="0.8" fill-rule="evenodd"/>
+  <circle cx="340" cy="180" r="35" fill="none" stroke="#000" stroke-width="1.5"/>
+  <circle cx="340" cy="180" r="55" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="6 4"/>
+  <!-- FPC 15-pin camera to 22-pin Pi -->
+  <path d="M340,156 C340,120 285,214 247,207" fill="none" stroke="#f39c12" stroke-width="6" stroke-opacity="0.9"/>
+
+  <!-- buck -->
+  <rect x="330" y="262" width="88" height="80" rx="4" fill="#151515"/>
+  <text x="336" y="296" font-size="8" fill="#fff">PlusRoc buck</text><text x="336" y="308" font-size="8" fill="#fff">12/24 V → 5 V 5 A</text>
+  <path d="M418,292 L468,300" stroke="#c0392b" stroke-width="2.5"/><path d="M418,300 L468,306" stroke="#111" stroke-width="2.5"/>
+  <path d="M330,282 C260,270 130,255 111,216" fill="none" stroke="#111" stroke-width="4"/>
+  <!-- RTC -->
+  <circle cx="110" cy="320" r="22" fill="#111"/><circle cx="110" cy="320" r="15" fill="#bbb"/><text x="96" y="323" font-size="7">CR2032</text>
+  <path d="M106,298 L124,214" stroke="#c0392b" stroke-width="1.5"/><path d="M112,298 L130,214" stroke="#111" stroke-width="1.5"/>
+  <!-- desiccant -->
+  <rect x="165" y="290" width="42" height="32" fill="#fff" stroke="#4db6ac"/><rect x="213" y="290" width="42" height="32" fill="#fff" stroke="#4db6ac"/>
+  <rect x="165" y="328" width="42" height="32" fill="#fff" stroke="#4db6ac"/><rect x="213" y="328" width="42" height="32" fill="#fff" stroke="#4db6ac"/>
+  <text x="176" y="310" font-size="8">5 g</text><text x="224" y="310" font-size="8">5 g</text><text x="176" y="348" font-size="8">5 g</text><text x="224" y="348" font-size="8">5 g</text>
+  <!-- glands and vent (side walls) -->
+  <polygon points="468,302 474,292 486,292 492,302 486,312 474,312" fill="#111"/>
+  <polygon points="470,240 475,232 485,232 490,240 485,248 475,248" fill="#111"/>
+  <polygon points="28,340 34,330 46,330 52,340 46,350 34,350" fill="#111" stroke="#ff7f27" stroke-width="2"/>
+
+  <!-- callout numbers -->
+  <use xlink:href="#cn" x="100" y="122"/><text x="97" y="126" font-size="10">1</text>
+  <use xlink:href="#cn" x="240" y="122"/><text x="237" y="126" font-size="10">2</text>
+  <use xlink:href="#cn" x="74" y="176"/><text x="71" y="180" font-size="10">3</text>
+  <use xlink:href="#cn" x="388" y="160"/><text x="385" y="164" font-size="10">4</text>
+  <use xlink:href="#cn" x="300" y="222"/><text x="297" y="226" font-size="10">5</text>
+  <use xlink:href="#cn" x="384" y="214"/><text x="381" y="218" font-size="10">6</text>
+  <use xlink:href="#cn" x="296" y="128"/><text x="293" y="132" font-size="10">7</text>
+  <use xlink:href="#cn" x="276" y="196"/><text x="273" y="200" font-size="10">8</text>
+  <use xlink:href="#cn" x="420" y="262"/><text x="417" y="266" font-size="10">9</text>
+  <use xlink:href="#cn" x="226" y="238"/><text x="220" y="242" font-size="9">10</text>
+  <use xlink:href="#cn" x="138" y="340"/><text x="132" y="344" font-size="9">11</text>
+  <use xlink:href="#cn" x="264" y="286"/><text x="258" y="290" font-size="9">12</text>
+  <use xlink:href="#cn" x="480" y="324"/><text x="474" y="328" font-size="9">13</text>
+  <use xlink:href="#cn" x="480" y="262"/><text x="474" y="266" font-size="9">14</text>
+  <use xlink:href="#cn" x="40" y="364"/><text x="34" y="368" font-size="9">15</text>
+  <use xlink:href="#cn" x="78" y="352"/><text x="72" y="356" font-size="9">16</text>
+
+  <g font-size="9.5">
+    <text x="497" y="62">1 Pi 5 4 GB on Csdtylh M2.5 brass standoffs [L2]</text>
+    <text x="507" y="75">iRasptek kit [O ×2] $151.99 ea; kit case unused</text>
+    <text x="497" y="90">2 Active Cooler (in kit)</text>
+    <text x="497" y="105">3 SanDisk High Endurance 512 GB [L2 ×2]: $129.99</text>
+    <text x="497" y="120">4 Arducam 64MP Hawkeye [L2 ×2]: $59.99 ea</text>
+    <text x="507" y="133">9152 × 6944 px, 72° × 54.6°, 25 × 24 mm board</text>
+    <text x="497" y="148">5 3D-printed bracket, PETG or ASA (not PLA)</text>
+    <text x="507" y="161">V1/V2 hole pattern, M2 screws + nuts, no standoffs</text>
+    <text x="507" y="174" fill="#c0392b">(!) verify hole size from the B0399 STEP</text>
+    <text x="497" y="189">6 1-3/8 in window hole (NEIKO #5) + black 2 mm EVA gasket</text>
+    <text x="497" y="204">7 Hoya 52 mm HMC UV filter, bonded OUTSIDE the lid</text>
+    <text x="507" y="217">with black Permatex 81158 [L2]; cure ~1 day, lid off</text>
+    <text x="497" y="232">8 FPC 15↔22-pin (confirm it ships with the Hawkeye)</text>
+    <text x="507" y="245">Wonrabai backup [L1]: match contact sides first</text>
+    <text x="497" y="260">9 PlusRoc 12/24 → 5 V 5 A USB-C buck [L1]: $15.99/2</text>
+    <text x="497" y="275">10 USB-C → Pi · usb_max_current_enable=1</text>
+    <text x="497" y="290">11 Awxlumv CR2032 holder → J5 [L1] + Energizer 2032</text>
+    <text x="507" y="303">never add dtparam=rtc_bbat_vchg</text>
+    <text x="497" y="318">12 4–6 × Vbeijll 5 g silica gel [L1]</text>
+    <text x="497" y="333">13 PG9 gland, 5/8 in hole: 16 AWG riser in [L1 Bates]</text>
+    <text x="497" y="348">14 PG7 gland, 1/2 in hole: spare</text>
+    <text x="497" y="363">15 WaigN M12×1.5 vent, 1/2 in, nut + O-ring incl. [L1]</text>
+    <text x="497" y="378">16 White perforated mounting plate (incl.)</text>
+    <text x="497" y="396" fill="#555">Dashed ring = Hoya + CAMKIX hood outside the lid</text>
+  </g>
+
+  <!-- side section -->
+  <text x="12" y="430" font-size="11" font-weight="bold">Side section as installed: lid faces DOWN, base bolted to the strut (1.4 px = 1 mm; strut not to scale)</text>
+  <rect x="60" y="446" width="420" height="40" fill="#b8bfc6" stroke="#6c757d"/>
+  <text x="70" y="470" font-size="9">Newhouse 1-5/8 in channel: spring nuts + 3/8"-16 × 15/16" bolts through the box wall brackets</text>
+  <rect x="100" y="486" width="18" height="8" fill="#888"/><rect x="410" y="486" width="18" height="8" fill="#888"/>
+  <line x1="109" y1="478" x2="109" y2="494" stroke="#333" stroke-width="2"/><line x1="419" y1="478" x2="419" y2="494" stroke="#333" stroke-width="2"/>
+  <!-- box walls -->
+  <rect x="110" y="494" width="308" height="154" fill="#c4c9ce" stroke="#6b7177" stroke-width="2"/>
+  <rect x="116" y="500" width="296" height="142" fill="#e6edf2"/>
+  <!-- foil tape outside top and sides -->
+  <line x1="110" y1="492" x2="418" y2="492" stroke="#d9d9d9" stroke-width="4"/>
+  <line x1="107" y1="494" x2="107" y2="620" stroke="#d9d9d9" stroke-width="4"/><line x1="421" y1="494" x2="421" y2="620" stroke="#d9d9d9" stroke-width="4"/>
+  <!-- plate, standoffs, Pi, cooler -->
+  <rect x="122" y="502" width="284" height="6" fill="#fff" stroke="#bbb"/>
+  <rect x="148" y="508" width="4" height="15" fill="#d4a017"/><rect x="250" y="508" width="4" height="15" fill="#d4a017"/>
+  <rect x="140" y="523" width="119" height="4" fill="#2f8f46"/>
+  <rect x="175" y="527" width="50" height="14" fill="#c0c4c8"/>
+  <!-- printed bracket: web from plate + shelf above the lid -->
+  <polygon points="346,508 356,508 356,640 290,640 290,634 346,634" fill="#f5b041" fill-opacity="0.6" stroke="#d68910"/>
+  <!-- Hawkeye board under shelf, lens toward the lid -->
+  <rect x="300" y="640" width="36" height="3" fill="#2f8f46"/>
+  <rect x="308" y="643" width="20" height="6" fill="#111"/>
+  <!-- EVA gasket -->
+  <rect x="290" y="644" width="16" height="3" fill="#000"/><rect x="330" y="644" width="16" height="3" fill="#000"/>
+  <!-- lid with 1-3/8 in hole -->
+  <line x1="110" y1="650" x2="293" y2="650" stroke="#5dade2" stroke-width="4"/><line x1="343" y1="650" x2="418" y2="650" stroke="#5dade2" stroke-width="4"/>
+  <!-- Hoya outside lid, hood below -->
+  <rect x="280" y="652" width="76" height="7" fill="#aed6f1" stroke="#111"/>
+  <polygon points="282,659 354,659 368,691 268,691" fill="#3a3a3a"/>
+  <polygon points="290,659 346,659 356,689 280,689" fill="#5a5a5a"/>
+  <line x1="318" y1="651" x2="283" y2="699" stroke="#e0a800" stroke-dasharray="4 3"/><line x1="318" y1="651" x2="353" y2="699" stroke="#e0a800" stroke-dasharray="4 3"/>
+  <!-- hood depth dimension -->
+  <line x1="380" y1="651" x2="380" y2="691" stroke="#333" marker-start="url(#arrS)" marker-end="url(#arr)"/>
+  <text x="386" y="675" font-size="9">≤ ~29 mm</text>
+  <!-- FPC -->
+  <path d="M300,641 C270,630 290,560 255,527" fill="none" stroke="#f39c12" stroke-width="3"/>
+  <!-- buck, desiccant, RTC -->
+  <rect x="362" y="540" width="40" height="26" fill="#151515"/>
+  <rect x="130" y="612" width="30" height="22" fill="#fff" stroke="#4db6ac"/>
+  <circle cx="200" cy="560" r="8" fill="#111"/>
+  <!-- gland + riser drip loop, vent -->
+  <polygon points="418,630 424,620 432,620 438,630 432,640 424,640" fill="#111"/>
+  <path d="M438,630 C470,638 470,672 455,688 C445,700 470,705 480,688" fill="none" stroke="#c0392b" stroke-width="2.5"/>
+  <polygon points="90,630 96,620 104,620 110,630 104,640 96,640" fill="#111" stroke="#ff7f27" stroke-width="2"/>
+  <g font-size="8.5">
+    <text x="122" y="548">Pi hangs on</text><text x="122" y="558">brass standoffs</text>
+    <text x="276" y="600">FPC</text>
+    <text x="140" y="664">vent, low on</text><text x="140" y="674">opposite wall</text>
+    <text x="440" y="616">PG9 + riser</text>
+  </g>
+  <g font-size="9">
+    <text x="497" y="520">Plate sits on the BASE (now on top), ~100 mm above the</text>
+    <text x="497" y="533">lid: the printed bracket drops the Hawkeye to just above</text>
+    <text x="497" y="546">the window; EVA gasket blocks light piping in the clear lid</text>
+    <text x="497" y="563">Hoya bonded outside, hood on its front threads</text>
+    <text x="497" y="576" fill="#c0392b">(!) confirm Hoya front threads, else glue the hood on</text>
+    <text x="497" y="593">Keep lens → hood rim ≤ ~29 mm incl. the filter ring,</text>
+    <text x="497" y="606">or corners vignette (diagonal half-angle ≈ 41.7°)</text>
+    <text x="497" y="623">Gland low on a side wall + drip loop; vent low on the</text>
+    <text x="497" y="636">opposite wall. All holes in side walls; base faces sky</text>
+    <text x="497" y="653">Rain-X on the Hoya glass (test on a lid offcut first)</text>
+    <text x="497" y="670">Active Cooler exhausts inside a sealed box: log</text>
+    <text x="497" y="683">vcgencmd measure_temp in full Florida sun</text>
+  </g>
+
+  <!-- software strip -->
+  <rect x="12" y="718" width="806" height="98" fill="#ffffff" stroke="#999"/>
+  <text x="22" y="736" font-size="11" font-weight="bold">Camera software (set up on the bench, in the lab with internet)</text>
+  <g font-size="9.5">
+    <text x="22" y="753">Arducam driver fork (not the stock driver) · /boot/firmware/config.txt: dtoverlay=arducam-64mp (add ,cam0 if on CAM0) · usb_max_current_enable=1</text>
+    <text x="22" y="768">EEPROM: POWER_OFF_ON_HALT=1 · pin the kernel + libcamera packages · clone the configured card to a backup card</text>
+    <text x="22" y="783">Run one autofocus at the crown distance (~1.27 m), then lock focus so it never hunts between frames</text>
+    <text x="22" y="798" fill="#c0392b">(!) Arducam forum has Pi 5 probe-failure reports: bench-test detection and one full-resolution frame before anything goes outside</text>
+  </g>
+</g>
+
+<!-- ===================== PANEL C ===================== -->
+<g transform="translate(10,907)">
+  <rect x="0" y="0" width="830" height="510" fill="#f7f3ee" stroke="#999"/>
+  <text x="12" y="22" font-size="15" font-weight="bold">(c) Battery box cutaway: Attwood 9067-1 vented Group 27 box + strap [O ×2]: $26.00 ea (1 in = 22 px)</text>
+  <text x="12" y="40" font-size="10">outside 16-7/8 × 9-5/8 × 10-7/8 in · inside ≈ 13-7/8 × 7-1/4 × 10-1/2 in · four 0.55 in cable openings</text>
+  <rect x="40" y="80" width="371" height="239" rx="6" fill="#1b1b1b"/>
+  <rect x="73" y="92" width="305" height="222" fill="#3a3a3a"/>
+  <line x1="36" y1="78" x2="415" y2="78" stroke="#222" stroke-width="6"/>
+  <rect x="80" y="165" width="169" height="149" fill="#e9ecef" stroke="#9aa"/>
+  <rect x="90" y="215" width="149" height="50" fill="#2bb3a3"/>
+  <text x="97" y="236" font-size="10" fill="#fff" font-weight="bold">Redodo 12.8V 50AH</text>
+  <text x="97" y="252" font-size="9" fill="#fff">LiFePO4 · 640 Wh · IP65</text>
+  <rect x="104" y="156" width="16" height="9" fill="#c0392b"/><rect x="214" y="156" width="16" height="9" fill="#222"/>
+  <circle cx="112" cy="156" r="4" fill="none" stroke="#f1c40f" stroke-width="2"/><circle cx="222" cy="156" r="4" fill="none" stroke="#3498db" stroke-width="2"/>
+  <path d="M112,152 C112,120 200,118 260,118" fill="none" stroke="#c0392b" stroke-width="3"/>
+  <rect x="260" y="110" width="40" height="16" rx="3" fill="#111"/><rect x="273" y="103" width="14" height="8" fill="#e67e22"/>
+  <path d="M300,118 L330,118 L330,200" fill="none" stroke="#c0392b" stroke-width="3"/>
+  <path d="M222,152 L222,148 L280,148 L280,236 L290,236" fill="none" stroke="#000" stroke-width="3"/>
+  <rect x="290" y="200" width="78" height="43" rx="3" fill="#111"/>
+  <rect x="296" y="206" width="66" height="31" fill="#4aa3df"/>
+  <text x="299" y="218" font-size="7" fill="#fff">12.9V  0.40A</text><text x="299" y="231" font-size="7" fill="#fff">5.1W  58Wh</text>
+  <path d="M368,212 L395,212 L395,90" fill="none" stroke="#c0392b" stroke-width="3"/>
+  <path d="M368,226 L401,226 L401,90" fill="none" stroke="#000" stroke-width="3"/>
+  <text x="250" y="68" font-size="9">16 AWG XHF pair → post riser (0.55 in opening)</text>
+  <g font-size="8.5" fill="#fff">
+    <text x="128" y="140">5 A</text>
+    <text x="300" y="196">DROK 20 A</text>
+  </g>
+  <text x="82" y="190" font-size="8.5">5/16 in rings on M8 bolts</text>
+  <g font-size="10">
+    <text x="12" y="345">[O ×2] Redodo 12 V 50 Ah LiFePO4, 640 Wh, 50 A BMS: $185.99 ea · M8 terminal bolts (14 mm), insulating caps included</text>
+    <text x="12" y="360" fill="#c0392b">(!) confirm the Redodo total is 2, not 3, given an earlier order</text>
+    <text x="12" y="375">[L1] Anyongora 12 AWG waterproof inline ATC fuse holder: $7.99/4 · 5 A blade near battery + (load ≈ 0.4 A)</text>
+    <text x="12" y="390">[O ×2] DROK 8–100 V 20 A meter, built-in shunt: $16.99 ea · after the fuse; wire it per its own diagram</text>
+    <text x="12" y="405" fill="#c0392b">(!) DROK location still open: build plan + this diagram = battery box; earlier handoff = camera box, LCD facing the lid.</text>
+    <text x="12" y="418" fill="#c0392b">     Also check its temperature rating and whether the Wh count survives a power loss.</text>
+    <text x="12" y="433">[L2] Kuject 260 pc: 5/16 in rings (yellow = 12 AWG fuse leads, blue = 16 AWG riser), heat-shrink butt splices: $17.99</text>
+    <text x="12" y="448">[L2] XHF 16 AWG 2-conductor 30 ft: $19.99 · riser ≈ 12 ft per station (2.5 ft to post + 5.5 ft up + 3 ft arm + loop),</text>
+    <text x="12" y="461">     so one spool should cover both (estimate; check whether lever connectors come with it)</text>
+    <text x="12" y="478">Fit check: 6.2 in spare length beside the battery for fuse + meter; 3.7 in headroom above terminals</text>
+    <text x="12" y="493">DROK screen values above are illustrative of the daylight-only budget, not measurements</text>
+  </g>
+  <rect x="460" y="60" width="355" height="160" fill="none" stroke="#555" stroke-dasharray="6 4"/>
+  <text x="470" y="78" font-size="11" font-weight="bold">LAB ONLY (not in field)</text>
+  <rect x="480" y="92" width="110" height="60" rx="5" fill="#111"/><text x="497" y="127" font-size="12" fill="#fff" font-weight="bold">14.6V 10A</text>
+  <path d="M590,110 C620,105 630,125 650,123" stroke="#c0392b" stroke-width="3" fill="none"/><rect x="650" y="117" width="18" height="10" fill="#c0392b"/>
+  <path d="M590,135 C620,140 630,155 650,153" stroke="#111" stroke-width="3" fill="none"/><rect x="650" y="147" width="18" height="10" fill="#111"/>
+  <text x="690" y="115" font-size="9">≈ 5 h bulk + taper</text><text x="690" y="128" font-size="9">≈ 6 h empty → full</text>
+  <text x="470" y="172" font-size="9">[L1] BROODAY 14.6 V 10 A LiFePO4 charger: $19.99 (both batteries)</text>
+  <text x="470" y="186" font-size="9">[TB] official Pi 5 27 W USB-C supply · microSD reader · multimeter</text>
+  <text x="470" y="200" font-size="9">[TB] 12 V 5 A bench adapter (optional) · charge both batteries fully,</text>
+  <text x="470" y="213" font-size="9">then run the 24 h DROK bench log</text>
+  <rect x="460" y="232" width="355" height="96" fill="none" stroke="#555" stroke-dasharray="6 4"/>
+  <text x="470" y="250" font-size="11" font-weight="bold">TOOLS (one-time, shared by both stations)</text>
+  <polygon points="475,262 475,292 512,280 512,274" fill="#d4a017"/>
+  <g font-size="9">
+    <text x="522" y="268">[L2] NEIKO 10194A #5 step bit 1/4–1-3/8 in: $14.49</text>
+    <text x="522" y="281">covers 1/2, 5/8, 3/4 and 1-3/8 in → drop the #4</text>
+    <text x="470" y="302">[L2] VEVOR 2.7 in 14 lb post driver: $32.90 · drill: borrow</text>
+    <text x="470" y="315">[TB] hacksaw or bolt cutter · crimper, heat gun, stripper</text>
+  </g>
+</g>
+
+<!-- ===================== PANEL D ===================== -->
+<g transform="translate(860,907)">
+  <rect x="0" y="0" width="830" height="510" fill="#f5f8f5" stroke="#999"/>
+  <text x="12" y="22" font-size="15" font-weight="bold">(d) Power and data flow, daily schedule, energy and storage (per station)</text>
+  <g font-size="9">
+    <rect x="10" y="40" width="105" height="62" rx="6" fill="#e8f6f3" stroke="#2bb3a3"/><text x="16" y="60">Redodo LiFePO4</text><text x="16" y="74">12.8 V nominal</text><text x="16" y="88">640 Wh / 50 Ah</text>
+    <rect x="130" y="40" width="80" height="62" rx="6" fill="#fff3e0" stroke="#e67e22"/><text x="136" y="60">Inline ATC</text><text x="136" y="74">fuse 5 A</text><text x="136" y="88">near +</text>
+    <rect x="225" y="40" width="95" height="62" rx="6" fill="#e3f2fd" stroke="#4aa3df"/><text x="231" y="60">DROK meter</text><text x="231" y="74">V · A · W · Wh</text><text x="231" y="88">≈ 0.4 A avg (est.)</text>
+    <rect x="335" y="40" width="95" height="62" rx="6" fill="#fdecea" stroke="#c0392b"/><text x="341" y="60">16 AWG pair</text><text x="341" y="74">up the T-post</text><text x="341" y="88">UV ties ~1/ft</text>
+    <rect x="445" y="40" width="60" height="62" rx="6" fill="#eee" stroke="#555"/><text x="451" y="68">PG9</text><text x="451" y="82">gland</text>
+    <rect x="520" y="40" width="110" height="62" rx="6" fill="#ddd" stroke="#111"/><text x="526" y="60">PlusRoc buck</text><text x="526" y="74">8–35 V → 5.0 V</text><text x="526" y="88">5 A max · IP68</text>
+    <rect x="645" y="40" width="175" height="62" rx="6" fill="#e8f5e9" stroke="#2f8f46"/><text x="651" y="60">Raspberry Pi 5 4 GB</text><text x="651" y="74">USB-C 5 V, ≈ 0.8–0.9 A avg</text><text x="651" y="88">usb_max_current_enable=1</text>
+  </g>
+  <g stroke="#c0392b" stroke-width="2.5" marker-end="url(#arrR)">
+    <line x1="115" y1="71" x2="128" y2="71"/><line x1="210" y1="71" x2="223" y2="71"/><line x1="320" y1="71" x2="333" y2="71"/>
+    <line x1="430" y1="71" x2="443" y2="71"/><line x1="505" y1="71" x2="518" y2="71"/><line x1="630" y1="71" x2="643" y2="71"/>
+  </g>
+  <text x="12" y="120" font-size="9" fill="#c0392b">battery box ← 12–13.4 V → camera box · 5.0 V over USB-C inside the camera box</text>
+  <g font-size="9">
+    <rect x="200" y="140" width="150" height="56" rx="6" fill="#e8f5e9" stroke="#2f8f46"/><text x="206" y="158">Arducam 64MP Hawkeye</text><text x="206" y="171">CSI-2 via 15↔22-pin FPC</text><text x="206" y="184">9152 × 6944 JPEG, focus locked</text>
+    <rect x="365" y="140" width="110" height="56" rx="6" fill="#fff" stroke="#888"/><text x="371" y="158">microSD 512 GB</text><text x="371" y="171">JPEG + log</text><text x="371" y="184">≈ 7–17 GB/day</text>
+    <rect x="490" y="140" width="125" height="56" rx="6" fill="#f0f0f0" stroke="#111"/><text x="496" y="158">RTC (PMIC)</text><text x="496" y="171">J5 ← CR2032</text><text x="496" y="184">wake alarm, file names</text>
+    <rect x="630" y="140" width="190" height="56" rx="6" fill="#fff" stroke="#888" stroke-dasharray="5 3"/><text x="636" y="158">Offload (no Wi-Fi or internet):</text><text x="636" y="171">wired Ethernet to a laptop,</text><text x="636" y="184">or swap the card at battery swap</text>
+  </g>
+  <g stroke="#1f6feb" stroke-width="2" marker-end="url(#arrB)">
+    <line x1="670" y1="102" x2="290" y2="138"/><line x1="700" y1="102" x2="420" y2="138"/><line x1="730" y1="102" x2="552" y2="138"/><line x1="770" y1="102" x2="725" y2="138"/>
+  </g>
+
+  <!-- daily schedule bar: 800 px = 24 h -->
+  <text x="12" y="226" font-size="10" font-weight="bold">DAILY SCHEDULE · Nov 1, 2026 (EST; DST ended today) · sunrise 6:40, sunset 5:46 PM</text>
+  <rect x="12" y="236" width="205.6" height="24" fill="#cfd4d8"/>
+  <rect x="217.6" y="236" width="386.6" height="24" fill="#ffd54f"/>
+  <rect x="604.2" y="236" width="207.8" height="24" fill="#cfd4d8"/>
+  <rect x="12" y="236" width="800" height="24" fill="none" stroke="#555"/>
+  <text x="40" y="252" font-size="9">halted, ≈ 3 mA standby</text>
+  <text x="300" y="252" font-size="9" font-weight="bold">capture 1 frame/min ≈ 700 frames</text>
+  <text x="630" y="252" font-size="9">halted (POWER_OFF_ON_HALT=1)</text>
+  <line x1="234.2" y1="230" x2="234.2" y2="266" stroke="#e67e22" stroke-width="2"/>
+  <line x1="604.2" y1="230" x2="604.2" y2="266" stroke="#e67e22" stroke-width="2"/>
+  <g font-size="8.5" fill="#555">
+    <text x="12" y="276">0:00</text><text x="112" y="276">3:00</text><text x="212" y="276">6:00</text><text x="312" y="276">9:00</text><text x="406" y="276">12:00</text>
+    <text x="506" y="276">15:00</text><text x="606" y="276">18:00</text><text x="706" y="276">21:00</text><text x="788" y="276">24:00</text>
+  </g>
+  <g font-size="9">
+    <text x="150" y="292">6:10 RTC alarm wakes the Pi (sunrise − 30 min)</text>
+    <text x="470" y="292">5:46 PM sunset: set tomorrow's alarm, halt</text>
+  </g>
+
+  <g font-size="10">
+    <text x="12" y="322" font-weight="bold">ENERGY (estimates; verify with a 24 h DROK log)</text>
+    <text x="12" y="338">Pi 5 + fan ≈ 3.0 W + 64MP capture/encode ≈ 1.0–1.5 W</text>
+    <text x="12" y="353">= 4.0–4.5 W at 5 V ÷ ~0.9 buck ≈ 4.5–5 W at 12 V</text>
+    <text x="12" y="368" font-weight="bold">Daylight only: ≈ 55–65 Wh/day → ≈ 10 days per 640 Wh</text>
+    <text x="12" y="383">24/7: ≈ 110–120 Wh/day → ≈ 5–6 days</text>
+    <text x="12" y="398">Swap or recharge within 7 days; sooner if the DROK</text>
+    <text x="12" y="413">reads more than ~80 Wh/day</text>
+    <text x="12" y="428" fill="#c0392b">(!) without POWER_OFF_ON_HALT=1 a "halted" Pi 5 drew 1.7 W</text>
+
+    <text x="420" y="322" font-weight="bold">STORAGE AND FILES</text>
+    <text x="420" y="338">≈ 700 frames/day × 10–25 MB (est.) ≈ 7–17 GB/day</text>
+    <text x="420" y="353">512 GB card ≈ 4–10 weeks; measure file size on day 1</text>
+    <text x="420" y="368">Copy or swap the card at each battery swap</text>
+    <text x="420" y="383">Files named by the Pi's RTC clock; compute sunrise</text>
+    <text x="420" y="398">in code (e.g. astral), not fixed times</text>
+    <text x="420" y="413">Tip: keep the RTC and file names in UTC so DST</text>
+    <text x="420" y="428">changes can't duplicate or skip an hour of names</text>
+  </g>
+  <rect x="12" y="444" width="806" height="54" fill="#ffffff" stroke="#999"/>
+  <g font-size="9.5">
+    <text x="22" y="461" font-weight="bold">capture.py still needs the rewrite (untested on hardware):</text>
+    <text x="22" y="476">9152 × 6944 JPEG at 1 frame/min · sunrise wake via /sys/class/rtc/rtc0/wakealarm · halt at dusk · RTC-stamped names</text>
+    <text x="22" y="490">Bench test Tue Nov 3 needs: Pi 5, Hawkeye, card, buck, DROK and a charged battery</text>
+  </g>
+</g>
+
+<!-- ===================== LEGEND ===================== -->
+<g transform="translate(10,1432)" font-size="10">
+  <rect x="0" y="0" width="1680" height="470" fill="#ffffff" stroke="#999"/>
+  <text x="12" y="24" font-size="15" font-weight="bold">Parts legend for two identical stations (quantity for both; price each, or per pack with /n = pack of n; list prices, order prices not verified)</text>
+
+  <text x="12" y="50" font-weight="bold">CAMERA BOX (on the strut, ×2)</text>
+  <text x="12" y="66">[O] iRasptek Pi 5 4 GB kit + Active Cooler ×2: $151.99</text>
+  <text x="12" y="81">[L2] Arducam 64MP Hawkeye (no case) ×2: $59.99</text>
+  <text x="12" y="96">[L2] SanDisk High Endurance 512 GB ×2: $129.99</text>
+  <text x="12" y="111">[L2] Hoya 52 mm HMC UV filter ×2: $20.99</text>
+  <text x="12" y="126">[L1] CAMKIX 52 mm hood /2: $8.99 · PlusRoc buck /2: $15.99</text>
+  <text x="12" y="141">[L1] CR2032 holder /2: $7.99 · Energizer 2032 /4: $6.59</text>
+  <text x="12" y="156">[O] QILIPSU 8.6×6.7×4.3 in box ×2: $22.99</text>
+  <text x="12" y="171">[L1] Bates glands /50: $13.99 · WaigN vent /2: $5.88</text>
+  <text x="12" y="186">[L1] Vbeijll silica gel /50: $9.95 · Rain-X: $9.23</text>
+  <text x="12" y="201">[L2] Permatex 81158: $5.88 · MEARCOOH EVA 2 mm: $8.96</text>
+  <text x="12" y="216">[L2] Nashua 322 foil tape 48 mm × 9 m: $6.99</text>
+  <text x="12" y="231">[L2] Csdtylh M2.5 brass /280: $14.98 · M2 kit /330: $10.48</text>
+  <text x="12" y="246" fill="#c0392b">(!) the M2 kit's screws are 5 mm; M2×8 may be needed</text>
+  <text x="12" y="261">[TB] PETG or ASA filament for the camera bracket</text>
+  <text x="12" y="276" fill="#666">[L1] Wonrabai 15↔22 FPC /2, backup only: $9.59</text>
+  <text x="12" y="296" font-weight="bold">Subtotal, both stations: $897.80</text>
+
+  <text x="352" y="50" font-weight="bold">BATTERY BOX AND POWER (on the ground, ×2)</text>
+  <text x="352" y="66">[O] Redodo 12 V 50 Ah LiFePO4 ×2: $185.99</text>
+  <text x="352" y="81">[O] Attwood 9067-1 Group 27 box ×2: $26.00</text>
+  <text x="352" y="96">[O] DROK 20 A power/energy meter ×2: $16.99</text>
+  <text x="352" y="111">[L1] Anyongora inline ATC fuse holders /4: $7.99</text>
+  <text x="352" y="126">[L2] XHF 16 AWG 2-conductor 30 ft: $19.99</text>
+  <text x="352" y="141">[L2] Kuject 260 pc crimp + heat-shrink kit: $17.99</text>
+  <text x="352" y="161" font-weight="bold">Subtotal, both stations: $503.93</text>
+  <text x="352" y="191" font-weight="bold">LAB ONLY</text>
+  <text x="352" y="207">[L1] BROODAY 14.6 V 10 A charger: $19.99</text>
+  <text x="352" y="222">[TB] Pi 5 27 W USB-C supply · microSD reader</text>
+  <text x="352" y="237">[TB] multimeter · crimper, heat gun, stripper</text>
+  <text x="352" y="252">(if the lab lacks them) · 12 V 5 A adapter (opt.)</text>
+
+  <text x="692" y="50" font-weight="bold">MOUNT AND GUY LINES (×2)</text>
+  <text x="692" y="66">[HD] 96 in (8 ft) studded T-post ×2: price at store</text>
+  <text x="692" y="81">[L2] Newhouse 1-5/8 in 12 ga strut, 4 ft ×2: $34.93</text>
+  <text x="692" y="96">[L2] Newhouse strut-to-beam clamp /2, ×2: $15.16</text>
+  <text x="692" y="111">[L2] GZBEVITAR spring nut + bolt /32: $33.99</text>
+  <text x="692" y="126">[L2] phepetroll 1/8 in wire kit, 236 ft: $37.77</text>
+  <text x="692" y="141">[L2] PHITUODA M5 turnbuckles /5: $7.99</text>
+  <text x="692" y="156">[L2] Layboks 1/8 in wire clamps /20: $7.49</text>
+  <text x="692" y="171" fill="#666">→ 10 turnbuckles + 32 clamps vs. 6 + 24 needed</text>
+  <text x="692" y="186">[L2] Besitu rebar 36 × 3/8 in /16: $69.99 (6 needed;</text>
+  <text x="692" y="201">Home Depot rebar may be cheaper, not checked)</text>
+  <text x="692" y="216">[TB] ~16 UV black zip ties · hacksaw or bolt cutter</text>
+  <text x="692" y="231" fill="#666">[L1] Tanglefoot kit, optional: $25.89</text>
+  <text x="692" y="251" font-weight="bold">Subtotal, priced parts: $257.41 + posts</text>
+  <text x="692" y="266" fill="#666">kit's tent stakes (~6 in) too short for sand; kit's</text>
+  <text x="692" y="281" fill="#666">aluminum sleeves need a swager → use the clamps</text>
+
+  <text x="1032" y="50" font-weight="bold">TOOLS (once)</text>
+  <text x="1032" y="66">[L2] NEIKO #5 step bit: $14.49 · VEVOR driver: $32.90</text>
+  <text x="1032" y="81">drill: borrow one</text>
+  <text x="1032" y="106" font-weight="bold">REMOVE FROM LISTS / DON'T BUY</text>
+  <text x="1032" y="122">Arducam CM3 $36.00 · SanDisk 128 GB $36.99</text>
+  <text x="1032" y="137">scraper kit $15.99 · hairspray $9.97 · Duck tape</text>
+  <text x="1032" y="152">NEIKO #4 $8.99 (#5 covers every hole size)</text>
+  <text x="1032" y="167">Milwaukee drill $180.00 if one can be borrowed</text>
+  <text x="1032" y="192" font-weight="bold">DEFERRED (not drawn)</text>
+  <text x="1032" y="208">Reolink RLC-811A + PoE injector, relay, junction</text>
+  <text x="1032" y="223">box, 100 Ah Redodo, 100 W solar · Lepton 3.5</text>
+  <text x="1032" y="238">thermal · hyperspectral</text>
+  <text x="1032" y="263" font-weight="bold">COST, BOTH STATIONS (list prices, before tax)</text>
+  <text x="1032" y="279">Field parts priced: $1,659.14 (≈ $829.57 each)</text>
+  <text x="1032" y="294">+ charger $19.99 + tools $47.39 = $1,726.52</text>
+  <text x="1032" y="309">+ optional Tanglefoot, Wonrabai: $1,762.00</text>
+  <text x="1032" y="324" fill="#666">not yet priced: 2 T-posts, zip ties, filament</text>
+
+  <text x="1372" y="50" font-weight="bold" fill="#c0392b">(!) CHECK BEFORE / ON ARRIVAL</text>
+  <text x="1372" y="66">1. What arrives by Tue Nov 3 (most show Thu Nov 5)</text>
+  <text x="1372" y="81">2. iRasptek seller and dates; Redodo count = 2</text>
+  <text x="1372" y="96">3. Clamp U-bolt vs. post flange: test at pickup;</text>
+  <text x="1384" y="110">fallback = wider 3/8"-16 U-bolts through slots</text>
+  <text x="1372" y="125">4. Post corner width vs. the 2.7 in driver</text>
+  <text x="1372" y="140">5. Hawkeye holes + lens clearance (B0399 STEP)</text>
+  <text x="1372" y="155">6. Pi 5 cable in the Hawkeye box? match the</text>
+  <text x="1384" y="169">Wonrabai contact side (3.3 V short risk)</text>
+  <text x="1372" y="184">7. Hoya front threads for the hood</text>
+  <text x="1372" y="199">8. Kuject 5/16 in rings; lever nuts with XHF?</text>
+  <text x="1372" y="214">9. Spring-nut bolts (15/16 in) vs. box brackets</text>
+  <text x="1372" y="229">10. DROK: temp rating, Wh memory, which box</text>
+  <text x="1372" y="244">11. Tax: UF Amazon Business route; ask fiscal</text>
+  <text x="1384" y="258">office about the Home Depot purchase</text>
+  <text x="1372" y="273">12. Build-plan doc: keep list quantities at 2</text>
+
+  <line x1="12" y1="342" x2="1668" y2="342" stroke="#ccc"/>
+  <text x="12" y="362" font-size="13" font-weight="bold">Geometry reference (lens = post top − 151 mm; crowns on a 10 in bed; Hawkeye 72° × 54.6°, 9152 × 6944 px; long axis along the row)</text>
+  <text x="12" y="381"><tspan font-weight="bold">8 ft driven 2.5 ft (chosen):</tspan> top 5.5 ft, lens 5.0 ft, 1.27 m to crowns → 1.85 × 1.31 m, 0.20 mm/px · 4-plant block (30–32 in at 18 in canopies) keeps ≈ 10 in margin each side</text>
+  <text x="12" y="399">8 ft driven 2 ft: top 6.0 ft, lens 5.5 ft, 1.42 m → 2.06 × 1.47 m, 0.23 mm/px · 7 ft driven 2 ft: lens 4.5 ft, 1.12 m → 1.63 × 1.16 m, 0.18 mm/px · 6-1/2 ft driven 2 ft: lens 4.0 ft, 0.97 m → 1.41 × 1.00 m, 0.15 mm/px</text>
+  <text x="12" y="417">Arm: cut the 4 ft strut to D + ~6 in after measuring D (post to bed centre line) on site; the bed photo estimate (≈ 30 in bed, 26–35 in) gives an arm of ≈ 25–35 in.</text>
+  <text x="12" y="435">Holes (NEIKO #5): PG7 → 1/2 in · PG9 → 5/8 in · PG11 → 3/4 in · M12 vent → 1/2 in · camera window → 1-3/8 in. Glands and vent in side walls only; the base faces the sky.</text>
+  <text x="12" y="453">Energy and storage figures are estimates from published Pi 5 measurements plus a camera allowance; replace them with the 24 h DROK log and the day-1 file size.</text>
+</g>
+</svg>
